@@ -1,0 +1,954 @@
+{
+  "tenantId": "pb.sujanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sujanpur",
+        "localname": "Sujanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.sujanpur",
+        "children": [
+          {
+            "id": "ba9c507f-a3f8-441d-87e0-0c1663c8b074",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9cb0e62b-9515-4e3c-bcc4-ac410d06c960",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1A",
+                "children": [
+                  {
+                    "id": "fad484ba-6e59-40c7-acc6-dd7f151ad027",
+                    "boundaryNum": 1,
+                    "name": "GUGRAN NH-1 TO FIROZPUR KALAN ROAD PULL NO 3",
+                    "localname": "GUGRAN NH-1 TO FIROZPUR KALAN ROAD PULL NO 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75971d30-204b-47d9-afa0-a8bfa69f54ea",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "5b570a18-7010-44b3-a059-6ae3b8cc1ba4",
+                    "boundaryNum": 1,
+                    "name": "PULL NO 3 TO SOULI BHOLI ROAD NH-1",
+                    "localname": "PULL NO 3 TO SOULI BHOLI ROAD NH-1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f021ee4-c5f9-4565-9145-677e44d3e2ed",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "5bf270c0-4549-42b3-b356-1e500fdd0c8a",
+                    "boundaryNum": 1,
+                    "name": "SOLI BHOLI THANDI KHUYI",
+                    "localname": "SOLI BHOLI THANDI KHUYI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57bedc18-a7f0-4c9c-b052-0a12d5e3eff8",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "d196b470-4927-4834-b658-4f970b23ece6",
+                    "boundaryNum": 1,
+                    "name": "JAMMU KALIYARI ROAD",
+                    "localname": "JAMMU KALIYARI ROAD",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "df413da2-d54c-4831-bf21-d0351249a327",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "26766c3d-4aa7-419d-8b13-ec97e1ed429e",
+                    "boundaryNum": 1,
+                    "name": "OPP OBC BANK , TEMPO STAND ARUN NAGAR",
+                    "localname": "OPP OBC BANK , TEMPO STAND ARUN NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2fbfc52d-4a04-4a8e-88dc-abecbba9ce4b",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "58c519db-e9c5-4ae7-ba67-0a089195446a",
+                    "boundaryNum": 1,
+                    "name": "SHAHEED BHAGAT SINGH NAGAR",
+                    "localname": "SHAHEED BHAGAT SINGH NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1afb38d5-8c64-436a-89e6-ebfba3e34b8b",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9A",
+                "children": [
+                  {
+                    "id": "d30fe883-4946-4b1a-b1dc-e8010a2009b2",
+                    "boundaryNum": 1,
+                    "name": "CAINAL ROAD , ADARSH COLONY , KATHUYI BAZZAR, KASHMIRI MOHALLA, MOHALLA VISHKARMA CHOWNK MAIN BAZZAR",
+                    "localname": "CAINAL ROAD , ADARSH COLONY , KATHUYI BAZZAR, KASHMIRI MOHALLA, MOHALLA VISHKARMA CHOWNK MAIN BAZZAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "833e40d0-ef6d-45f3-b1f6-67340c3945ad",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10A",
+                "children": [
+                  {
+                    "id": "49c0d2bd-5c25-455d-ae9a-3cde65b5e7eb",
+                    "boundaryNum": 1,
+                    "name": "CAINAL ROAD , ADARSH COLONY,MOHALLA GHUMIARAN,KASHMIRI MOHALLA",
+                    "localname": "CAINAL ROAD , ADARSH COLONY,MOHALLA GHUMIARAN,KASHMIRI MOHALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72095874-d271-413b-84df-e50a1ef1ae91",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11A",
+                "children": [
+                  {
+                    "id": "b83505da-761e-4f1a-97db-10035c27e9c3",
+                    "boundaryNum": 1,
+                    "name": "KABIR NAGAR, RAM SHARNAM,MOHALLA SHEIKHAN, MOHALLA SALARIA, RAILWAY ROAD , JALAKADI MOHALLA",
+                    "localname": "KABIR NAGAR, RAM SHARNAM,MOHALLA SHEIKHAN, MOHALLA SALARIA, RAILWAY ROAD , JALAKADI MOHALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "196263cb-daf4-4a1b-923b-e9ba0ace880c",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12A",
+                "children": [
+                  {
+                    "id": "c4b0881b-687c-47f3-88e7-ca21a6bc28cd",
+                    "boundaryNum": 1,
+                    "name": "SHAHPURI GATE, IDGAH MOHALLA, PULL NO 4 GREEN AVENEW COLONY, PREM NAGAR",
+                    "localname": "SHAHPURI GATE, IDGAH MOHALLA, PULL NO 4 GREEN AVENEW COLONY, PREM NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0154ef3c-176c-49ef-bf74-8c7aeee0689e",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "b466a191-336b-4cb5-bde1-21e0b8fbea44",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1B",
+                "children": [
+                  {
+                    "id": "be4e2f8f-374d-459d-96ec-69d1a53755ca",
+                    "boundaryNum": 1,
+                    "name": "GUGRAN ABHADI",
+                    "localname": "GUGRAN ABHADI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51903b0b-14e7-49aa-ae90-1a960f1549e8",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2B",
+                "children": [
+                  {
+                    "id": "60f56494-13aa-4028-9181-1655f68384d3",
+                    "boundaryNum": 1,
+                    "name": "CHOTTA BHANWAL",
+                    "localname": "CHOTTA BHANWAL",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90b5fc01-dc21-4bdc-8315-da53b1a8f715",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "c1d5134f-de08-4517-a724-93d6682221e0",
+                    "boundaryNum": 1,
+                    "name": "KAILASHPUR,CHOTTA BHANWAL, SHIV MANDIR",
+                    "localname": "KAILASHPUR,CHOTTA BHANWAL, SHIV MANDIR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c08d51a-9d92-41c0-9968-ab00721453bf",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "819e9f26-c592-407b-abf8-caad63d0ed8c",
+                    "boundaryNum": 1,
+                    "name": "KALA CHAK, FALAKPUR",
+                    "localname": "KALA CHAK, FALAKPUR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5430c64c-64d8-44a7-ba04-1203fd114626",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9B",
+                "children": [
+                  {
+                    "id": "e7508ad2-2371-45f3-9db4-c4f05c32a930",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA KASHMIRI , MOHALLA VISHKARMA",
+                    "localname": "MOHALLA KASHMIRI , MOHALLA VISHKARMA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12d0c821-2ff7-4383-af60-9dae555403b8",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10B",
+                "children": [
+                  {
+                    "id": "2864e54f-13d9-4837-99a9-ad33da32aea0",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA GHUMIARAN, MISTRIAN MOHALLA , KILLA MOHALLA",
+                    "localname": "MOHALLA GHUMIARAN, MISTRIAN MOHALLA , KILLA MOHALLA",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ec8ec11a-00f5-4919-b236-a77c96a03a36",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11B",
+                "children": [
+                  {
+                    "id": "bbb85a92-ad80-4b99-9987-4a5268de86a0",
+                    "boundaryNum": 1,
+                    "name": "KABIR NAGAR, RAM SHARAN MOHALLA , MOHALLA SALARIA, MOHALLA JALAKADI",
+                    "localname": "KABIR NAGAR, RAM SHARAN MOHALLA , MOHALLA SALARIA, MOHALLA JALAKADI",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cb783611-fbad-4a07-b0f1-6018eba81ad8",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12B",
+                "children": [
+                  {
+                    "id": "0411b4b8-3616-4efa-a6da-4aa32eab3251",
+                    "boundaryNum": 1,
+                    "name": "SHAHPURI GATE, IDGAH MOHALLA,PULL NO 4 , GREEN AVENEW COLONY, PREM NAGAR",
+                    "localname": "SHAHPURI GATE, IDGAH MOHALLA,PULL NO 4 , GREEN AVENEW COLONY, PREM NAGAR",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sujanpur",
+        "localname": "Sujanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.sujanpur",
+        "children": [
+          {
+            "id": "326a8c44-a142-49d5-8b22-3c8cd9c8c3fe",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f7600998-aa8c-448c-9c54-4a0594a3079d",
+                "boundaryNum": 1,
+                "name": "Block 1A",
+                "localname": "Block 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1A",
+                "children": [
+                  {
+                    "id": "d176d257-a96d-4d41-9e9b-b5340823899a",
+                    "boundaryNum": 1,
+                    "name": "GUGRAN NH-1 TO FIROZPUR KALAN ROAD PULL NO 3 - B1A - A1",
+                    "localname": "GUGRAN NH-1 TO FIROZPUR KALAN ROAD PULL NO 3 - B1A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a6f093f-e74c-4bde-a475-e040b95b3aea",
+                "boundaryNum": 1,
+                "name": "Block 2A",
+                "localname": "Block 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "942b04f1-b760-4f07-92c3-59626e2416ec",
+                    "boundaryNum": 1,
+                    "name": "PULL NO 3 TO SOULI BHOLI ROAD NH-1 - B2A - A1",
+                    "localname": "PULL NO 3 TO SOULI BHOLI ROAD NH-1 - B2A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e447b1e5-bfc9-43a7-a4bb-cb6c5ba2dbe1",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "ac4092ae-da80-492e-81b0-d3a2d3605177",
+                    "boundaryNum": 1,
+                    "name": "SOLI BHOLI THANDI KHUYI - B4 - A1",
+                    "localname": "SOLI BHOLI THANDI KHUYI - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3dfee63b-261f-4c2d-ad30-9f01d7b515a9",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "edf75073-1566-4367-96bc-1686d1cc8bdf",
+                    "boundaryNum": 1,
+                    "name": "JAMMU KALIYARI ROAD - B5 - A1",
+                    "localname": "JAMMU KALIYARI ROAD - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4261d1f8-b7c5-4ba8-9554-cd28d8120cc6",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "ecc815d1-76d2-4a27-803c-ed03666bba80",
+                    "boundaryNum": 1,
+                    "name": "OPP OBC BANK , TEMPO STAND ARUN NAGAR - B6 - A1",
+                    "localname": "OPP OBC BANK , TEMPO STAND ARUN NAGAR - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73ece367-8345-4f84-bf78-c7b5da1e7988",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "35bbe9af-f24f-4ab0-9a33-ea9c0001a62f",
+                    "boundaryNum": 1,
+                    "name": "SHAHEED BHAGAT SINGH NAGAR - B7 - A1",
+                    "localname": "SHAHEED BHAGAT SINGH NAGAR - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d81c5da-1ad1-49f7-97f6-b8e57ab066f7",
+                "boundaryNum": 1,
+                "name": "Block 9A",
+                "localname": "Block 9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9A",
+                "children": [
+                  {
+                    "id": "f658b0cc-8db6-4dd3-b561-dd982a56ebc3",
+                    "boundaryNum": 1,
+                    "name": "CAINAL ROAD , ADARSH COLONY , KATHUYI BAZZAR, KASHMIRI MOHALLA, MOHALLA VISHKARMA CHOWNK MAIN BAZZAR - B9A - A1",
+                    "localname": "CAINAL ROAD , ADARSH COLONY , KATHUYI BAZZAR, KASHMIRI MOHALLA, MOHALLA VISHKARMA CHOWNK MAIN BAZZAR - B9A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ee4be4a9-4338-46f6-abe7-744ae3660430",
+                "boundaryNum": 1,
+                "name": "Block 10A",
+                "localname": "Block 10A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10A",
+                "children": [
+                  {
+                    "id": "792318cf-468b-4469-b324-288bd9a3eb21",
+                    "boundaryNum": 1,
+                    "name": "CAINAL ROAD , ADARSH COLONY,MOHALLA GHUMIARAN,KASHMIRI MOHALLA - B10A - A1",
+                    "localname": "CAINAL ROAD , ADARSH COLONY,MOHALLA GHUMIARAN,KASHMIRI MOHALLA - B10A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b48fb776-23ca-4d8b-9ed1-354694c5407b",
+                "boundaryNum": 1,
+                "name": "Block 11A",
+                "localname": "Block 11A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11A",
+                "children": [
+                  {
+                    "id": "3e943c02-9f88-45e2-b5ed-a8b0c61cd770",
+                    "boundaryNum": 1,
+                    "name": "KABIR NAGAR, RAM SHARNAM,MOHALLA SHEIKHAN, MOHALLA SALARIA, RAILWAY ROAD , JALAKADI MOHALLA - B11A - A1",
+                    "localname": "KABIR NAGAR, RAM SHARNAM,MOHALLA SHEIKHAN, MOHALLA SALARIA, RAILWAY ROAD , JALAKADI MOHALLA - B11A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5393f73c-94cc-440d-ae57-17c4121f2228",
+                "boundaryNum": 1,
+                "name": "Block 12A",
+                "localname": "Block 12A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12A",
+                "children": [
+                  {
+                    "id": "6279fe46-af5e-4eac-a2e2-cfcbe21c7e06",
+                    "boundaryNum": 1,
+                    "name": "SHAHPURI GATE, IDGAH MOHALLA, PULL NO 4 GREEN AVENEW COLONY, PREM NAGAR - B12A - A1",
+                    "localname": "SHAHPURI GATE, IDGAH MOHALLA, PULL NO 4 GREEN AVENEW COLONY, PREM NAGAR - B12A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "bc3ef2c8-df87-4277-a985-9e6ea6a9c5da",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "e4cf7a94-d30c-4586-8551-f58717ffe96e",
+                "boundaryNum": 1,
+                "name": "Block 1B",
+                "localname": "Block 1B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1B",
+                "children": [
+                  {
+                    "id": "0b3ada7e-da93-4d8d-a4a6-522b6b04e538",
+                    "boundaryNum": 1,
+                    "name": "GUGRAN ABHADI - B1B - A2",
+                    "localname": "GUGRAN ABHADI - B1B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83a8d550-763c-4623-b7e1-148e8ded0dc5",
+                "boundaryNum": 1,
+                "name": "Block 2B",
+                "localname": "Block 2B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2B",
+                "children": [
+                  {
+                    "id": "121f42d3-eba5-46b2-b181-e2bf8f82a789",
+                    "boundaryNum": 1,
+                    "name": "CHOTTA BHANWAL - B2B - A2",
+                    "localname": "CHOTTA BHANWAL - B2B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3b6e84da-c60c-41bf-a712-ad13480b9744",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "318eb06d-1525-4947-943e-b2606c11aa99",
+                    "boundaryNum": 1,
+                    "name": "KAILASHPUR,CHOTTA BHANWAL, SHIV MANDIR - B3 - A2",
+                    "localname": "KAILASHPUR,CHOTTA BHANWAL, SHIV MANDIR - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eda49e5d-5b80-4ade-8dc9-c39a94e87b78",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "199f3602-e444-4634-a35f-3ba660b00929",
+                    "boundaryNum": 1,
+                    "name": "KALA CHAK, FALAKPUR - B8 - A2",
+                    "localname": "KALA CHAK, FALAKPUR - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a9d654a5-dd5c-4349-aa5b-40ef97d5d30f",
+                "boundaryNum": 1,
+                "name": "Block 9B",
+                "localname": "Block 9B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9B",
+                "children": [
+                  {
+                    "id": "57bb6d81-3b02-47e9-827b-899f72b50d3e",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA KASHMIRI , MOHALLA VISHKARMA - B9B - A2",
+                    "localname": "MOHALLA KASHMIRI , MOHALLA VISHKARMA - B9B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4bd1f6c5-2153-4689-a1da-67f95c22fef2",
+                "boundaryNum": 1,
+                "name": "Block 10B",
+                "localname": "Block 10B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10B",
+                "children": [
+                  {
+                    "id": "790bda50-f125-491e-896a-889a71eeabc5",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA GHUMIARAN, MISTRIAN MOHALLA , KILLA MOHALLA - B10B - A2",
+                    "localname": "MOHALLA GHUMIARAN, MISTRIAN MOHALLA , KILLA MOHALLA - B10B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2028ad8a-bab6-44b9-b1ef-92b349d03fc9",
+                "boundaryNum": 1,
+                "name": "Block 11B",
+                "localname": "Block 11B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11B",
+                "children": [
+                  {
+                    "id": "8d892c0b-c88f-4040-be12-e3a589691f78",
+                    "boundaryNum": 1,
+                    "name": "KABIR NAGAR, RAM SHARAN MOHALLA , MOHALLA SALARIA, MOHALLA JALAKADI - B11B - A2",
+                    "localname": "KABIR NAGAR, RAM SHARAN MOHALLA , MOHALLA SALARIA, MOHALLA JALAKADI - B11B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "356337f2-1f25-4dfc-b044-e64568858d1b",
+                "boundaryNum": 1,
+                "name": "Block 12B",
+                "localname": "Block 12B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12B",
+                "children": [
+                  {
+                    "id": "34a5e717-2acf-4c6a-8a8d-6ee0836f0381",
+                    "boundaryNum": 1,
+                    "name": "SHAHPURI GATE, IDGAH MOHALLA,PULL NO 4 , GREEN AVENEW COLONY, PREM NAGAR - B12B - A2",
+                    "localname": "SHAHPURI GATE, IDGAH MOHALLA,PULL NO 4 , GREEN AVENEW COLONY, PREM NAGAR - B12B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MR_18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

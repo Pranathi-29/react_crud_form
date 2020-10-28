@@ -1,0 +1,714 @@
+{
+  "tenantId": "pb.mandikalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mandikalan",
+        "localname": "Mandikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mandikalan",
+        "children": [
+          {
+            "id": "6a50635a-723b-4869-aaa6-462c0659aa9b",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ba59ab15-afff-4e21-9cd8-1e266e913d19",
+                "boundaryNum": 1,
+                "name": "Block-01",
+                "localname": "Block-01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "ac3b401b-e7c9-4354-a2e3-92012b39ffe2",
+                    "boundaryNum": 1,
+                    "name": "OFFICE NAGAR PANCHAYAT TO - B1 - A1",
+                    "localname": "OFFICE NAGAR PANCHAYAT TO - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "43929f0e-213f-4c73-9e66-46cb15fab4f4",
+                    "boundaryNum": 1,
+                    "name": "LOCAL GURDWARA VIA MEHTA CHOWNK - B1 - A1",
+                    "localname": "LOCAL GURDWARA VIA MEHTA CHOWNK - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dfd5b16b-9350-47fe-897a-5c722e05f43f",
+                    "boundaryNum": 1,
+                    "name": "MEHTA CHOWNK TO SUKHI DOCTOR HOUSE - B1 - A1",
+                    "localname": "MEHTA CHOWNK TO SUKHI DOCTOR HOUSE - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f1d628a-8cba-46a9-9d2f-9e55d765c9f8",
+                    "boundaryNum": 1,
+                    "name": "LOCAL GURDWARA TO MOR SHOP TO - B1 - A1",
+                    "localname": "LOCAL GURDWARA TO MOR SHOP TO - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a48f553a-ef3a-4576-9e3a-95fdeb1ae543",
+                    "boundaryNum": 1,
+                    "name": "DHILWAN GWAD TO GOVT. - B1 - A1",
+                    "localname": "DHILWAN GWAD TO GOVT. - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "745d634c-a01f-4bc3-9380-b5fa04ffd193",
+                    "boundaryNum": 1,
+                    "name": "DAIRY SAMADHAN WALA CHOWNK TO PHIRNI - B1 - A1",
+                    "localname": "DAIRY SAMADHAN WALA CHOWNK TO PHIRNI - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c2e1023e-5bfb-4846-ae96-e5037b013888",
+                    "boundaryNum": 1,
+                    "name": "CHOURASTE TO BABA KA THADA TO PHIRNI - B1 - A1",
+                    "localname": "CHOURASTE TO BABA KA THADA TO PHIRNI - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4c9bbbdb-9186-4db0-9dc3-92b9c3764e5d",
+                    "boundaryNum": 1,
+                    "name": "CHOURASTA TO GURDWARA BUNGA SAHIB MAIN GATE - B1 - A1",
+                    "localname": "CHOURASTA TO GURDWARA BUNGA SAHIB MAIN GATE - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ed48e5a2-bab0-47c4-9f24-f67b281731da",
+                    "boundaryNum": 1,
+                    "name": "NAREGA BHAWAN TO PHIRNI - B1 - A1",
+                    "localname": "NAREGA BHAWAN TO PHIRNI - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1ebd7986-66b8-4ed6-9069-d842fa8ab6f4",
+                    "boundaryNum": 1,
+                    "name": "LOCAL GURDWARA TO PITHO WALI SADAK - B1 - A1",
+                    "localname": "LOCAL GURDWARA TO PITHO WALI SADAK - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "21fd09ab-6e76-4bd6-8a67-8217aa0c0b76",
+                    "boundaryNum": 1,
+                    "name": "LOCAL GURDWARA - B1 - A1",
+                    "localname": "LOCAL GURDWARA - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fa07b5fd-c510-46b6-9941-b13cb349593e",
+                    "boundaryNum": 1,
+                    "name": "EAST SIDE PHIRNI THEN NORTH SIDE - B1 - A1",
+                    "localname": "EAST SIDE PHIRNI THEN NORTH SIDE - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1e5dd4e0-3360-422c-bd94-65c7b352c6db",
+                    "boundaryNum": 1,
+                    "name": "BABA KA THADA TO PHIRNI - B1 - A1",
+                    "localname": "BABA KA THADA TO PHIRNI - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d4fa8e0b-7fa4-4b03-9c2c-c9d4bc13682a",
+                    "boundaryNum": 1,
+                    "name": "BALLUANA TIBBA TO PIRKHANA NP LIMIT - B1 - A1",
+                    "localname": "BALLUANA TIBBA TO PIRKHANA NP LIMIT - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "31bfb3ca-218f-4708-9859-90867d3c1a4c",
+                    "boundaryNum": 1,
+                    "name": "BUS STAND TO GIRLS SCHOOL PHIRNI TO DRAIN - B1 - A1",
+                    "localname": "BUS STAND TO GIRLS SCHOOL PHIRNI TO DRAIN - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d50b26c1-c3cd-4dcd-9da5-5950eb7177cd",
+                    "boundaryNum": 1,
+                    "name": "GIRLS SCHOOL TO KHALSA VARIATY STORE - B1 - A1",
+                    "localname": "GIRLS SCHOOL TO KHALSA VARIATY STORE - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "48ac4eb0-8120-482c-96cf-717eb839aba1",
+                    "boundaryNum": 1,
+                    "name": "OFFICE NAGAR PANCHAYAT MANDI KALAN - B1 - A1",
+                    "localname": "OFFICE NAGAR PANCHAYAT MANDI KALAN - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2de38a77-945e-4b23-90fb-3556066edce3",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "483c0976-8aed-49be-a9ec-27241f947727",
+                "boundaryNum": 1,
+                "name": "Block-02",
+                "localname": "Block-02",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "2810eb57-98c4-424b-acda-de72d40ad0aa",
+                    "boundaryNum": 1,
+                    "name": "MEHTA CHOWNK TO ANGREJ KAUR MC STREET - B2 - A2",
+                    "localname": "MEHTA CHOWNK TO ANGREJ KAUR MC STREET - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-18",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2993fb22-eebd-4bed-9964-b7d25fb221a3",
+                    "boundaryNum": 1,
+                    "name": "GURNAND SINGH STREET TO POND TO PHIRNI - B2 - A2",
+                    "localname": "GURNAND SINGH STREET TO POND TO PHIRNI - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "955eed26-ebc5-4a15-bffb-dfd8af3c3903",
+                    "boundaryNum": 1,
+                    "name": "KHOKAR STREET TO GURDEV SINGH MEMBER STREET - B2 - A2",
+                    "localname": "KHOKAR STREET TO GURDEV SINGH MEMBER STREET - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-20",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "94ac6aa4-e8ef-4761-906a-84f1defab51c",
+                    "boundaryNum": 1,
+                    "name": "RAMU KI PATTI OUTSIDE PHIRNI - B2 - A2",
+                    "localname": "RAMU KI PATTI OUTSIDE PHIRNI - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "19a98914-36c4-48f8-9cd0-08e35a90ccfe",
+                    "boundaryNum": 1,
+                    "name": "BACKSIDE OF DARSHAN SINGH COACH HOUSE - B2 - A2",
+                    "localname": "BACKSIDE OF DARSHAN SINGH COACH HOUSE - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "69b7dc10-b759-4df1-9fe7-737653394af1",
+                    "boundaryNum": 1,
+                    "name": "PRIMARY SCHOOL - B2 - A2",
+                    "localname": "PRIMARY SCHOOL - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c0a03c8e-d519-4633-86fc-8699e24cff44",
+                    "boundaryNum": 1,
+                    "name": "JAND TO RAJ DRIVER STREET TO PHIRNI - B2 - A2",
+                    "localname": "JAND TO RAJ DRIVER STREET TO PHIRNI - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-24",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6125eb38-c2a7-44d6-b6ad-20123788971f",
+                    "boundaryNum": 1,
+                    "name": "BAZIGAR BASTI TO KHALSA VARIATY STORE - B2 - A2",
+                    "localname": "BAZIGAR BASTI TO KHALSA VARIATY STORE - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b8b50346-3365-48a6-a80f-af179edd68c3",
+                    "boundaryNum": 1,
+                    "name": "WATER WORKSAREA OF WARD NO 3 AND 4 - B2 - A2",
+                    "localname": "WATER WORKSAREA OF WARD NO 3 AND 4 - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-26",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "18b47c54-ec6e-409e-bb6b-2b63455ed465",
+                    "boundaryNum": 1,
+                    "name": "AND BAZIGAR BASTI - B2 - A2",
+                    "localname": "AND BAZIGAR BASTI - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "MK-27",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mandikalan",
+        "localname": "Mandikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.mandikalan",
+        "children": [
+          {
+            "id": "21006275-8021-41b1-a9f6-dafe85fbd10e",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "35a50af0-3412-4b32-9439-3adcc209ac2b",
+                "boundaryNum": 1,
+                "name": "WARD1",
+                "localname": "WARD1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "3be5736e-59b9-4b11-8a41-0a4375e81354",
+                    "boundaryNum": 1,
+                    "name": "Ramu ki Patti - WARD1",
+                    "localname": "Ramu ki Patti - WARD1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38a1d80b-19cd-428d-b1f9-7cf3ea775df2",
+                "boundaryNum": 1,
+                "name": "WARD2",
+                "localname": "WARD2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "b69a86a9-6641-47e9-a5d2-21d78b2bc6e3",
+                    "boundaryNum": 1,
+                    "name": "Nimm wali Patti - WARD2",
+                    "localname": "Nimm wali Patti - WARD2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f772ece8-5579-4db3-9dc0-bba2884a7e26",
+                "boundaryNum": 1,
+                "name": "WARD7",
+                "localname": "WARD7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "a5c9e08f-e587-43b5-80f8-ad2f206f9a3b",
+                    "boundaryNum": 1,
+                    "name": "Bhaiki patti - WARD7",
+                    "localname": "Bhaiki patti - WARD7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "640ef14c-f7b5-40ee-abc0-414383564951",
+                "boundaryNum": 1,
+                "name": "WARD8",
+                "localname": "WARD8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "0429de21-d7cc-4b32-812b-ca01b15fb5a6",
+                    "boundaryNum": 1,
+                    "name": "Aulakh patti - WARD8",
+                    "localname": "Aulakh patti - WARD8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5ef3a392-9bb5-4f23-bb59-6d1104b09df5",
+                "boundaryNum": 1,
+                "name": "WARD11",
+                "localname": "WARD11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "763039a0-defc-48c0-9967-1242fdc2e4ed",
+                    "boundaryNum": 1,
+                    "name": "Bhullar Patti - WARD11",
+                    "localname": "Bhullar Patti - WARD11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f55efdf6-7b52-4399-b787-278740713d55",
+            "boundaryNum": 1,
+            "name": "Zone2",
+            "localname": "Zone2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "c7a8334a-073c-4038-b965-282648216d85",
+                "boundaryNum": 1,
+                "name": "WARD5",
+                "localname": "WARD5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "8a521de2-b92b-44bb-adb5-555f35fc938b",
+                    "boundaryNum": 1,
+                    "name": "Kailash ki Patti - WARD5",
+                    "localname": "Kailash ki Patti - WARD5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35f90210-246f-4cb7-9a57-921019ee4ed0",
+                "boundaryNum": 1,
+                "name": "WARD9",
+                "localname": "WARD9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "05f4e4b3-5f95-4e8f-aa37-ecc5c7918301",
+                    "boundaryNum": 1,
+                    "name": "Dhillon Patti - WARD9",
+                    "localname": "Dhillon Patti - WARD9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b45a489a-2760-459e-a94c-5f1e98a84507",
+                "boundaryNum": 1,
+                "name": "WARD10",
+                "localname": "WARD10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "81c9244f-672b-4480-8b8d-6816eebf8066",
+                    "boundaryNum": 1,
+                    "name": "Water works basti - WARD10",
+                    "localname": "Water works basti - WARD10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2585d689-6aee-4c75-921a-c8bc2f4b7bdb",
+            "boundaryNum": 1,
+            "name": "Zone3",
+            "localname": "Zone3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z3",
+            "children": [
+              {
+                "id": "cd51b85d-ee95-47c1-8134-218c3b5f0901",
+                "boundaryNum": 1,
+                "name": "WARD3",
+                "localname": "WARD3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "b3b78eb1-bebf-493e-9d75-4fa0a2b27d7d",
+                    "boundaryNum": 1,
+                    "name": "Bazigar Basti - WARD3",
+                    "localname": "Bazigar Basti - WARD3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc8b1c05-a144-4456-b1f1-b9a573b2a150",
+                "boundaryNum": 1,
+                "name": "WARD4",
+                "localname": "WARD4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "f714925e-2c00-48a9-aa2b-dbb64e531520",
+                    "boundaryNum": 1,
+                    "name": "Dhillon Patti 4 - WARD4",
+                    "localname": "Dhillon Patti 4 - WARD4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5e4c7b1b-a5f6-4295-8e4c-e49b4c0c66ff",
+                "boundaryNum": 1,
+                "name": "WARD6",
+                "localname": "WARD6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "5bd2718c-f218-4435-8765-16705965fcf0",
+                    "boundaryNum": 1,
+                    "name": "Sajjan Basti - WARD6",
+                    "localname": "Sajjan Basti - WARD6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "SLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

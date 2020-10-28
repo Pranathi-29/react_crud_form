@@ -1,0 +1,774 @@
+{
+  "tenantId": "pb.kotshamir",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotshamir",
+        "localname": "Kotshamir",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kotshamir",
+        "children": [
+          {
+            "id": "1ba50b5f-c8d1-4bb0-b40c-587712626747",
+            "boundaryNum": 1,
+            "name": "Kotshamir",
+            "localname": "Kotshamir",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN1",
+            "children": [
+              {
+                "id": "737eebf4-ccca-4779-802e-fd19604ffd2d",
+                "boundaryNum": 1,
+                "name": "Ward1",
+                "localname": "Ward1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "cbf0f032-a9c3-4beb-91c2-115e6eb2de60",
+                    "boundaryNum": 1,
+                    "name": "MANSA ROAD COLONYA - Ward1",
+                    "localname": "MANSA ROAD COLONYA - Ward1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "80c6722c-65f1-4274-9b9c-981fe9d3ebe6",
+                "boundaryNum": 1,
+                "name": "Ward2",
+                "localname": "Ward2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "08d5aa20-6aac-475d-acfa-3fceb91a7e46",
+                    "boundaryNum": 1,
+                    "name": "Baba Jivan Singh Guruduara Sahib - Ward2",
+                    "localname": "Baba Jivan Singh Guruduara Sahib - Ward2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e4c1498a-a66c-41d0-b4a8-d54571e6acb1",
+                "boundaryNum": 1,
+                "name": "Ward3",
+                "localname": "Ward3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "9d0780cf-5ec0-4d20-bd71-d80718a02d0f",
+                    "boundaryNum": 1,
+                    "name": "Guruduara Bunga Sahib - Ward3",
+                    "localname": "Guruduara Bunga Sahib - Ward3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab0e43ad-84a4-43cf-b158-f451d501b38a",
+                "boundaryNum": 1,
+                "name": "Ward4",
+                "localname": "Ward4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "c242ce63-b1ad-4abd-98eb-88dc1edc259c",
+                    "boundaryNum": 1,
+                    "name": "Water Works - Ward4",
+                    "localname": "Water Works - Ward4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e416b57e-703b-41ee-b0b4-35ab46ea00b3",
+                "boundaryNum": 1,
+                "name": "Ward5",
+                "localname": "Ward5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "d68fd7ad-ce03-4007-9ca3-561814eea44a",
+                    "boundaryNum": 1,
+                    "name": "Dasmesh Public School - Ward5",
+                    "localname": "Dasmesh Public School - Ward5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ddc7d69-f877-4667-a835-696a5bfcc8d3",
+                "boundaryNum": 1,
+                "name": "Ward6",
+                "localname": "Ward6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "9b60484f-33b6-4460-9ee8-33501f395272",
+                    "boundaryNum": 1,
+                    "name": "Ravidas Sikh Khuh - Ward6",
+                    "localname": "Ravidas Sikh Khuh - Ward6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73a1ca58-f87e-42c3-ab46-17f0be712d4c",
+                "boundaryNum": 1,
+                "name": "Ward7",
+                "localname": "Ward7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "a616e0cb-fbb5-4150-ae5b-f12607d2448e",
+                    "boundaryNum": 1,
+                    "name": "8 wida Khuh - Ward7",
+                    "localname": "8 wida Khuh - Ward7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aeef25d8-7f40-447a-a5d1-6ffa50f6b7da",
+                "boundaryNum": 1,
+                "name": "Ward8",
+                "localname": "Ward8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "393525de-7557-4ef8-8d8e-183d25fd751b",
+                    "boundaryNum": 1,
+                    "name": "Durgiana Mandar - Ward8",
+                    "localname": "Durgiana Mandar - Ward8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "49b29688-3ca8-442f-9eb9-9ff1fc145b9a",
+                "boundaryNum": 1,
+                "name": "Ward9",
+                "localname": "Ward9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "5acf1a29-4310-4cad-96df-a99db529b3bf",
+                    "boundaryNum": 1,
+                    "name": "Dera Baba Dhian Das Dera - Ward9",
+                    "localname": "Dera Baba Dhian Das Dera - Ward9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6a0ea61d-9d0c-4bac-8efb-dabb15b6901d",
+                "boundaryNum": 1,
+                "name": "Ward10",
+                "localname": "Ward10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "40ce2179-b87a-49e8-9aac-64435680e993",
+                    "boundaryNum": 1,
+                    "name": "Shergarh Road - Ward10",
+                    "localname": "Shergarh Road - Ward10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a390e81-dbde-4bd9-abcb-962431607dff",
+                "boundaryNum": 1,
+                "name": "Ward11",
+                "localname": "Ward11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "42d93d19-af43-4d21-9050-fe5289816f5a",
+                    "boundaryNum": 1,
+                    "name": "Mata Sundri Public School - Ward11",
+                    "localname": "Mata Sundri Public School - Ward11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43299687-b665-4c9f-8883-dc0a0c8db85f",
+                "boundaryNum": 1,
+                "name": "Ward12",
+                "localname": "Ward12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "796ad878-e748-4969-beb9-ff6e72f876fa",
+                    "boundaryNum": 1,
+                    "name": "Bigg Bus Stand - Ward12",
+                    "localname": "Bigg Bus Stand - Ward12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89390193-b197-4ed9-a96a-2ff4bd657f83",
+                "boundaryNum": 1,
+                "name": "Ward13",
+                "localname": "Ward13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "6f970e64-fa29-472b-aaed-146f13ce7ac3",
+                    "boundaryNum": 1,
+                    "name": "Talwandi Road - Ward13",
+                    "localname": "Talwandi Road - Ward13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "RLT13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotshamir",
+        "localname": "Kotshamir",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kotshamir",
+        "children": [
+          {
+            "id": "e536fab4-3035-4c41-8f09-8680ddd8a77f",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "38d2295e-90e1-4a22-8ea0-f1bb8faaa096",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0ef0edd9-0a3f-4c97-8dfd-6a08f6deeec7",
+                    "boundaryNum": 1,
+                    "name": "COLANY - W1 - A1",
+                    "localname": "COLANY - W1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "739146b7-812c-4ccc-861a-d8d69eef9acf",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W2",
+                "children": [
+                  {
+                    "id": "8c362d5b-2234-49a1-8983-ba8027045b38",
+                    "boundaryNum": 1,
+                    "name": "RAVIDAS BHAVN - W2 - A1",
+                    "localname": "RAVIDAS BHAVN - W2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd52fea4-350e-47b3-8bd2-c413c81fdedd",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W3",
+                "children": [
+                  {
+                    "id": "5f441128-1fc4-4a43-beaf-dd557cad0de6",
+                    "boundaryNum": 1,
+                    "name": "GURDWARA BUNGA SAHIB - W3 - A1",
+                    "localname": "GURDWARA BUNGA SAHIB - W3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d2a491cf-804e-4e7e-a96b-40ca8db8d710",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W4",
+                "children": [
+                  {
+                    "id": "e26dd3af-91f3-4408-8d3d-fd83b6906182",
+                    "boundaryNum": 1,
+                    "name": "WATER WARKS - W4 - A1",
+                    "localname": "WATER WARKS - W4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6b201c4-61a2-4cb1-bb09-1d902a88f534",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W5",
+                "children": [
+                  {
+                    "id": "04c9ac83-9973-4b66-8a13-3506724d10da",
+                    "boundaryNum": 1,
+                    "name": "OILD GURUDWARA - W5 - A1",
+                    "localname": "OILD GURUDWARA - W5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f31c7bf8-3ee8-47fd-8e47-278b8d394def",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W6",
+                "children": [
+                  {
+                    "id": "645f1572-62aa-445a-abfa-6219b3d8a9d5",
+                    "boundaryNum": 1,
+                    "name": "RAMDASA SIKH KHUH - W6 - A1",
+                    "localname": "RAMDASA SIKH KHUH - W6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3701db50-7520-4b50-a522-aafebf1fe9bf",
+                "boundaryNum": 1,
+                "name": "Ward 7A",
+                "localname": "Ward 7A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W7",
+                "children": [
+                  {
+                    "id": "bc92a564-52bf-4807-8a78-2a310de0ca59",
+                    "boundaryNum": 1,
+                    "name": "BORIA SIKH DARAMSALA - W7 - A1",
+                    "localname": "BORIA SIKH DARAMSALA - W7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "671f96bf-d7f2-43ac-93bd-03a707d904f8",
+                "boundaryNum": 1,
+                "name": "Ward 8A",
+                "localname": "Ward 8A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W9",
+                "children": [
+                  {
+                    "id": "b7e7a2ea-7699-4ab5-8ca2-194a63d380d9",
+                    "boundaryNum": 1,
+                    "name": "TALWANDI WALA DARVAJA - W9 - A1",
+                    "localname": "TALWANDI WALA DARVAJA - W9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4cceb18b-3dac-4171-b351-e13836caf13b",
+                "boundaryNum": 1,
+                "name": "Ward 9A",
+                "localname": "Ward 9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W11",
+                "children": [
+                  {
+                    "id": "87c91333-1f08-49a4-bcd9-28218d687a11",
+                    "boundaryNum": 1,
+                    "name": "ROODE KI SATH - W11 - A1",
+                    "localname": "ROODE KI SATH - W11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3724a3e9-5718-4310-a63b-2121a67db938",
+            "boundaryNum": 1,
+            "name": "Zone2",
+            "localname": "Zone2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "53517eca-e804-449b-a9b1-f3bcc3b966bb",
+                "boundaryNum": 1,
+                "name": "Ward 7B",
+                "localname": "Ward 7B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W8",
+                "children": [
+                  {
+                    "id": "f93e9ab3-979a-4697-b2cf-4c708a930028",
+                    "boundaryNum": 1,
+                    "name": "GORA WALA POIND - W8 - A2",
+                    "localname": "GORA WALA POIND - W8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "538b44f4-e821-457a-b3a1-340292b194b8",
+                "boundaryNum": 1,
+                "name": "Ward 8B",
+                "localname": "Ward 8B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W10",
+                "children": [
+                  {
+                    "id": "d14467bb-5a6a-490d-9f19-63d4bf440037",
+                    "boundaryNum": 1,
+                    "name": "DASMESH SCHOOL - W10 - A2",
+                    "localname": "DASMESH SCHOOL - W10 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9c783587-90d6-4119-b07a-a54074ef5dd8",
+                "boundaryNum": 1,
+                "name": "Ward 9B",
+                "localname": "Ward 9B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W12",
+                "children": [
+                  {
+                    "id": "6ee853bd-8b6f-477a-936a-1fbd3c3b268e",
+                    "boundaryNum": 1,
+                    "name": "DERA BABA DHIAN DAS - W12 - A2",
+                    "localname": "DERA BABA DHIAN DAS - W12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fb857f67-f047-4f3e-8713-8ad6bf6dd1a1",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W13",
+                "children": [
+                  {
+                    "id": "38481fc1-a228-4b07-b1fb-8f956ea636c5",
+                    "boundaryNum": 1,
+                    "name": "SHERGARH ROAD - W13 - A2",
+                    "localname": "SHERGARH ROAD - W13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23fdac23-0b08-442e-808b-510d681e7751",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W14",
+                "children": [
+                  {
+                    "id": "6a7f70d9-88ed-4f5b-a1d5-65b1cd894876",
+                    "boundaryNum": 1,
+                    "name": "8 WIDA KHUH - W14 - A2",
+                    "localname": "8 WIDA KHUH - W14 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c41a73bd-7c33-4bd9-bb3c-2800c4ba60ca",
+                "boundaryNum": 1,
+                "name": "Ward 12",
+                "localname": "Ward 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W15",
+                "children": [
+                  {
+                    "id": "60b22f0c-bd44-402c-ac70-2a05e448744c",
+                    "boundaryNum": 1,
+                    "name": "MAIN BUS STAND - W15 - A2",
+                    "localname": "MAIN BUS STAND - W15 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0fe833b3-b8e1-45cb-8e50-c67bd88120f0",
+                "boundaryNum": 1,
+                "name": "Ward 13",
+                "localname": "Ward 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W16",
+                "children": [
+                  {
+                    "id": "162f7ae6-4d1c-4b5f-8127-018ae1872ebc",
+                    "boundaryNum": 1,
+                    "name": "MANSA ROAD - W16 - A2",
+                    "localname": "MANSA ROAD - W16 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KS16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "tenantId": "pb.kothaguru",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kothaguru",
+        "localname": "Kothaguru",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kothaguru",
+        "children": [
+          {
+            "id": "28ae7616-a380-4a92-b677-4ca897d81d45",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5776a9fe-68b1-4688-b91c-e19320e3c610",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "cf2f149a-44cd-4104-8907-a66bcabf5ca4",
+                    "boundaryNum": 1,
+                    "name": "Romania da Agwar - Ward 1",
+                    "localname": "Romania da Agwar - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a862687d-1dea-4985-81d1-0d71a7c1007b",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "5dab6671-cf00-4c5e-a1a6-997265694d8e",
+                    "boundaryNum": 1,
+                    "name": "Gumti Road - Ward 2",
+                    "localname": "Gumti Road - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25d5fe05-80b4-4ef5-b0aa-d1945851e704",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "16aca7ec-193e-4c75-8754-6e462d496860",
+                    "boundaryNum": 1,
+                    "name": "Gumti Road - Ward 3",
+                    "localname": "Gumti Road - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "365b797a-daad-4977-8fc6-d7a6f711a3e7",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "80517c37-1498-43e2-9176-a7fc8a59f5e9",
+                    "boundaryNum": 1,
+                    "name": "Jalal Road - Ward 10",
+                    "localname": "Jalal Road - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "423c74e1-42f1-47c4-a772-ec185279f579",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "fa2b9923-e600-4961-974e-be67a30ee580",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "c80a32d7-0bce-4d8b-bff5-6bfa6a551e0d",
+                    "boundaryNum": 1,
+                    "name": "Borie Sikha da Agwar - Ward 4",
+                    "localname": "Borie Sikha da Agwar - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b5c1e95d-9e76-4bbc-a3ce-717b127274c7",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "8b358404-d7e5-40d4-be4a-3b098ca6d3c7",
+                    "boundaryNum": 1,
+                    "name": "Sarawan da Agwar - Ward 5",
+                    "localname": "Sarawan da Agwar - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a099c905-d8c3-4520-a1cc-b1e03b17f1cd",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "4478d2c4-15d5-4f4b-9b07-13ac1d3261d9",
+                    "boundaryNum": 1,
+                    "name": "Grain Market - Ward 6",
+                    "localname": "Grain Market - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77af8055-7939-4c7e-b28d-be0370dc9256",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "824f30e9-2f1d-42e5-a97e-853ddc1a6a11",
+                    "boundaryNum": 1,
+                    "name": "NP Office maluka - Ward 7",
+                    "localname": "NP Office maluka - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5033211a-08b7-4ac1-a11c-b807aaf0d677",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "716f7a8a-caa1-41f3-a28f-95e6ad823dc0",
+                    "boundaryNum": 1,
+                    "name": "Bhagta Nathana Road - Ward 8",
+                    "localname": "Bhagta Nathana Road - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9a3db5e2-49a7-4937-8152-0165c2dbff1d",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "f717c20a-71ee-4da5-bf54-4c134635c31f",
+                    "boundaryNum": 1,
+                    "name": "Mayie ka agwar - Ward 9",
+                    "localname": "Mayie ka agwar - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05f2557e-83b3-4683-80fa-6c2b9f8907fa",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "e9e781c3-4e75-4e83-bd4d-ea7f4a822718",
+                    "boundaryNum": 1,
+                    "name": "Mai wala khoo - Ward 11",
+                    "localname": "Mai wala khoo - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kothaguru",
+        "localname": "Kothaguru",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kothaguru",
+        "children": [
+          {
+            "id": "65b6c92c-f3d4-48ba-a547-c72fb0ddfead",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6fc86a95-e540-421c-8aea-082c29885016",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "6a09a3b7-6b25-4829-84ce-bc3908d5d659",
+                    "boundaryNum": 1,
+                    "name": "Mararan da aggwar main raod B 1 - B1 - A1",
+                    "localname": "Mararan da aggwar main raod B 1 - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b7493015-27b9-4659-889e-41b51bbd6dc2",
+                    "boundaryNum": 1,
+                    "name": "Guruduara Gandhu sahib road B 1 - B1 - A1",
+                    "localname": "Guruduara Gandhu sahib road B 1 - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c7eddb6f-5250-4c1c-931a-646e8914e18e",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "b07b4560-16b9-4859-9784-7d6ff58e7ed7",
+                    "boundaryNum": 1,
+                    "name": "Romania da waggwar B 2 - B2 - A1",
+                    "localname": "Romania da waggwar B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3fb612d-d3fe-4b79-8d51-ff6758a951a3",
+                    "boundaryNum": 1,
+                    "name": "Wadda Aggwar Gumti road B 2 - B2 - A1",
+                    "localname": "Wadda Aggwar Gumti road B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "26d2f91f-b5a7-40a1-ba79-622f4346866b",
+                    "boundaryNum": 1,
+                    "name": "Jassran da aggwar B 2 - B2 - A1",
+                    "localname": "Jassran da aggwar B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0ce10afd-7a51-4bca-ae06-5f3457b462f8",
+                    "boundaryNum": 1,
+                    "name": "wadda agwar jalal road B 2 - B2 - A1",
+                    "localname": "wadda agwar jalal road B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9df30a6d-071e-4288-9be5-f2c87222a0aa",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "b97873cc-853d-471a-91fa-960dc668c341",
+                    "boundaryNum": 1,
+                    "name": "wadda aggwar saranwan da B 3 - B3 - A1",
+                    "localname": "wadda aggwar saranwan da B 3 - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0bd13474-56b6-49f1-8361-34718b7a1d8a",
+                    "boundaryNum": 1,
+                    "name": "Borian sikha aggwar B 3 - B3 - A1",
+                    "localname": "Borian sikha aggwar B 3 - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "63327485-f241-409a-a7bf-349643231705",
+                    "boundaryNum": 1,
+                    "name": "Mararan da aggwar  B 3 - B3 - A1",
+                    "localname": "Mararan da aggwar  B 3 - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "92b52992-9cfc-4e0a-8d8a-5d64498f8e4d",
+                    "boundaryNum": 1,
+                    "name": "mayeka aggwar main bazar B 3 - B3 - A1",
+                    "localname": "mayeka aggwar main bazar B 3 - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "20415b4c-3407-4c5c-a183-866c85c8a429",
+                    "boundaryNum": 1,
+                    "name": "Ramdasian sikha da wadda aggwar B 3 - B3 - A1",
+                    "localname": "Ramdasian sikha da wadda aggwar B 3 - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG17",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3c96f85a-b9a8-40c2-87b4-789de496a45a",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "b22bcac1-5380-445c-8f02-fbd05e32d622",
+                "boundaryNum": 1,
+                "name": "Block 1A",
+                "localname": "Block 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1A",
+                "children": [
+                  {
+                    "id": "d810aaff-c6d1-445b-9ae2-499a05097078",
+                    "boundaryNum": 1,
+                    "name": "Guruduara Gandhu sahib road B1A - B1A - A2",
+                    "localname": "Guruduara Gandhu sahib road B1A - B1A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8370f8a-3720-456a-b259-1553ddaa20f8",
+                "boundaryNum": 1,
+                "name": "Block 2A",
+                "localname": "Block 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "b07b4560-16b9-4859-9784-7d6ff58e7ed7",
+                    "boundaryNum": 1,
+                    "name": "Romania da waggwar B 2 - B2 - A1",
+                    "localname": "Romania da waggwar B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3fb612d-d3fe-4b79-8d51-ff6758a951a3",
+                    "boundaryNum": 1,
+                    "name": "Wadda Aggwar Gumti road B 2 - B2 - A1",
+                    "localname": "Wadda Aggwar Gumti road B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "26d2f91f-b5a7-40a1-ba79-622f4346866b",
+                    "boundaryNum": 1,
+                    "name": "Jassran da aggwar B 2 - B2 - A1",
+                    "localname": "Jassran da aggwar B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0ce10afd-7a51-4bca-ae06-5f3457b462f8",
+                    "boundaryNum": 1,
+                    "name": "wadda agwar jalal road B 2 - B2 - A1",
+                    "localname": "wadda agwar jalal road B 2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "11739cf5-6794-4112-8c44-c70884708c07",
+                "boundaryNum": 1,
+                "name": "Block 3A",
+                "localname": "Block 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3A",
+                "children": [
+                  {
+                    "id": "3d2cacfd-832a-46b6-8a92-b7550e99a786",
+                    "boundaryNum": 1,
+                    "name": "Borian sikha aggwar  B3A - B3A - A2",
+                    "localname": "Borian sikha aggwar  B3A - B3A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG7",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "01693cd6-9114-418a-ac5e-896fc6202092",
+                    "boundaryNum": 1,
+                    "name": "Mararan da aggwar  B3A - B3A - A2",
+                    "localname": "Mararan da aggwar  B3A - B3A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG9",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "59ee1d4e-f12e-4d46-be64-1830715f19db",
+                    "boundaryNum": 1,
+                    "name": "mayeka aggwar main bazar B3A - B3A - A2",
+                    "localname": "mayeka aggwar main bazar B3A - B3A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "fcb6f44d-2c29-4515-aaba-d4bebf8ed105",
+                    "boundaryNum": 1,
+                    "name": "Ramdasian sikha da wadda aggwar B3A - B3A - A2",
+                    "localname": "Ramdasian sikha da wadda aggwar B3A - B3A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KTG18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

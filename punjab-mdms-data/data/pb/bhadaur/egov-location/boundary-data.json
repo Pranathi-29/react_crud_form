@@ -1,0 +1,1350 @@
+{
+  "tenantId": "pb.bhadaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhadaur",
+        "localname": "Bhadaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhadaur",
+        "children": [
+          {
+            "id": "b7093f8a-9942-48e2-be7e-ddf351335a44",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a2e7c7bc-06a2-46d7-9a84-acf4d707ef59",
+                "boundaryNum": 1,
+                "name": "Ward_1",
+                "localname": "Ward_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "c7ffd0b9-a11d-47a5-ade4-49e4eb7711df",
+                    "boundaryNum": 1,
+                    "name": "talwand road - Ward_1",
+                    "localname": "talwand road - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_01",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a2d9107a-e2e3-407a-b07a-adfcb913d366",
+                    "boundaryNum": 1,
+                    "name": "mohalla ghaduya - Ward_1",
+                    "localname": "mohalla ghaduya - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_02",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9a434eb2-c004-49da-aa30-d2e80c8be0a3",
+                "boundaryNum": 1,
+                "name": "Ward_2",
+                "localname": "Ward_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "6d0001e6-7e2a-47ef-856a-5ddac6d6a828",
+                    "boundaryNum": 1,
+                    "name": "mohala dibbipura - Ward_2",
+                    "localname": "mohala dibbipura - Ward_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_05",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d11de89-1808-4f45-be3c-171cad8068bf",
+                "boundaryNum": 1,
+                "name": "Ward_3",
+                "localname": "Ward_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "27e80a47-479c-44bb-8756-2d735b8a7495",
+                    "boundaryNum": 1,
+                    "name": "mohlla kasiya - Ward_3",
+                    "localname": "mohlla kasiya - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_07",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f78010a3-6bd7-4722-9a85-d3729f601041",
+                    "boundaryNum": 1,
+                    "name": "mohlla grewal - Ward_3",
+                    "localname": "mohlla grewal - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_09",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b83ffd9a-3d0f-48aa-978d-cf161acd665d",
+                    "boundaryNum": 1,
+                    "name": "main bazar - Ward_3",
+                    "localname": "main bazar - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bc08d583-db9b-4153-bdd7-edde0bc0d755",
+                    "boundaryNum": 1,
+                    "name": "bada chowk - Ward_3",
+                    "localname": "bada chowk - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d652899-2065-4970-a567-de0b6f450c14",
+                "boundaryNum": 1,
+                "name": "Ward_4",
+                "localname": "Ward_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "efca6161-391e-4b93-8e49-53b65e722aa6",
+                    "boundaryNum": 1,
+                    "name": "mohalla bhuleriya - Ward_4",
+                    "localname": "mohalla bhuleriya - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_08",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "ffbe75e9-a537-42cc-8510-ee4df70fdf15",
+                    "boundaryNum": 1,
+                    "name": "mohalla bhaini - Ward_4",
+                    "localname": "mohalla bhaini - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "38263e83-9278-4d41-9c7d-9b41f6f9f65f",
+                    "boundaryNum": 1,
+                    "name": "agarwal colony - Ward_4",
+                    "localname": "agarwal colony - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_32",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7d79ab15-6a09-4812-bbda-c0ba5259a7d9",
+                "boundaryNum": 1,
+                "name": "Ward_5",
+                "localname": "Ward_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "799fecb3-5423-4c71-960e-fc070e9bdc45",
+                    "boundaryNum": 1,
+                    "name": "mohala suewala - Ward_5",
+                    "localname": "mohala suewala - Ward_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0cd13f45-95f8-49b2-b82f-0cb06bed07c5",
+                "boundaryNum": 1,
+                "name": "Ward_6",
+                "localname": "Ward_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "7a3f27dd-7f70-4ef8-847e-a2fad46d76c4",
+                    "boundaryNum": 1,
+                    "name": "majuke road - Ward_6",
+                    "localname": "majuke road - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_04",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d55d60f4-d647-4f11-a482-9f2344b89c9f",
+                    "boundaryNum": 1,
+                    "name": "pathran wali road - Ward_6",
+                    "localname": "pathran wali road - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9f8ddaee-b5db-45e0-bd29-9f7ab5d0ee80",
+                    "boundaryNum": 1,
+                    "name": "gobind basti - Ward_6",
+                    "localname": "gobind basti - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_29",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "091017b2-b0b4-472b-9e01-86df82cdf70e",
+                "boundaryNum": 1,
+                "name": "Ward_7",
+                "localname": "Ward_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "6d2db4a1-f316-48a3-8f49-b96480ae6ec5",
+                    "boundaryNum": 1,
+                    "name": "mohalla jogiya - Ward_7",
+                    "localname": "mohalla jogiya - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "a0f9d5ed-5e29-407a-be4f-dadc80bc55d6",
+                    "boundaryNum": 1,
+                    "name": "mohalla ramdasiya - Ward_7",
+                    "localname": "mohalla ramdasiya - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "66e1ccfb-cb91-4c44-b7af-426136d4b3e3",
+                    "boundaryNum": 1,
+                    "name": "nanaksar road - Ward_7",
+                    "localname": "nanaksar road - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_23",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "2cc7a83f-a2b6-42ec-b663-d9993bfe73a0",
+                    "boundaryNum": 1,
+                    "name": "khaira palace road - Ward_7",
+                    "localname": "khaira palace road - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a31b09ca-fb7e-4125-b4ed-356c58fa94ca",
+                "boundaryNum": 1,
+                "name": "Ward_8",
+                "localname": "Ward_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "0b6b14f5-dd7d-4b7f-9cc6-d558a6aac290",
+                    "boundaryNum": 1,
+                    "name": "mohalla kalalan - Ward_8",
+                    "localname": "mohalla kalalan - Ward_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c8181a1b-55dd-4d46-8895-47e3b9d39ac3",
+                "boundaryNum": 1,
+                "name": "Ward_9",
+                "localname": "Ward_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "2304bd06-5ed9-4778-bb83-243b0bbad645",
+                    "boundaryNum": 1,
+                    "name": "tanki basti - Ward_9",
+                    "localname": "tanki basti - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "187c55af-71ac-439d-bcb7-25e0b40a7faa",
+                    "boundaryNum": 1,
+                    "name": "nainewala road - Ward_9",
+                    "localname": "nainewala road - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "362f3ac4-5344-4536-9cdf-3540779d708e",
+                    "boundaryNum": 1,
+                    "name": "batha basti - Ward_9",
+                    "localname": "batha basti - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35801bbd-0e78-4271-a6ed-39c21242b54d",
+                    "boundaryNum": 1,
+                    "name": "channa road - Ward_9",
+                    "localname": "channa road - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b00fe9d3-d27d-4d1e-9a6f-c4937f9bb95c",
+                "boundaryNum": 1,
+                "name": "Ward_10",
+                "localname": "Ward_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "84bafde7-dafb-4d9c-aab2-a7552cb45777",
+                    "boundaryNum": 1,
+                    "name": "mohalla manna da - Ward_10",
+                    "localname": "mohalla manna da - Ward_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "961cfd1b-8940-4024-9079-bba0d5ef0afa",
+                "boundaryNum": 1,
+                "name": "Ward_11",
+                "localname": "Ward_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "9e58592a-6206-4db5-b9ed-11e90d4fc060",
+                    "boundaryNum": 1,
+                    "name": "mohalla dhindsa - Ward_11",
+                    "localname": "mohalla dhindsa - Ward_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c790eede-87ef-4ce1-835f-5b826dd616a9",
+                    "boundaryNum": 1,
+                    "name": "mohalla nainewala - Ward_11",
+                    "localname": "mohalla nainewala - Ward_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fa227b3f-3328-4725-9a75-411547394755",
+                    "boundaryNum": 1,
+                    "name": "mohalla sadha da - Ward_11",
+                    "localname": "mohalla sadha da - Ward_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7220a38-4b4e-4e57-afa0-1ece33480a38",
+                "boundaryNum": 1,
+                "name": "Ward_12",
+                "localname": "Ward_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "afa55c6d-078d-4f36-8ccc-84ff0070558d",
+                    "boundaryNum": 1,
+                    "name": "mohalla puriyan - Ward_12",
+                    "localname": "mohalla puriyan - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e0a4b97-a84f-47b6-a908-fa711f0d920d",
+                    "boundaryNum": 1,
+                    "name": "mohalla kaure - Ward_12",
+                    "localname": "mohalla kaure - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b283b9f4-a25c-46d6-8280-426463fdfceb",
+                "boundaryNum": 1,
+                "name": "Ward_13",
+                "localname": "Ward_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "b4b3ac06-b2de-4e43-a814-57b7253dace3",
+                    "boundaryNum": 1,
+                    "name": "m jangika - Ward_13",
+                    "localname": "m jangika - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_06",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5a3e72f2-ca45-4894-8c0a-4d74bd896090",
+                    "boundaryNum": 1,
+                    "name": "mohalla gondare - Ward_13",
+                    "localname": "mohalla gondare - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_22",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e88cdad-7bd9-4b08-98c1-3328167f3a4a",
+                    "boundaryNum": 1,
+                    "name": "mohalla nimwala - Ward_13",
+                    "localname": "mohalla nimwala - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BHD_27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhadaur",
+        "localname": "Bhadaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bhadaur",
+        "children": [
+          {
+            "id": "b0f93417-11d5-4b5c-8dd2-44ec1f1e0ed4",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5c7288c5-0417-4b64-990b-992d87f84806",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "679f74b1-bf99-4068-ba02-f40f292c70a4",
+                    "boundaryNum": 1,
+                    "name": "BARNALA ROAD - Block 1 - A1",
+                    "localname": "BARNALA ROAD - Block 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e1d9964d-48ad-46dc-9ec0-137550acff4f",
+                    "boundaryNum": 1,
+                    "name": "TINKONI ROAD - Block 1 - A1",
+                    "localname": "TINKONI ROAD - Block 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "3223c185-6917-4ec6-b6cf-4d3e6cca89cd",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA NAINEWALA - Block 1 - A2",
+                    "localname": "MOHALLA NAINEWALA - Block 1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2060e498-a674-4035-b6dc-3bfddc0a3d0b",
+                    "boundaryNum": 1,
+                    "name": "BUS STAND ROAD - Block 1 - A1",
+                    "localname": "BUS STAND ROAD - Block 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "12f1c7a5-f1ee-4c25-9eaf-b8f1edc8eac4",
+                    "boundaryNum": 1,
+                    "name": "NANAKSAR ROAD - Block 1 - A3",
+                    "localname": "NANAKSAR ROAD - Block 1 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 5",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "218d7d45-7923-4d6e-b3ec-086607c2380f",
+                    "boundaryNum": 1,
+                    "name": "KHAIRA PALACE ROAD - Block 1 - A1",
+                    "localname": "KHAIRA PALACE ROAD - Block 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ab0d8d72-8729-4fcf-9258-8f1de5440e92",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "266d7e63-081c-40f6-a4d5-acfa6030550e",
+                    "boundaryNum": 1,
+                    "name": "MAJUKE ROAD - Block 2 - A3",
+                    "localname": "MAJUKE ROAD - Block 2 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 7",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "36400f9a-2ba5-4b5c-ab5f-8fbfebdd893b",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA BORIYAN - Block 2 - A3",
+                    "localname": "MOHALLA BORIYAN - Block 2 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 8",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "2ffee8d6-1a15-4ac8-8b4e-d5212e743285",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA GHARUHA - Block 2 - A3",
+                    "localname": "MOHALLA GHARUHA - Block 2 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 9",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "721d2ca6-30d4-40be-b7d4-a1be7f6d3ba6",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA BAHRLA VEHRA - Block 2 - A3",
+                    "localname": "MOHALLA BAHRLA VEHRA - Block 2 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 10",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "fcdc0e11-6d6e-4c76-8b7d-3c14e950e3cf",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA GREWAL - Block 2 - A2",
+                    "localname": "MOHALLA GREWAL - Block 2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "37ac41fc-5d62-42ad-afc0-475d520aae76",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA KASAYIAN - Block 2 - A3",
+                    "localname": "MOHALLA KASAYIAN - Block 2 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 12",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "f98f4a82-c1c7-4676-bc9f-02ea5d097630",
+                    "boundaryNum": 1,
+                    "name": "TALWANDI ROAD - Block 2 - A3",
+                    "localname": "TALWANDI ROAD - Block 2 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 13",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "4a1e1475-a45d-4a4c-a1e3-6329c70b3be1",
+                    "boundaryNum": 1,
+                    "name": "DEEPGARH ROAD - Block 2 - A1",
+                    "localname": "DEEPGARH ROAD - Block 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 52",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9bd201e0-a258-424d-b3ea-03feec18d307",
+                    "boundaryNum": 1,
+                    "name": "PATHRAN WALA MANDIR - Block 2 - A2",
+                    "localname": "PATHRAN WALA MANDIR - Block 2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 53",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72f6514b-e2f3-4391-9368-e2d1fb4bbb86",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "d7ee55ab-4711-4545-a94b-2829f8b777fe",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA MANNA DA - Block 3 - A2",
+                    "localname": "MOHALLA MANNA DA - Block 3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e3164af3-9825-472e-ac66-29995c957181",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA KALALAN - Block 3 - A3",
+                    "localname": "MOHALLA KALALAN - Block 3 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 15",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "ef45c006-28fb-4029-b823-1a60e0b8d92a",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA DHILWA - Block 3 - A3",
+                    "localname": "MOHALLA DHILWA - Block 3 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 16",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "3f5392a5-07e1-43eb-b0cf-e81712bda176",
+                    "boundaryNum": 1,
+                    "name": "ZAID MARKET - Block 3 - A1",
+                    "localname": "ZAID MARKET - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b77c33a4-fa69-44df-a87f-1867342932c7",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA JAIDA DA - Block 3 - A1",
+                    "localname": "MOHALLA JAIDA DA - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b41cb816-fbaf-4171-ac8a-f7eb88c02dbc",
+                    "boundaryNum": 1,
+                    "name": "BAZAR - Block 3 - A1",
+                    "localname": "BAZAR - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cc0038de-9d6a-4cd2-bda5-3638b714b810",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA CHINIGAR - Block 3 - A1",
+                    "localname": "MOHALLA CHINIGAR - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 20",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dd21b0bd-1b2e-4a93-8a67-fb85b0d9cc2a",
+                    "boundaryNum": 1,
+                    "name": "THANA ROAD - Block 3 - A1",
+                    "localname": "THANA ROAD - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4b44de04-1f23-48fd-a97a-953aae95fa47",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA DHUNDYA - Block 3 - A1",
+                    "localname": "MOHALLA DHUNDYA - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 22",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "edd238c0-da6e-4e95-acce-a47dc246d3bb",
+                    "boundaryNum": 1,
+                    "name": "BADA CHOWK - Block 3 - A1",
+                    "localname": "BADA CHOWK - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "18e9726f-d0a8-4ff8-9591-57edbc395f05",
+                    "boundaryNum": 1,
+                    "name": "AGGARWAL - Block 3 - A1",
+                    "localname": "AGGARWAL - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "159ab051-b964-44f0-9124-68c7a2a4373d",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA GILLAN DA - Block 3 - A2",
+                    "localname": "MOHALLA GILLAN DA - Block 3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 25",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "99e08672-c332-4631-bdb5-92c10aa5eea8",
+                    "boundaryNum": 1,
+                    "name": "NEAR HOSPITAL - Block 3 - A2",
+                    "localname": "NEAR HOSPITAL - Block 3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 26",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "69acadc2-2c27-460c-8851-c4dc5301e71f",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA SANDHUAN - Block 3 - A2",
+                    "localname": "MOHALLA SANDHUAN - Block 3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 27",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "98f86a30-3bb1-4e07-b251-5225b8760eaa",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA GREWAL - Block 3 - A2",
+                    "localname": "MOHALLA GREWAL - Block 3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 28",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b47d5e16-cc9f-4300-9366-4a1a200022f3",
+                    "boundaryNum": 1,
+                    "name": "MAIN BAZAR - Block 3 - A1",
+                    "localname": "MAIN BAZAR - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f81deb47-5497-4ef0-9a94-bfa05b3eacbe",
+                    "boundaryNum": 1,
+                    "name": "KALALAN BAZAR - Block 3 - A1",
+                    "localname": "KALALAN BAZAR - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 51",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "782517cc-a4a5-4d39-aa09-a0e84af4879b",
+                    "boundaryNum": 1,
+                    "name": "BADE KAURE - Block 3 - A1",
+                    "localname": "BADE KAURE - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 54",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d68d0bf8-9278-4722-8d91-65fa9538e247",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "d86cfdf6-2074-45ab-8d14-7b73afe6e6c0",
+                    "boundaryNum": 1,
+                    "name": "NEAR HANUMAN MANDIR - Block 4 - A1",
+                    "localname": "NEAR HANUMAN MANDIR - Block 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0730610d-4849-48ee-a08c-62870c02fec5",
+                    "boundaryNum": 1,
+                    "name": "MOHALA GONDARA - Block 4 - A2",
+                    "localname": "MOHALA GONDARA - Block 4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 31",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "66412104-d35d-4d50-a90f-b146b796560a",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA DIBBIPURA - Block 4 - A2",
+                    "localname": "MOHALLA DIBBIPURA - Block 4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 32",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2b4d8541-1756-482b-9f98-cf1e92737458",
+                    "boundaryNum": 1,
+                    "name": "MOHALA BUTTAR - Block 4 - A2",
+                    "localname": "MOHALA BUTTAR - Block 4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 33",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b5fab0d3-66df-466c-9c7e-322bd40701a6",
+                    "boundaryNum": 1,
+                    "name": "MOHALA PURIYAN - Block 4 - A1",
+                    "localname": "MOHALA PURIYAN - Block 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 34",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b791892a-c525-4eb5-8346-6878f344a7bf",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA NATTAN - Block 4 - A2",
+                    "localname": "MOHALLA NATTAN - Block 4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 35",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "422f9f13-ef6a-4ff6-b154-aa703c1e12ba",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA TALIAN DA - Block 4 - A3",
+                    "localname": "MOHALLA TALIAN DA - Block 4 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 36",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "d19d1bc7-6c4e-4b85-b222-14b54178cc73",
+                    "boundaryNum": 1,
+                    "name": "CHOTA CHOWK - Block 4 - A1",
+                    "localname": "CHOTA CHOWK - Block 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 55",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b86a53e2-55dc-4cb8-b295-0549784174d6",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "5ca1393d-96db-4dd3-9d88-710ef25fc1af",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA JANGIKA - Block 5 - A2",
+                    "localname": "MOHALLA JANGIKA - Block 5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 37",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "36394f48-3b6a-47b5-82ed-b887400d7594",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA DHINDSA - Block 5 - A2",
+                    "localname": "MOHALLA DHINDSA - Block 5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 38",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "6d5de17f-acfc-401f-bb71-891cd375d576",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA NIMWALA - Block 5 - A3",
+                    "localname": "MOHALLA NIMWALA - Block 5 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 39",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "de348aad-08ba-4707-ae8e-55f12c92cbfd",
+                    "boundaryNum": 1,
+                    "name": "BAJAKHANA ROAD - Block 5 - A1",
+                    "localname": "BAJAKHANA ROAD - Block 5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 40",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3554e372-db6f-47b3-8734-45378eba68a0",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "5ee6bfaa-34fd-4a31-98a1-e04fc8e87702",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA SADHA DA - Block 6 - A3",
+                    "localname": "MOHALLA SADHA DA - Block 6 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 41",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "cbaff8f0-4a4a-401f-a8aa-dd7b6b44073d",
+                    "boundaryNum": 1,
+                    "name": "TINKONI ROAD - Block 6 - A1",
+                    "localname": "TINKONI ROAD - Block 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 42",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "426cdcc0-c03e-46ca-a7ca-72485a50aeb2",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA NAINEWALA - Block 6 - A2",
+                    "localname": "MOHALLA NAINEWALA - Block 6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 43",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "eee03430-6827-4a03-8ab8-ca6019c76189",
+                    "boundaryNum": 1,
+                    "name": "NEAR BUS STAND - Block 6 - A1",
+                    "localname": "NEAR BUS STAND - Block 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 44",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0bc9cab5-b436-462f-bfb1-77ce7d8b8278",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "618b16c1-3fc1-40d9-b78f-78ea3eb8dbc6",
+                    "boundaryNum": 1,
+                    "name": "CHANNA ROAD - Block 7 - A2",
+                    "localname": "CHANNA ROAD - Block 7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 45",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "bf698dd7-63ff-4a18-a161-df02a696fd6d",
+                    "boundaryNum": 1,
+                    "name": "BARNALA ROAD - Block 7 - A1",
+                    "localname": "BARNALA ROAD - Block 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 46",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1dcc4694-4b81-4dba-8579-778fa22f8d4e",
+                    "boundaryNum": 1,
+                    "name": "MOHALLA BAJKHANA - Block 7 - A2",
+                    "localname": "MOHALLA BAJKHANA - Block 7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 47",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d8abc620-0205-400a-985c-d693b999b700",
+                    "boundaryNum": 1,
+                    "name": "TALWANDI ROAD - Block 7 - A3",
+                    "localname": "TALWANDI ROAD - Block 7 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 48",
+                    "area": "AREA3",
+                    "children": []
+                  },
+                  {
+                    "id": "b07bcd62-1ba3-4a23-bded-109a382eb22e",
+                    "boundaryNum": 1,
+                    "name": "TAPA ROAD - Block 7 - A1",
+                    "localname": "TAPA ROAD - Block 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 49",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "41fd8551-3e31-475c-9714-af5bf9a9333d",
+                    "boundaryNum": 1,
+                    "name": "NAINEWAL - Block 7 - A1",
+                    "localname": "NAINEWAL - Block 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC 50",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

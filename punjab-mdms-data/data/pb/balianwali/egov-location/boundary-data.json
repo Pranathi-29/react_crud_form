@@ -1,0 +1,714 @@
+{
+  "tenantId": "pb.balianwali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balianwali",
+        "localname": "Balianwali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.balianwali",
+        "children": [
+          {
+            "id": "851ebf91-fc4a-4211-a9ba-06f611d0edc2",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "a5d5488b-48ce-4db4-8cf4-50819b554053",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD1",
+                "children": [
+                  {
+                    "id": "386ec2f9-bbd1-4985-b7ef-be9ef752ca9c",
+                    "boundaryNum": 1,
+                    "name": "Raiya Patti - WARD 1",
+                    "localname": "Raiya Patti - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "577b9e60-d099-461f-8ea4-9c189df203ce",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD6",
+                "children": [
+                  {
+                    "id": "5fa9fa16-efa8-4814-bd7e-c20dc117a89d",
+                    "boundaryNum": 1,
+                    "name": "Kaura Patti - WARD 6",
+                    "localname": "Kaura Patti - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fca56daa-37c4-42e8-9ca8-55c2969c78a5",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD8",
+                "children": [
+                  {
+                    "id": "1e964600-cb1c-4267-8f4d-a211ead51ff4",
+                    "boundaryNum": 1,
+                    "name": "Kaura Patti - WARD 8",
+                    "localname": "Kaura Patti - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "8fbe54be-c16a-468c-bcc8-c9aecfca7a0f",
+            "boundaryNum": 1,
+            "name": "Zone2",
+            "localname": "Zone2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN2",
+            "children": [
+              {
+                "id": "9bc7067a-0db1-4073-9711-837a0fb5f2e1",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD3",
+                "children": [
+                  {
+                    "id": "cc165467-fde2-4b57-b771-395dfabd9668",
+                    "boundaryNum": 1,
+                    "name": "Kaura Patti - WARD 3",
+                    "localname": "Kaura Patti - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e96c565f-e196-4987-96d2-476594952f57",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD9",
+                "children": [
+                  {
+                    "id": "a055dc29-d43a-4566-a620-f2efc0d03c26",
+                    "boundaryNum": 1,
+                    "name": "Kaura Patti - WARD 9",
+                    "localname": "Kaura Patti - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc0865ba-b011-4c5c-8968-119bad5212dc",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD11",
+                "children": [
+                  {
+                    "id": "deda7d0d-9b74-4a53-afde-1db0976d1e09",
+                    "boundaryNum": 1,
+                    "name": "Ganji Bani Patti - WARD 11",
+                    "localname": "Ganji Bani Patti - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "cf1568f5-3687-438a-bff0-0f23fd7c85f2",
+            "boundaryNum": 1,
+            "name": "Zone3",
+            "localname": "Zone3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN3",
+            "children": [
+              {
+                "id": "9051c18f-4350-4bec-80ec-1bc738f3c1d1",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD2",
+                "children": [
+                  {
+                    "id": "55888094-a656-4828-9ee9-c799fc281118",
+                    "boundaryNum": 1,
+                    "name": "Mana Patti - WARD 2",
+                    "localname": "Mana Patti - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d95a832-d264-40c5-a36a-d22c37c9d46f",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD5",
+                "children": [
+                  {
+                    "id": "2d364608-504e-4fd1-bed1-efc28c61a224",
+                    "boundaryNum": 1,
+                    "name": "Ramdasiya mohala - WARD 5",
+                    "localname": "Ramdasiya mohala - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9dd094b6-a9bc-4ffd-b482-e7c1a744cf10",
+            "boundaryNum": 1,
+            "name": "Zone4",
+            "localname": "Zone4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN4",
+            "children": [
+              {
+                "id": "8f63efd7-890f-40cf-9755-b94746fa6600",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD4",
+                "children": [
+                  {
+                    "id": "dac00977-5eb1-42b0-9a9a-d5bc9a1b9ad3",
+                    "boundaryNum": 1,
+                    "name": "Ganji Bani Patti - WARD 4",
+                    "localname": "Ganji Bani Patti - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "841677b7-22df-4a06-ace2-c86a42dbc8a7",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD7",
+                "children": [
+                  {
+                    "id": "0d5c698e-20aa-4bab-b506-4e498e4bf13a",
+                    "boundaryNum": 1,
+                    "name": "Kaura Patti - WARD 7",
+                    "localname": "Kaura Patti - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7842ba8d-dd90-483f-a45c-733bab9010b7",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD10",
+                "children": [
+                  {
+                    "id": "4b0f19bc-e91d-4862-a07e-91e81a6b4e7c",
+                    "boundaryNum": 1,
+                    "name": "Mana Patti - WARD 10",
+                    "localname": "Mana Patti - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balianwali",
+        "localname": "Balianwali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.balianwali",
+        "children": [
+          {
+            "id": "bfee9c16-845b-475d-85f0-e51c57ea5c4e",
+            "boundaryNum": 1,
+            "name": "zone 1",
+            "localname": "zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "5c9fa758-69b0-41d7-a24e-147d8a771dcc",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD1",
+                "children": [
+                  {
+                    "id": "f34e04f4-024a-4a5c-be0e-022425b8efa0",
+                    "boundaryNum": 1,
+                    "name": "Bacho Road To Bus Stand & Dhade Road & Channikit Store - WD1 - A1",
+                    "localname": "Bacho Road To Bus Stand & Dhade Road & Channikit Store - WD1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d6f711a6-3ec6-4e22-b324-c30436c334f9",
+                    "boundaryNum": 1,
+                    "name": "main Bazar To Dangar Hospital Right  Side - WD1 - A1",
+                    "localname": "main Bazar To Dangar Hospital Right  Side - WD1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2054340e-39e7-4273-9046-7878e81c5a2f",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD6",
+                "children": [
+                  {
+                    "id": "7852c5d8-e947-404b-ba2b-b533d00faf01",
+                    "boundaryNum": 1,
+                    "name": "Papa Singh Chairman Ghar Kol firani ,Rajinder Mc Wali Gali ,Dr Hem Chand Sharma Wali Gali,Guru Arjan Dev Public School Wali Gali - WD6 - A2",
+                    "localname": "Papa Singh Chairman Ghar Kol firani ,Rajinder Mc Wali Gali ,Dr Hem Chand Sharma Wali Gali,Guru Arjan Dev Public School Wali Gali - WD6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3658d1d-5e3c-4355-96e7-88e264ccdccd",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD8",
+                "children": [
+                  {
+                    "id": "d647b247-ac77-49b2-a4ac-d0eea0886a39",
+                    "boundaryNum": 1,
+                    "name": "Ramleela Ground , Bank Bazar And kila Road - WD8 - A2",
+                    "localname": "Ramleela Ground , Bank Bazar And kila Road - WD8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "34ca900c-5807-44b2-b045-c27c2b48bab1",
+            "boundaryNum": 1,
+            "name": "zone 2",
+            "localname": "zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN2",
+            "children": [
+              {
+                "id": "a5a07a6b-7308-4a6e-8024-a9a563d9186a",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD3",
+                "children": [
+                  {
+                    "id": "b5939571-58c1-4ea3-bc18-92ab9f158076",
+                    "boundaryNum": 1,
+                    "name": "Sher Mc to Dharmshala Tak.and Tarsem Singh To Buta Singh Ghar tak , Krishan Singh To Baljeet Singh De Ghar Tak,Gogi Singh To Resham Singh De Ghar Tak - WD3 - A2",
+                    "localname": "Sher Mc to Dharmshala Tak.and Tarsem Singh To Buta Singh Ghar tak , Krishan Singh To Baljeet Singh De Ghar Tak,Gogi Singh To Resham Singh De Ghar Tak - WD3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76453e70-b5c2-49bf-a5c0-bb9ed6509896",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD9",
+                "children": [
+                  {
+                    "id": "d15fc006-fb04-455a-acec-185f47ad1e1a",
+                    "boundaryNum": 1,
+                    "name": "Main Gurdwara Shaib Road ,Happy Pardan Wali Gali and Water works Road - WD9 - A2",
+                    "localname": "Main Gurdwara Shaib Road ,Happy Pardan Wali Gali and Water works Road - WD9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC13",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "270db207-0b9a-490e-9aa9-1ef16acc86bc",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD11",
+                "children": [
+                  {
+                    "id": "5a67a2c4-0b1a-4556-95b0-9865c5bb0f0e",
+                    "boundaryNum": 1,
+                    "name": "purani Bank Wali Gali, Ramesh Kumar Mc Wali Gali,kuldeep Pattarkar Wali Gali - WD11 - A2",
+                    "localname": "purani Bank Wali Gali, Ramesh Kumar Mc Wali Gali,kuldeep Pattarkar Wali Gali - WD11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7e40c2e1-3f4c-4755-bfbc-a80cddd453a0",
+            "boundaryNum": 1,
+            "name": "zone 3",
+            "localname": "zone 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN3",
+            "children": [
+              {
+                "id": "c82279f5-6856-45d8-b3f2-069409e52344",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD2",
+                "children": [
+                  {
+                    "id": "ec7968ce-7698-428c-882f-045514ce5022",
+                    "boundaryNum": 1,
+                    "name": "main Bazar To Dangar Hospital Lift  Side - WD2 - A1",
+                    "localname": "main Bazar To Dangar Hospital Lift  Side - WD2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bf343c71-9053-429c-817c-f6b299beaf1b",
+                    "boundaryNum": 1,
+                    "name": "Banarsi Chowk to Mana Pati - WD2 - A2",
+                    "localname": "Banarsi Chowk to Mana Pati - WD2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "30bd90d6-094e-4f92-a1e1-b20e4e8e4925",
+                    "boundaryNum": 1,
+                    "name": "House Lal Singh To Mahinder Wali Gali To Subhash Wali Gali To Bus Stand Fhirani Road Tak - WD2 - A2",
+                    "localname": "House Lal Singh To Mahinder Wali Gali To Subhash Wali Gali To Bus Stand Fhirani Road Tak - WD2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4756a3fd-72df-4978-807a-4d262cd094f4",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD5",
+                "children": [
+                  {
+                    "id": "0b293c93-e164-4798-a2bb-1f1216038f83",
+                    "boundaryNum": 1,
+                    "name": "Lachman Singh To Dev singh De Ghar Tak, Rimpy Mc Wali Gali ,Dharshalla Wali Gali. Jarnail Singh Gill Pati De Ghar To DharmShalla Tak - WD5 - A2",
+                    "localname": "Lachman Singh To Dev singh De Ghar Tak, Rimpy Mc Wali Gali ,Dharshalla Wali Gali. Jarnail Singh Gill Pati De Ghar To DharmShalla Tak - WD5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a26a0ea3-f1b4-4861-b75b-3b0125596d64",
+            "boundaryNum": 1,
+            "name": "zone 4",
+            "localname": "zone 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN4",
+            "children": [
+              {
+                "id": "559aad93-7336-499e-9564-ee2bd097afbe",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD4",
+                "children": [
+                  {
+                    "id": "ee18d41e-9c44-4d23-86a6-c5a97979bd4d",
+                    "boundaryNum": 1,
+                    "name": "Parmjeet Mc De Ghar kol Fhirani,Balor Singh To Gaggan Singh De Ghar Tak,Lal SinghFoji De Ghar To Hakam Singh , Gugu Talor To Dharmshalla Tak - WD4 - A2",
+                    "localname": "Parmjeet Mc De Ghar kol Fhirani,Balor Singh To Gaggan Singh De Ghar Tak,Lal SinghFoji De Ghar To Hakam Singh , Gugu Talor To Dharmshalla Tak - WD4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2ef3e6dc-bab8-424e-94ba-0e4077514b13",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD7",
+                "children": [
+                  {
+                    "id": "647ddc9a-0b78-4cda-a544-7158459beaa3",
+                    "boundaryNum": 1,
+                    "name": "Peerkhane Wali Gali , Shiv Mandir Wali gali - WD7 - A2",
+                    "localname": "Peerkhane Wali Gali , Shiv Mandir Wali gali - WD7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a77a5958-9883-4700-bcc3-2a116a7330b5",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WD10",
+                "children": [
+                  {
+                    "id": "09449830-e91e-4437-98ea-a312a8ac3d27",
+                    "boundaryNum": 1,
+                    "name": "Old SBOP Barch to Sharma coaching center to Banarsi Chowk - WD10 - A1",
+                    "localname": "Old SBOP Barch to Sharma coaching center to Banarsi Chowk - WD10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "fe1b5a4f-2d26-43fd-a5a0-cc6860dc0d2a",
+                    "boundaryNum": 1,
+                    "name": "Banarsi Chowk ,Shani Dev Mandir Wali Gali ,Raziware Wali Gali - WD10 - A2",
+                    "localname": "Banarsi Chowk ,Shani Dev Mandir Wali Gali ,Raziware Wali Gali - WD10 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LC14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

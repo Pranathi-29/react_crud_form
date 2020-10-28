@@ -1,0 +1,24 @@
+"$schema": http://json-schema.org/schema#
+type: object
+properties:
+  code:
+    type: string
+  name:
+    type: string
+  emailId:
+    type: string
+  edit Schema:
+    type: string
+  city:
+    type: object
+    properties:
+      name:
+        type: string
+      districtName:
+        type: string
+      code:
+        type: string
+    required:
+    - code
+    - districtName
+    - name

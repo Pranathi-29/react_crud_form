@@ -1,0 +1,1242 @@
+{
+  "tenantId": "pb.gidderbaha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Gidderbaha",
+        "localname": "Gidderbaha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.gidderbaha",
+        "children": [
+          {
+            "id": "f51ed8cf-8d27-4f19-bc26-204c9576aeb3",
+            "boundaryNum": 1,
+            "name": "GIDDERBAHA WEST",
+            "localname": "GIDDERBAHA WEST",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GDB1",
+            "children": [
+              {
+                "id": "54ddf391-63be-4622-b50d-30f72405be4a",
+                "boundaryNum": 1,
+                "name": "WARD 16",
+                "localname": "WARD 16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD16",
+                "children": [
+                  {
+                    "id": "5f51de0a-e6ae-4739-95b8-fb246a983c6d",
+                    "boundaryNum": 1,
+                    "name": "LACHMI NAGAR - WARD 16",
+                    "localname": "LACHMI NAGAR - WARD 16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8612c86f-38e4-4486-ae78-15ae1a920b39",
+                "boundaryNum": 1,
+                "name": "WARD 17",
+                "localname": "WARD 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD17",
+                "children": [
+                  {
+                    "id": "4bae213a-dc64-424b-8074-5bea648f4e25",
+                    "boundaryNum": 1,
+                    "name": "MOTI NAGAR - WARD 17",
+                    "localname": "MOTI NAGAR - WARD 17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8e1f8b1e-8c03-4783-bf8b-f4c2baff9997",
+                "boundaryNum": 1,
+                "name": "WARD 18",
+                "localname": "WARD 18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD18",
+                "children": [
+                  {
+                    "id": "7c53d2b5-f53c-43a2-85ab-4d54a239d1b3",
+                    "boundaryNum": 1,
+                    "name": "DHANAK MOHALLA - WARD 18",
+                    "localname": "DHANAK MOHALLA - WARD 18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "00218806-0f3a-4051-9c86-3565ac2bf6bc",
+                "boundaryNum": 1,
+                "name": "WARD 19",
+                "localname": "WARD 19",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD19",
+                "children": [
+                  {
+                    "id": "75117bb0-d25b-4847-afe1-108c5e10bcc7",
+                    "boundaryNum": 1,
+                    "name": "ROOP NAGAR - WARD 19",
+                    "localname": "ROOP NAGAR - WARD 19",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7a888fe5-3f69-422b-98cc-29f33588711d",
+            "boundaryNum": 1,
+            "name": "GIDDERBAHA EAST",
+            "localname": "GIDDERBAHA EAST",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GDB2",
+            "children": [
+              {
+                "id": "2cf85e37-44b7-4f9b-a2c0-2fbbeaaebac1",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "6d641b86-bf64-4ab4-bea4-a2ae6cb633d0",
+                    "boundaryNum": 1,
+                    "name": "TILAK NAGAR - WARD 4",
+                    "localname": "TILAK NAGAR - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18dbdac6-18fb-4060-a47c-2f0a018a3e13",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "f1111d76-7ae5-43bd-aebc-3d46b90dd97c",
+                    "boundaryNum": 1,
+                    "name": "AGGARWAL COLONY - WARD 6",
+                    "localname": "AGGARWAL COLONY - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "af0a58c7-686a-4316-b1d1-1182da9c30df",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "f19d1859-ffa0-42b5-a305-039b5fac2be6",
+                    "boundaryNum": 1,
+                    "name": "SIKH MOHALLA - WARD 7",
+                    "localname": "SIKH MOHALLA - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "e889e206-adda-4958-bc7a-71f28c4057d4",
+            "boundaryNum": 1,
+            "name": "GIDDERBAHA SOUTH",
+            "localname": "GIDDERBAHA SOUTH",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GDB3",
+            "children": [
+              {
+                "id": "56b2f7b3-d452-4fa6-913f-f48a4629a92c",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "64e89f14-6408-4775-a6a3-3c8047c9d1ec",
+                    "boundaryNum": 1,
+                    "name": "WADDI SATH - WARD 8",
+                    "localname": "WADDI SATH - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a08deb8-bd5e-4ff0-a954-5df3739f821a",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "44419fa3-0114-46c4-8f5e-ce180ddaa6ee",
+                    "boundaryNum": 1,
+                    "name": "DANDIWAL PATTI - WARD 9",
+                    "localname": "DANDIWAL PATTI - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "044e5385-ff36-4e3e-bb27-d14f3e10de2f",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "c349766b-dcf4-46d0-abb6-b174f6bf258c",
+                    "boundaryNum": 1,
+                    "name": "PIND WALA PARK - WARD 10",
+                    "localname": "PIND WALA PARK - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4ac71f2a-f107-4145-a3e6-6a0b20fc5980",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "5ff37e14-f7ca-43d6-b241-0250fdfbdc27",
+                    "boundaryNum": 1,
+                    "name": "NATHAN WAL KHOO - WARD 11",
+                    "localname": "NATHAN WAL KHOO - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f731e15f-a4f4-4490-ba43-c183a9fb2562",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "de5c5146-d683-449f-8eaa-655a18276186",
+                    "boundaryNum": 1,
+                    "name": "KHATIK MOHALLA - WARD 12",
+                    "localname": "KHATIK MOHALLA - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1efefe54-e351-4863-a3cc-031da8d9fe3b",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "e916a5f5-7761-47f4-b32a-61fdf2961c7e",
+                    "boundaryNum": 1,
+                    "name": "BANTA BAAD - WARD 13",
+                    "localname": "BANTA BAAD - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f365f5ac-ecef-4a59-ba56-0bd859532751",
+                "boundaryNum": 1,
+                "name": "WARD 14",
+                "localname": "WARD 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "5495f16c-bbaa-4281-bfaa-95af411e1040",
+                    "boundaryNum": 1,
+                    "name": "LAMBI ROAD - WARD 14",
+                    "localname": "LAMBI ROAD - WARD 14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2558fe7c-f58e-48f9-a122-50536a40bac9",
+                "boundaryNum": 1,
+                "name": "WARD 15",
+                "localname": "WARD 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "84537f26-afed-454f-b111-e2c57efc9a0a",
+                    "boundaryNum": 1,
+                    "name": "HANUMAAN MANDIR BANTA BAAD - WARD 15",
+                    "localname": "HANUMAAN MANDIR BANTA BAAD - WARD 15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a2c30d66-b9cb-4322-8c57-3f944b4ae0f7",
+            "boundaryNum": 1,
+            "name": "GIDDERBAHA NORTH",
+            "localname": "GIDDERBAHA NORTH",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "GDB4",
+            "children": [
+              {
+                "id": "1db01962-3c6a-4d31-a9e4-39cba20a0511",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "6a1b7285-dac1-41fe-8726-3bed530c692a",
+                    "boundaryNum": 1,
+                    "name": "MARKFED - WARD 1",
+                    "localname": "MARKFED - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b8b61988-b62d-4b15-9178-8df97a1083d8",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "817eeb86-401c-4ce9-839a-28e021e50ce5",
+                    "boundaryNum": 1,
+                    "name": "BACK SIDE TRUCK UNION - WARD 2",
+                    "localname": "BACK SIDE TRUCK UNION - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f4f629da-c3fa-45bf-88aa-6dbfec5525a0",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "0d6b50fc-2584-4732-9d20-e3328f652a78",
+                    "boundaryNum": 1,
+                    "name": "GURU NANAK NAGAR,HATHI COLONY - WARD 3",
+                    "localname": "GURU NANAK NAGAR,HATHI COLONY - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "be00f920-e46a-4a4d-bd3e-acebd197f0f6",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "623579bd-4e2b-4d7e-9cbe-d7c9a04c85a8",
+                    "boundaryNum": 1,
+                    "name": "SUBHASH NAGAR - WARD 5",
+                    "localname": "SUBHASH NAGAR - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Gidderbaha",
+        "localname": "Gidderbaha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.gidderbaha",
+        "children": [
+          {
+            "id": "44255a65-aaf8-48e1-82dc-8b3af5647c3f",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z 1",
+            "children": [
+              {
+                "id": "734336dc-9e46-40a7-8085-c7d60512d2a7",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "96bf3467-e424-47fd-b4bf-ac8ab850a6f7",
+                    "boundaryNum": 1,
+                    "name": "MANDI DE CHARDIWRI ANDR Block 1 - B1 - A1",
+                    "localname": "MANDI DE CHARDIWRI ANDR Block 1 - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6e41ed63-890f-435c-93c2-b92dc99a2684",
+                    "boundaryNum": 1,
+                    "name": "BUS STAND WALA AREA Block 1 - B1 - A1",
+                    "localname": "BUS STAND WALA AREA Block 1 - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c4adb4d0-6782-45b5-85c8-ec739450d56d",
+                    "boundaryNum": 1,
+                    "name": "RAILWAY STATION WALA AREA Block 1 - B1 - A1",
+                    "localname": "RAILWAY STATION WALA AREA Block 1 - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2954c285-9d27-43ff-b780-3645eed6da67",
+                "boundaryNum": 1,
+                "name": "Block 2 A",
+                "localname": "Block 2 A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "8d9a94e1-8e88-42fc-b89e-797b82ffa503",
+                    "boundaryNum": 1,
+                    "name": "THAKUR MOHALA Block 2 A - B2 - A1",
+                    "localname": "THAKUR MOHALA Block 2 A - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d955c00e-f6ec-4549-a43f-a9a26861a0c4",
+                    "boundaryNum": 1,
+                    "name": "NEAR PAKKA TLAB Block 2 A - B2 - A1",
+                    "localname": "NEAR PAKKA TLAB Block 2 A - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "af0eab90-9544-4ded-b768-9a74b27f5a20",
+                    "boundaryNum": 1,
+                    "name": "ROOP NAGAR  Block 2 A - B2 - A1",
+                    "localname": "ROOP NAGAR  Block 2 A - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "68bf25ed-dc8b-47a6-ab10-ab1073d4cb8b",
+                    "boundaryNum": 1,
+                    "name": "BALA JI NAGAR  Block 2 A - B2 - A1",
+                    "localname": "BALA JI NAGAR  Block 2 A - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "04cfc092-64f8-445d-8fa1-6a16ad196567",
+                    "boundaryNum": 1,
+                    "name": "LAMBI FATAK TO SARCULAR ROAD LEFT SIDE BATHI MOD TAK Block 2 A - B2 - A1",
+                    "localname": "LAMBI FATAK TO SARCULAR ROAD LEFT SIDE BATHI MOD TAK Block 2 A - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4b595103-f08f-4ebd-b90d-548b8f8d545a",
+                    "boundaryNum": 1,
+                    "name": "BATHI MOD TO LEFT SIDE GAUSHALA MANDIR TAK Block 2 A - B2 - A1",
+                    "localname": "BATHI MOD TO LEFT SIDE GAUSHALA MANDIR TAK Block 2 A - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5ea5f13-98a6-4900-abe9-d94e2ed213ac",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "46386264-4d6a-4957-ae9f-b0e67a14cc63",
+                    "boundaryNum": 1,
+                    "name": "COURT COMPLEX AREA Block 3 - B4 - A1",
+                    "localname": "COURT COMPLEX AREA Block 3 - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "924b4daa-2e3a-479d-872f-87141eb205ef",
+                    "boundaryNum": 1,
+                    "name": "DAV SCHOOL BACKSIDE Block 3 - B4 - A1",
+                    "localname": "DAV SCHOOL BACKSIDE Block 3 - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1106fa0a-1948-4ccd-8a4c-2633359b13a7",
+                    "boundaryNum": 1,
+                    "name": "MARKFED AND CIVIL HOSPITAL WALA AREA Block 3 - B4 - A1",
+                    "localname": "MARKFED AND CIVIL HOSPITAL WALA AREA Block 3 - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD15",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "81d6d8f8-2de7-43b1-9b3e-6bbd34b1cb4f",
+                "boundaryNum": 1,
+                "name": "Block 4 A",
+                "localname": "Block 4 A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "f952e9ec-c764-4b0e-ba75-635d47e45084",
+                    "boundaryNum": 1,
+                    "name": "KOTBAHI RAJBAHE TO RIGHT SIDE HUSNER TAK Block 4 A - B5 - A1",
+                    "localname": "KOTBAHI RAJBAHE TO RIGHT SIDE HUSNER TAK Block 4 A - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "de66cfa4-757d-4884-9531-a608eb728ad3",
+                    "boundaryNum": 1,
+                    "name": "MALAN CLONY Block 4 A - B5 - A1",
+                    "localname": "MALAN CLONY Block 4 A - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "adbd2e44-5555-42ed-a20a-6d8c07b6b06f",
+                    "boundaryNum": 1,
+                    "name": "HUSNER CHOUNK TO BHARU CHOUNK FRONT TWO SIDE Block 4 A - B5 - A1",
+                    "localname": "HUSNER CHOUNK TO BHARU CHOUNK FRONT TWO SIDE Block 4 A - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD18",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "5d46e4c2-1917-4ba5-80ef-a77f140a79e8",
+                    "boundaryNum": 1,
+                    "name": "GURU TEG BADHUR NAGAR  Block 4 A - B5 - A1",
+                    "localname": "GURU TEG BADHUR NAGAR  Block 4 A - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD19",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6dc9714e-8247-4970-bff0-8d22d510d8a0",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "0533ecb8-c602-4008-868e-5b836259b4c4",
+                    "boundaryNum": 1,
+                    "name": "SAMSHAN BHOMI TO MARKET COMITE TAK RIGHT SIDE Block 5 - B7 - A1",
+                    "localname": "SAMSHAN BHOMI TO MARKET COMITE TAK RIGHT SIDE Block 5 - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD21",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2ff735ee-38e6-46a0-b9a9-cc6290876066",
+                    "boundaryNum": 1,
+                    "name": "MAKAR PALCE WALA AREA Block 5 - B7 - A1",
+                    "localname": "MAKAR PALCE WALA AREA Block 5 - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD22",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4ea1603d-511a-48dc-b3d3-743798bbff4f",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "dece1f50-7d23-4903-ae68-f50f33bf35a0",
+                    "boundaryNum": 1,
+                    "name": "SUBASH NAGAR Block 6 - B8 - A1",
+                    "localname": "SUBASH NAGAR Block 6 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD23",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f1185d42-2170-4c80-8c53-bb7d42d8801f",
+                    "boundaryNum": 1,
+                    "name": "BALWARRI SCHOOL WALI GALI Block 6 - B8 - A1",
+                    "localname": "BALWARRI SCHOOL WALI GALI Block 6 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD24",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee28a7cc-1f07-4f3f-81aa-03a4e5a663c0",
+                    "boundaryNum": 1,
+                    "name": "LASHMAN COLONY Block 6 - B8 - A1",
+                    "localname": "LASHMAN COLONY Block 6 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD25",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "03fc7fd4-88a8-4521-88e4-5bcf072cbf88",
+                    "boundaryNum": 1,
+                    "name": "AGGARWAL COLNY Block 6 - B8 - A1",
+                    "localname": "AGGARWAL COLNY Block 6 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD26",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4e2288c8-7253-4186-bf4a-7b5b9b6f20b0",
+                    "boundaryNum": 1,
+                    "name": "GURU NANAK NAGAR  Block 6 - B8 - A1",
+                    "localname": "GURU NANAK NAGAR  Block 6 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "493efc9b-835b-452c-a9d4-1a15eaa95c64",
+                "boundaryNum": 1,
+                "name": "Block 7 A",
+                "localname": "Block 7 A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "c13fb1bb-e184-4c12-a0f9-5d32bdd39d57",
+                    "boundaryNum": 1,
+                    "name": "TILAK NAGAR Block 7 A - B9 - A1",
+                    "localname": "TILAK NAGAR Block 7 A - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD28",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4c6f0680-723c-400c-852b-8a49aef37fc0",
+                    "boundaryNum": 1,
+                    "name": "WADHWAR COLONY Block 7 A - B9 - A1",
+                    "localname": "WADHWAR COLONY Block 7 A - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD29",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "19d120b1-c931-49a1-8ca3-1e61fa0972e9",
+                    "boundaryNum": 1,
+                    "name": "SIKH MOHALA  Block 7 A - B9 - A1",
+                    "localname": "SIKH MOHALA  Block 7 A - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD30",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "5ae2f420-50e5-4e16-998e-e0e20d58cdc8",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z 2",
+            "children": [
+              {
+                "id": "56072bba-7c43-4d46-aa68-d477553a18fe",
+                "boundaryNum": 1,
+                "name": "Block 2 B",
+                "localname": "Block 2 B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "938b89a6-897d-4522-a2b7-63ef3d326385",
+                    "boundaryNum": 1,
+                    "name": "DHANK MOHALA  Block 2 B - B3 - A2",
+                    "localname": "DHANK MOHALA  Block 2 B - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD10",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "e1fe59ec-784a-4e31-ab5d-75f23a03089d",
+                    "boundaryNum": 1,
+                    "name": "LACHMI NAGAR Block 2 B - B3 - A2",
+                    "localname": "LACHMI NAGAR Block 2 B - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "38017407-d645-4f6f-82c1-5871f0402a7f",
+                    "boundaryNum": 1,
+                    "name": "MOTI NAGAR Block 2 B - B3 - A2",
+                    "localname": "MOTI NAGAR Block 2 B - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5a360375-a82d-4f69-948a-d1273a21946a",
+                "boundaryNum": 1,
+                "name": "Block 4 B",
+                "localname": "Block 4 B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "1b5f6160-f5d6-4c8b-b5c2-5edf141ab13b",
+                    "boundaryNum": 1,
+                    "name": "AMEDKAR NAGAR  Block 4 B - B6 - A2",
+                    "localname": "AMEDKAR NAGAR  Block 4 B - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "add1ceb3-4795-44dc-8deb-5260fd48d5f8",
+                "boundaryNum": 1,
+                "name": "Block 7 B",
+                "localname": "Block 7 B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "c283606d-b86c-48b4-ba10-2215abd2d6c6",
+                    "boundaryNum": 1,
+                    "name": "VALMIKI MOHALLA Block 7 B - B10 - A2",
+                    "localname": "VALMIKI MOHALLA Block 7 B - B10 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD31",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "36e5c30f-68b0-4d65-a5e9-d55d86f82ca4",
+                    "boundaryNum": 1,
+                    "name": "PIYORI ROAD Block 7 B - B10 - A2",
+                    "localname": "PIYORI ROAD Block 7 B - B10 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD32",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d8766978-1aff-4303-949c-5bad10b877ea",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "3cf7ef31-5db5-469b-8db1-0db63560a17b",
+                    "boundaryNum": 1,
+                    "name": "DADDIWAL PATTI Block 8 - B11 - A2",
+                    "localname": "DADDIWAL PATTI Block 8 - B11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD33",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe84407d-043c-4d21-9092-a8d08bab06db",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "7c55c01e-387c-4329-be38-cdb4cc92a43b",
+                    "boundaryNum": 1,
+                    "name": "DASMESH NAGAR Block 9 - B12 - A2",
+                    "localname": "DASMESH NAGAR Block 9 - B12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD34",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "931f749e-08d9-453b-a49a-73b332c08585",
+                    "boundaryNum": 1,
+                    "name": "KINGRA PATTI Block 9 - B12 - A2",
+                    "localname": "KINGRA PATTI Block 9 - B12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD35",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2d014852-769c-4eed-a443-58f7082f62af",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "f0b56645-ca6a-4855-9041-b77c63b8a3ae",
+                    "boundaryNum": 1,
+                    "name": "LOLBAI ROAD Block 10 - B13 - A2",
+                    "localname": "LOLBAI ROAD Block 10 - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD36",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d75b04a5-498b-466d-bf6e-c7da73b8281d",
+                    "boundaryNum": 1,
+                    "name": "KHATIK MOHALA Block 10 - B13 - A2",
+                    "localname": "KHATIK MOHALA Block 10 - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD37",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "1741fcd0-f765-4763-a6b0-71095df3291e",
+                    "boundaryNum": 1,
+                    "name": "PREET NAGAR  Block 10 - B13 - A2",
+                    "localname": "PREET NAGAR  Block 10 - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD38",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2a99d6ad-f03b-4752-9237-df1c5a950cca",
+                    "boundaryNum": 1,
+                    "name": "BADAL ROAD Block 10 - B13 - A2",
+                    "localname": "BADAL ROAD Block 10 - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD39",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "83e029f0-852c-406d-b215-64ec0ad586de",
+                    "boundaryNum": 1,
+                    "name": "BENTABAD Block 10 - B13 - A2",
+                    "localname": "BENTABAD Block 10 - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD40",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3f10891f-be52-42d0-b9f8-0f96c0401ab4",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "627d8c36-ca09-43f9-8f41-538ddb352337",
+                    "boundaryNum": 1,
+                    "name": "LAMBI ROAD Block 11 - B14 - A2",
+                    "localname": "LAMBI ROAD Block 11 - B14 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD41",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "13905372-52d1-41e0-bedf-95790b4dcfae",
+                    "boundaryNum": 1,
+                    "name": "LALBAI ROAD Block 11 - B14 - A2",
+                    "localname": "LALBAI ROAD Block 11 - B14 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "GD42",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

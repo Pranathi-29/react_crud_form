@@ -1,0 +1,1458 @@
+{
+  "tenantId": "pb.nayagaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nayagaon",
+        "localname": "Nayagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nayagaon",
+        "children": [
+          {
+            "id": "8f047fe7-b9ea-479d-8742-2030ecff37c7",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD_3",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f18bce59-b249-4149-b992-d69f92ad4598",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "224bd5b2-50d1-4741-a7b9-8dabc09ed192",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Naya Gaon - WARD_4",
+                    "localname": "Gobind Nagar Naya Gaon - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65568a0b-05ec-4309-80df-a5a8e7d5ee75",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "bac277b6-b1f2-417d-ad55-cbc519c764ed",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD_6",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdae84a9-0bf9-4600-b7d9-049a90b7d72c",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "62274966-1c2c-44c6-81e3-93886f236aca",
+                    "boundaryNum": 1,
+                    "name": "Kansal Block A Naya Gaon - WARD_7",
+                    "localname": "Kansal Block A Naya Gaon - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31f4bc38-fd80-4a0b-9469-8eb6af4a51c5",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "5d6f3ba0-2ca7-43a3-a218-da2638af4ea7",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Sukhna Enclave Kansal - WARD_8",
+                    "localname": "Tribune Colony Sukhna Enclave Kansal - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "643fe20d-afd3-4b32-a19d-d84017ec1a04",
+                "boundaryNum": 1,
+                "name": "WARD_9 Zone 1",
+                "localname": "WARD_9 Zone 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "12197ff3-e8d1-465b-8564-b2e32ec88119",
+                    "boundaryNum": 1,
+                    "name": "Vill Kansal Zone 1 - WARD_9 Zone 1",
+                    "localname": "Vill Kansal Zone 1 - WARD_9 Zone 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_09",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fae0b43d-a0fe-4963-9a7d-3d57920c5a6a",
+                "boundaryNum": 1,
+                "name": "WARD_10 Zone 1",
+                "localname": "WARD_10 Zone 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10A",
+                "children": [
+                  {
+                    "id": "3cf72a2c-4132-4571-adc9-993322a05518",
+                    "boundaryNum": 1,
+                    "name": "Vill Kansal Block B Kansal Enclave Zone 1 - WARD_10 Zone 1",
+                    "localname": "Vill Kansal Block B Kansal Enclave Zone 1 - WARD_10 Zone 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98d4dcf0-d768-49cb-b2a0-cdd793506872",
+                "boundaryNum": 1,
+                "name": "WARD_11 Zone 1",
+                "localname": "WARD_11 Zone 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "da0d2c99-ee60-4e03-a8e1-2385a7d90dd3",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Vill Naya Gaon Zone 1 - WARD_11 Zone 1",
+                    "localname": "Shivalik Vihar Vill Naya Gaon Zone 1 - WARD_11 Zone 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "182818fc-f6a6-43c0-8673-459786b5d6e2",
+                "boundaryNum": 1,
+                "name": "WARD_12 Zone 1",
+                "localname": "WARD_12 Zone 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12A",
+                "children": [
+                  {
+                    "id": "b6c794fd-627f-4668-8d88-fe19d499ed8f",
+                    "boundaryNum": 1,
+                    "name": "Vill. Naya Gaon Zone 1 - WARD_12 Zone 1",
+                    "localname": "Vill. Naya Gaon Zone 1 - WARD_12 Zone 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99aa5993-b27a-49b8-891f-7bbb30bf30e1",
+                "boundaryNum": 1,
+                "name": "WARD_13 Zone 1",
+                "localname": "WARD_13 Zone 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13A",
+                "children": [
+                  {
+                    "id": "63752047-23ab-4106-8e70-93fb407655a9",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar Zone 1 - WARD_13 Zone 1",
+                    "localname": "Adarsh Nagar Zone 1 - WARD_13 Zone 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_18",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a4536ef-6ff0-48ee-94a8-0745299c258d",
+                "boundaryNum": 1,
+                "name": "WARD_19 Zone 1",
+                "localname": "WARD_19 Zone 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD19",
+                "children": [
+                  {
+                    "id": "f49af8b6-e56e-4c7d-a3cf-c75f3432893b",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar, Dashmesh Nagar Zone 1 - WARD_19 Zone 1",
+                    "localname": "Adarsh Nagar, Dashmesh Nagar Zone 1 - WARD_19 Zone 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31fb59cb-bdbb-4104-85d7-694317595261",
+                "boundaryNum": 1,
+                "name": "WARD_20 Zone 1",
+                "localname": "WARD_20 Zone 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD20",
+                "children": [
+                  {
+                    "id": "dcb831ae-e30a-480d-88fb-7b4ce8e3f263",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar Naya Gaon Zone 1 - WARD_20 Zone 1",
+                    "localname": "Dashmesh Nagar Naya Gaon Zone 1 - WARD_20 Zone 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_26",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ae0dd9e9-9ece-49f2-9091-5d7b02bf51ea",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "4b601677-3064-4463-9209-f1045876b3bb",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "20e6aa10-2f5d-468e-95e6-d2dd10ab0885",
+                    "boundaryNum": 1,
+                    "name": "Kamauo Colny Naya Gaon - WARD_1",
+                    "localname": "Kamauo Colny Naya Gaon - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_01",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83dd1bd1-9b97-48c2-8468-e871581ad084",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "c3d74e23-7399-401f-aafd-e85b77ad25b9",
+                    "boundaryNum": 1,
+                    "name": "Nada  Naya Gaon - WARD_2",
+                    "localname": "Nada  Naya Gaon - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_02",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d669054-6516-42af-ab5b-4e6642550008",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "f2edce77-7f0f-45b0-ae0b-d57da81e013d",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar Naya Gaon - WARD_5",
+                    "localname": "Dashmesh Nagar Naya Gaon - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_05",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a6b77908-4905-4eca-ad2a-9d812693f374",
+                "boundaryNum": 1,
+                "name": "WARD_9 Zone 2",
+                "localname": "WARD_9 Zone 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9A",
+                "children": [
+                  {
+                    "id": "cb1a580d-12a5-42cb-8d68-eb67a93e787e",
+                    "boundaryNum": 1,
+                    "name": "Vill Kansal Zone 2 - WARD_9 Zone 2",
+                    "localname": "Vill Kansal Zone 2 - WARD_9 Zone 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "658e7401-b0fe-4a4c-a02b-92a88b8f1efb",
+                "boundaryNum": 1,
+                "name": "WARD_10 Zone 2",
+                "localname": "WARD_10 Zone 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "f140da96-3718-4447-bd40-c0ba402c8c50",
+                    "boundaryNum": 1,
+                    "name": "Vill Kansal Block B Kansal Enclave Zone 2 - WARD_10 Zone 2",
+                    "localname": "Vill Kansal Block B Kansal Enclave Zone 2 - WARD_10 Zone 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9bb9fb70-2115-4193-917e-65869b65c771",
+                "boundaryNum": 1,
+                "name": "WARD_11 Zone 2",
+                "localname": "WARD_11 Zone 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11A",
+                "children": [
+                  {
+                    "id": "655f458f-2ddd-4ed3-bda0-3fc745472c78",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Vill Naya Gaon Zone 2 - WARD_11 Zone 2",
+                    "localname": "Shivalik Vihar Vill Naya Gaon Zone 2 - WARD_11 Zone 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "367e281f-fd4b-426f-af5b-1978c3417f17",
+                "boundaryNum": 1,
+                "name": "WARD_12 Zone 2",
+                "localname": "WARD_12 Zone 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "944724ae-a6e4-43d8-8a45-a3992450c264",
+                    "boundaryNum": 1,
+                    "name": "Vill. Naya Gaon Zone 2 - WARD_12 Zone 2",
+                    "localname": "Vill. Naya Gaon Zone 2 - WARD_12 Zone 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fe216942-6cd4-424a-ad1d-ba07d704dbc9",
+                "boundaryNum": 1,
+                "name": "WARD_13 Zone 2",
+                "localname": "WARD_13 Zone 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "22724317-8b93-4233-897c-c6b0025e3f14",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar Zone 2 - WARD_13 Zone 2",
+                    "localname": "Adarsh Nagar Zone 2 - WARD_13 Zone 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cac6ac39-abd9-4af8-93cb-daa9ac1f2fe8",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "7337a97e-f1fc-4816-bcab-d265a9ea5b5c",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar - WARD_14",
+                    "localname": "Adarsh Nagar - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_19",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07025514-6f6f-4e6e-ae9a-a7e3649213fd",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "850db150-6e75-45b8-940f-03cce565cf46",
+                    "boundaryNum": 1,
+                    "name": "Janta Colony - WARD_15",
+                    "localname": "Janta Colony - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_20",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e92f381e-eebe-4fb4-8d54-5b3b26dbbc9a",
+                "boundaryNum": 1,
+                "name": "WARD_16",
+                "localname": "WARD_16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD16",
+                "children": [
+                  {
+                    "id": "a1f884fe-8c7c-402d-bc7b-3c86f0640f9d",
+                    "boundaryNum": 1,
+                    "name": "Janta Colony - WARD_16",
+                    "localname": "Janta Colony - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_21",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26a3b285-d76d-4e2e-9533-7d2fce250e8b",
+                "boundaryNum": 1,
+                "name": "WARD_17",
+                "localname": "WARD_17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD17",
+                "children": [
+                  {
+                    "id": "3b674394-9106-41ab-ae87-5c667b1e933c",
+                    "boundaryNum": 1,
+                    "name": "Janta Colony - WARD_17",
+                    "localname": "Janta Colony - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a5febf5-c8c1-4fe9-8c4b-1de9f73dbeed",
+                "boundaryNum": 1,
+                "name": "WARD_18",
+                "localname": "WARD_18",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD18",
+                "children": [
+                  {
+                    "id": "f5f0a66e-1649-4058-a052-390916f772d6",
+                    "boundaryNum": 1,
+                    "name": "Janta Colony, Vikas Nagar - WARD_18",
+                    "localname": "Janta Colony, Vikas Nagar - WARD_18",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d65b8ca2-ed02-4ade-b4c0-378d18a81808",
+                "boundaryNum": 1,
+                "name": "WARD_19 Zone 2",
+                "localname": "WARD_19 Zone 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD19A",
+                "children": [
+                  {
+                    "id": "410cc03f-3640-421c-8c27-afbeca6c0322",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar, Dashmesh Nagar Zone 2 - WARD_19 Zone 2",
+                    "localname": "Adarsh Nagar, Dashmesh Nagar Zone 2 - WARD_19 Zone 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e21b0de-c7ae-48cd-99f9-c4260a733633",
+                "boundaryNum": 1,
+                "name": "WARD_20 Zone 2",
+                "localname": "WARD_20 Zone 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD20A",
+                "children": [
+                  {
+                    "id": "7444abf7-6aa1-4551-b583-d85180648b8a",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar Naya Gaon Zone 2 - WARD_20 Zone 2",
+                    "localname": "Dashmesh Nagar Naya Gaon Zone 2 - WARD_20 Zone 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77e537d6-278b-4868-b9c8-4aaa357717d7",
+                "boundaryNum": 1,
+                "name": "WARD_21",
+                "localname": "WARD_21",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD21",
+                "children": [
+                  {
+                    "id": "a90d7ec9-5620-4bf4-afdb-d16d19f4b156",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar, Vikas Nagar, Adarsh Nagar - WARD_21",
+                    "localname": "Dashmesh Nagar, Vikas Nagar, Adarsh Nagar - WARD_21",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NG_28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nayagaon",
+        "localname": "Nayagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nayagaon",
+        "children": [
+          {
+            "id": "f51ade2e-fbcd-4e8b-9c1a-602ebd123e8c",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a06ac7b8-f452-47d2-b9c9-be7291c2a875",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "66148784-cac2-42f9-9b6e-1808a9749425",
+                    "boundaryNum": 1,
+                    "name": "WWRWS Kansal C Block - B1 - A1",
+                    "localname": "WWRWS Kansal C Block - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b5e2d339-54fe-45c2-b2d7-6a8122925b6f",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Kansal - B1 - A1",
+                    "localname": "Tribune Colony Kansal - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6fe2480d-4336-4b41-86b0-4ed74c9c418e",
+                    "boundaryNum": 1,
+                    "name": "Near House of MC Sham Lal wali Abadi - B1 - A1",
+                    "localname": "Near House of MC Sham Lal wali Abadi - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "16a2af10-fb00-4d39-8f87-403ef81693c9",
+                    "boundaryNum": 1,
+                    "name": "Opp.Gugga Mari Near Water Tank Abadi - B1 - A1",
+                    "localname": "Opp.Gugga Mari Near Water Tank Abadi - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "273cf71e-d93f-4a09-a577-67a1094163a2",
+                "boundaryNum": 1,
+                "name": "Block 2a",
+                "localname": "Block 2a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2a",
+                "children": [
+                  {
+                    "id": "818acd52-898d-40ff-8c04-a8b81f3b3ed6",
+                    "boundaryNum": 1,
+                    "name": "WWRWS Kansal ABlock - B2a - A1",
+                    "localname": "WWRWS Kansal ABlock - B2a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2546d99c-e7fe-483f-af59-d6a4bebb295f",
+                    "boundaryNum": 1,
+                    "name": "WWRWS Kansal B Block - B2a - A1",
+                    "localname": "WWRWS Kansal B Block - B2a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d5799638-dc80-4b41-9e52-9cfc4bda1dfa",
+                    "boundaryNum": 1,
+                    "name": "Kansal Village outside Abadi - B2a - A1",
+                    "localname": "Kansal Village outside Abadi - B2a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50adaad9-95c7-4dcd-841e-ea1e2ff88869",
+                "boundaryNum": 1,
+                "name": "Block 3a",
+                "localname": "Block 3a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3a",
+                "children": [
+                  {
+                    "id": "a3317d79-148e-440d-b7d8-773928bf5673",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Khuda Ali Sher Road right - B3a - A1",
+                    "localname": "Shivalik Vihar Khuda Ali Sher Road right - B3a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f29e5e19-e9ff-4f21-a0f6-55f2293eacf0",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Near RA Farm - B3a - A1",
+                    "localname": "Shivalik Vihar Near RA Farm - B3a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2f58ada8-e72c-4609-9396-b4ca2a610e3f",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "539ed29f-adc2-4227-8487-3a82c49a78e4",
+                    "boundaryNum": 1,
+                    "name": "Shivalik vihar Khuda Ali Sher Road Left side - B4 - A1",
+                    "localname": "Shivalik vihar Khuda Ali Sher Road Left side - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "dd4d69f6-06a0-41dc-b758-6012acdb6623",
+                    "boundaryNum": 1,
+                    "name": "Gurru Dwara Sahib to UCO Bank Kuda Ali Sher Rd. - B4 - A1",
+                    "localname": "Gurru Dwara Sahib to UCO Bank Kuda Ali Sher Rd. - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "667fc8e6-68e1-4db5-b6f9-a061dab47d3d",
+                    "boundaryNum": 1,
+                    "name": "Guru Dwara Sahib main Bazar to T-Point Market right side - B4 - A1",
+                    "localname": "Guru Dwara Sahib main Bazar to T-Point Market right side - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-14",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "81dfa438-6f22-4c28-a00f-aa06be2fb8c7",
+                    "boundaryNum": 1,
+                    "name": "T-Point to MC Office Naya Gaon - B4 - A1",
+                    "localname": "T-Point to MC Office Naya Gaon - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d0c12d7e-d96f-4394-9d1b-266544598213",
+                    "boundaryNum": 1,
+                    "name": "Raj Sarya to MC Office Naya Gaon - B4 - A1",
+                    "localname": "Raj Sarya to MC Office Naya Gaon - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a7062c57-4ba7-4583-8267-25ffe8f01802",
+                    "boundaryNum": 1,
+                    "name": "Gupta Shop to Karoran Rd. Right Side - B4 - A1",
+                    "localname": "Gupta Shop to Karoran Rd. Right Side - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "275bce0e-4adb-4e7b-8a01-f3e06512a782",
+                    "boundaryNum": 1,
+                    "name": "Village Abadi Karoran Road right side - B4 - A1",
+                    "localname": "Village Abadi Karoran Road right side - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-18",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83cee3ee-b53b-40c1-8640-932aaa7cad54",
+                "boundaryNum": 1,
+                "name": "Block 5a",
+                "localname": "Block 5a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5a",
+                "children": [
+                  {
+                    "id": "c6f029ba-2527-4032-85c9-3ad1b19e1a05",
+                    "boundaryNum": 1,
+                    "name": "Karoran Rd.MC Office to Left side Hill View Hotel - B5a - A1",
+                    "localname": "Karoran Rd.MC Office to Left side Hill View Hotel - B5a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "a6c79976-6cc3-4b69-a1bd-45eab79c53b8",
+                    "boundaryNum": 1,
+                    "name": "MC Office to Nada Rd. Righr side till Guru Dawara Sahib - B5a - A1",
+                    "localname": "MC Office to Nada Rd. Righr side till Guru Dawara Sahib - B5a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-21",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72eab0b6-7cc8-45b6-9394-a1b2f698a0ec",
+                "boundaryNum": 1,
+                "name": "Block 8a",
+                "localname": "Block 8a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8a",
+                "children": [
+                  {
+                    "id": "97a3c0a3-05cc-4a66-bf73-441762e29082",
+                    "boundaryNum": 1,
+                    "name": "Nada Rd. Church rd. to Bridge left side - B8a - A1",
+                    "localname": "Nada Rd. Church rd. to Bridge left side - B8a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-26",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e3e2957b-5ee8-4750-bc6c-69a6e95a4219",
+                "boundaryNum": 1,
+                "name": "Block 9a",
+                "localname": "Block 9a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9a",
+                "children": [
+                  {
+                    "id": "22f55331-2545-42e5-8eb1-5617749dd35e",
+                    "boundaryNum": 1,
+                    "name": "MC Office to Nada Rd.Left side till Chourch Rd. - B9a - A1",
+                    "localname": "MC Office to Nada Rd.Left side till Chourch Rd. - B9a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-31",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e1a1e95c-a114-4197-bf93-d98489703702",
+                "boundaryNum": 1,
+                "name": "Block 10a",
+                "localname": "Block 10a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10a",
+                "children": [
+                  {
+                    "id": "fa2ecae3-c280-4ba0-9d1f-dc40b28a4b45",
+                    "boundaryNum": 1,
+                    "name": "Bhatia Sweet to Market T-Point left side - B10a - A1",
+                    "localname": "Bhatia Sweet to Market T-Point left side - B10a - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-35",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "70eaf742-e418-42f3-bca7-ffb6c220e5f5",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "c14b8d89-dab8-4540-9441-f233483f4db3",
+                "boundaryNum": 1,
+                "name": "Block 2b",
+                "localname": "Block 2b",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2b",
+                "children": [
+                  {
+                    "id": "a3cceddb-6632-4429-85ec-e50fba932e26",
+                    "boundaryNum": 1,
+                    "name": "Kansal Village purani Abadi - B2b - A2",
+                    "localname": "Kansal Village purani Abadi - B2b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8a5a283e-557d-46a7-818e-4125bacff969",
+                "boundaryNum": 1,
+                "name": "Block 3b",
+                "localname": "Block 3b",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3b",
+                "children": [
+                  {
+                    "id": "93cdb070-b2da-4d86-a174-fed02ef7b88d",
+                    "boundaryNum": 1,
+                    "name": "Karoran Vill.old Abadi(Chotti Karoran) - B3b - A2",
+                    "localname": "Karoran Vill.old Abadi(Chotti Karoran) - B3b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-11",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e6b8654e-1b1d-4035-ac05-b57dcbffc75d",
+                "boundaryNum": 1,
+                "name": "Block 5b",
+                "localname": "Block 5b",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5b",
+                "children": [
+                  {
+                    "id": "70902809-bfdf-4d81-8ab5-2c9b597a3628",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar,Proffesor Colony - B5b - A2",
+                    "localname": "Gobind Nagar,Proffesor Colony - B5b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "261dcb00-7ecb-499c-9c4d-7fb54a2d3329",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "75aba7c7-d1ef-4e27-b552-b59a4e5965ab",
+                    "boundaryNum": 1,
+                    "name": "Singha Devi Colony - B6 - A2",
+                    "localname": "Singha Devi Colony - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "382cdac6-23a9-4d41-8489-29023fcf992c",
+                    "boundaryNum": 1,
+                    "name": "Pammi service station to Nada Pull left and Right side - B6 - A2",
+                    "localname": "Pammi service station to Nada Pull left and Right side - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a55170e9-d9af-4d68-8016-98d8c42c9a5c",
+                    "boundaryNum": 1,
+                    "name": "Singha Devi Mandir Rd.Left and Right side - B6 - A2",
+                    "localname": "Singha Devi Mandir Rd.Left and Right side - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae3ec85d-5844-4792-9237-5e2dcb15abbc",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "0497b364-d9de-4e89-9f06-5019ad548ffb",
+                    "boundaryNum": 1,
+                    "name": "Vill. Nada New Abadi Near Singha Devi Rd. - B7 - A2",
+                    "localname": "Vill. Nada New Abadi Near Singha Devi Rd. - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "849313d3-e70d-4cfa-9124-83497a79323b",
+                "boundaryNum": 1,
+                "name": "Block 8b",
+                "localname": "Block 8b",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8b",
+                "children": [
+                  {
+                    "id": "087f4215-390a-4f50-a9f7-1e7e2b21d19a",
+                    "boundaryNum": 1,
+                    "name": "Kamauo Colony to Kalho Farm - B8b - A2",
+                    "localname": "Kamauo Colony to Kalho Farm - B8b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-27",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "bc91a380-219a-47e4-8062-9526237eae20",
+                    "boundaryNum": 1,
+                    "name": "Vikas Nagar Block no 1-6, Kamauo Colony - B8b - A2",
+                    "localname": "Vikas Nagar Block no 1-6, Kamauo Colony - B8b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-28",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "24177cb3-1480-45b2-80ed-2117c00f6884",
+                    "boundaryNum": 1,
+                    "name": "Kamal Colony, Kailash Avenue, Peer Baba Shah Ji Rd. - B8b - A2",
+                    "localname": "Kamal Colony, Kailash Avenue, Peer Baba Shah Ji Rd. - B8b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-29",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "c943711a-d7ea-499f-8a9f-3d8eaca3d00c",
+                    "boundaryNum": 1,
+                    "name": "Kailash Nagar, Dashmesh Nagar (Chaurch Rd.)Patial  Ki Rao - B8b - A2",
+                    "localname": "Kailash Nagar, Dashmesh Nagar (Chaurch Rd.)Patial  Ki Rao - B8b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-30",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51243228-92d8-4c3f-a48d-e3ed3e533fb9",
+                "boundaryNum": 1,
+                "name": "Block 9b",
+                "localname": "Block 9b",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9b",
+                "children": [
+                  {
+                    "id": "4376ef32-0c21-4c28-965e-547c99b0ca28",
+                    "boundaryNum": 1,
+                    "name": "Dashmesh Nagar Abadi - B9b - A2",
+                    "localname": "Dashmesh Nagar Abadi - B9b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-32",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f5c6fe5c-d2e8-4221-99a3-301be29c380a",
+                    "boundaryNum": 1,
+                    "name": "Santokh Singh House to Ram Lila gound rd. right side, Dashmesh Nagar - B9b - A2",
+                    "localname": "Santokh Singh House to Ram Lila gound rd. right side, Dashmesh Nagar - B9b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-33",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1a5dc693-4cbe-40c9-b836-83f89538885d",
+                "boundaryNum": 1,
+                "name": "Block 10b",
+                "localname": "Block 10b",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10b",
+                "children": [
+                  {
+                    "id": "aa1f989f-db9e-4721-8ad5-21edc89b0b41",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Medical Store to Ram Lila Ground left Side. Adarsh Nagar - B10b - A2",
+                    "localname": "Adarsh Medical Store to Ram Lila Ground left Side. Adarsh Nagar - B10b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-34",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "60e44f2c-e89f-4d64-ade2-f36a09402d42",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar Back side market Janta Colony - B10b - A2",
+                    "localname": "Adarsh Nagar Back side market Janta Colony - B10b - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-36",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15af2abe-ed6c-49ff-a0f0-80f467a13b72",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "248ac194-e9c8-4f64-9010-ef2fe857a557",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar Near Suraj Complex, Janta Colony - B11 - A2",
+                    "localname": "Adarsh Nagar Near Suraj Complex, Janta Colony - B11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-37",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "01b3a844-0a57-40af-9057-2921b62a548e",
+                    "boundaryNum": 1,
+                    "name": "Suraj Complex to Janta Colony rd.till Nadi left side - B11 - A2",
+                    "localname": "Suraj Complex to Janta Colony rd.till Nadi left side - B11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-38",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c999eec8-ca27-47d0-b9b5-64e655c9ddf2",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "ea9220c5-d0a0-474c-b84b-2173f77ad40d",
+                    "boundaryNum": 1,
+                    "name": "Vikas Nagar, Chourch Rd. Saffeda Colony - B12 - A2",
+                    "localname": "Vikas Nagar, Chourch Rd. Saffeda Colony - B12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-39",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "63269a71-2439-4246-a7e2-cf3ca2cdf611",
+                    "boundaryNum": 1,
+                    "name": "Janta Colony, Adarsh Nagar, Dashmesh Nagar Block A Vikas Nagar - B12 - A2",
+                    "localname": "Janta Colony, Adarsh Nagar, Dashmesh Nagar Block A Vikas Nagar - B12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NYG-40",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

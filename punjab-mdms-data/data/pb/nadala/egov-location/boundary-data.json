@@ -1,0 +1,711 @@
+{
+  "tenantId": "pb.nadala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nadala",
+        "localname": "Nadala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nadala",
+        "children": [
+          {
+            "id": "5810c9c9-eb1a-4884-97f2-c0d217f78498",
+            "boundaryNum": 1,
+            "name": "Nadala",
+            "localname": "Nadala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "adb1f6cc-06b6-4059-b969-084b8e3bc74c",
+                "boundaryNum": 1,
+                "name": "Ward No. 1",
+                "localname": "Ward No. 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 1",
+                "children": [
+                  {
+                    "id": "36c17c1e-75ee-4a2c-9539-d0d224303715",
+                    "boundaryNum": 1,
+                    "name": "kutia mohalla - Ward No. 1",
+                    "localname": "kutia mohalla - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fb85f158-2656-4ed2-bbc3-64a1cb95dbd5",
+                    "boundaryNum": 1,
+                    "name": "Chugawan road - Ward No. 1",
+                    "localname": "Chugawan road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "b48fc882-3266-442a-9599-1505174953ca",
+                    "boundaryNum": 1,
+                    "name": "Dr. Mehar singh colony - Ward No. 1",
+                    "localname": "Dr. Mehar singh colony - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_5",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "252954d4-17df-417b-b634-1c6fe8b531f0",
+                    "boundaryNum": 1,
+                    "name": "Adda Nadala road - Ward No. 1",
+                    "localname": "Adda Nadala road - Ward No. 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e564aa1b-dfbd-484b-b718-3b3829f471af",
+                "boundaryNum": 1,
+                "name": "Ward No. 2",
+                "localname": "Ward No. 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 2",
+                "children": [
+                  {
+                    "id": "377ecc25-803a-425f-a0cd-a4687d98aef2",
+                    "boundaryNum": 1,
+                    "name": "Bilpur - Ward No. 2",
+                    "localname": "Bilpur - Ward No. 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0fa222b9-4ce4-4ca1-861f-567afaf54920",
+                "boundaryNum": 1,
+                "name": "Ward No. 3",
+                "localname": "Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 3",
+                "children": [
+                  {
+                    "id": "adadb7d9-4352-4c3b-9817-3d4798394479",
+                    "boundaryNum": 1,
+                    "name": "Bholath road walia wali street - Ward No. 3",
+                    "localname": "Bholath road walia wali street - Ward No. 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "334ce272-f6b0-4d93-8b4f-65adae5be918",
+                "boundaryNum": 1,
+                "name": "Ward No. 4",
+                "localname": "Ward No. 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 4",
+                "children": [
+                  {
+                    "id": "c41165c0-ca70-429e-8457-572988413201",
+                    "boundaryNum": 1,
+                    "name": "Jaggi marg - Ward No. 4",
+                    "localname": "Jaggi marg - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "385c6f5b-50dd-4318-8c14-4772c3738695",
+                    "boundaryNum": 1,
+                    "name": "Khakha wala mohalla - Ward No. 4",
+                    "localname": "Khakha wala mohalla - Ward No. 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "998fce8a-f27a-4e96-a2e1-f9ad47ee377f",
+                "boundaryNum": 1,
+                "name": "Ward No. 5",
+                "localname": "Ward No. 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 5",
+                "children": [
+                  {
+                    "id": "f5d67b3f-aa4a-48a4-a431-f4e81a62e9d1",
+                    "boundaryNum": 1,
+                    "name": "Pandita da mohalla - Ward No. 5",
+                    "localname": "Pandita da mohalla - Ward No. 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c68b839a-e881-433f-b9cf-415c8360b5b4",
+                "boundaryNum": 1,
+                "name": "Ward No. 6",
+                "localname": "Ward No. 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 6",
+                "children": []
+              },
+              {
+                "id": "858700d0-0b4c-48d1-98cb-f853a9a559cd",
+                "boundaryNum": 1,
+                "name": "Ward No. 7",
+                "localname": "Ward No. 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 7",
+                "children": []
+              },
+              {
+                "id": "8441dc10-89ef-4f67-83a4-f6082048d942",
+                "boundaryNum": 1,
+                "name": "Ward No. 8",
+                "localname": "Ward No. 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 8",
+                "children": [
+                  {
+                    "id": "c5a3cafd-5976-4421-aaa9-13c8c363edf0",
+                    "boundaryNum": 1,
+                    "name": "Mana wala mohalla - Ward No. 8",
+                    "localname": "Mana wala mohalla - Ward No. 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4db79c1-a805-45b2-899d-7938c331a923",
+                "boundaryNum": 1,
+                "name": "Ward No. 9",
+                "localname": "Ward No. 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 9",
+                "children": [
+                  {
+                    "id": "88412c24-2c77-4026-8f45-59fafdbdb02f",
+                    "boundaryNum": 1,
+                    "name": "Khajura wala Mohalla - Ward No. 9",
+                    "localname": "Khajura wala Mohalla - Ward No. 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3a26b99f-7379-4bde-8ed6-3a965c3a0b83",
+                "boundaryNum": 1,
+                "name": "Ward No. 10",
+                "localname": "Ward No. 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 10",
+                "children": [
+                  {
+                    "id": "15aa1370-589b-47b3-b1aa-7ac5884dffe2",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla - Ward No. 10",
+                    "localname": "Balmik Mohalla - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "df93cbaa-6369-4403-bb76-672f09606de8",
+                    "boundaryNum": 1,
+                    "name": "subhanpur road laxmi colony - Ward No. 10",
+                    "localname": "subhanpur road laxmi colony - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "07ba72cc-959c-48c5-ab4f-168d9bba5a64",
+                    "boundaryNum": 1,
+                    "name": "Goldan avinew - Ward No. 10",
+                    "localname": "Goldan avinew - Ward No. 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd1df74b-dd98-4ab9-a287-172db6d51980",
+                "boundaryNum": 1,
+                "name": "Ward No. 11",
+                "localname": "Ward No. 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward No. 11",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nadala",
+        "localname": "Nadala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.nadala",
+        "children": [
+          {
+            "id": "d16dc6da-2d80-48ba-b837-c46ebd9d1cfa",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "edf18809-a18c-4ed6-8283-516bcb96630c",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "6d99c1c6-90d1-4ef8-91d9-e5a66a793bf8",
+                    "boundaryNum": 1,
+                    "name": "kutia mohalla - Block 1 - A2",
+                    "localname": "kutia mohalla - Block 1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "01cd6b86-1d70-4b47-b0f3-daf7af288005",
+                    "boundaryNum": 1,
+                    "name": "Chugawan road - Block 1 - A1",
+                    "localname": "Chugawan road - Block 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ce489723-bc72-4c2c-a05c-4897bc78b425",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "2ed28726-acd3-4887-b387-7f486d8f566e",
+                    "boundaryNum": 1,
+                    "name": "Balmik Mohalla - Block 2 - A1",
+                    "localname": "Balmik Mohalla - Block 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "0eb629d1-dfc2-44ea-8594-d0bc763ff9de",
+                    "boundaryNum": 1,
+                    "name": "Khajura wala Mohalla - Block 2 - A1",
+                    "localname": "Khajura wala Mohalla - Block 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4a4befa5-6d29-4a56-ac9d-79f083470a6b",
+                    "boundaryNum": 1,
+                    "name": "Dr. Mehar singh colony - Block 2 - A1",
+                    "localname": "Dr. Mehar singh colony - Block 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05d5a807-3194-4f46-ad16-a9e1d500cb48",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "1f31de5e-65a4-4710-b2e9-1344595f4ca0",
+                    "boundaryNum": 1,
+                    "name": "Adda Nadala road - Block 3 - A1",
+                    "localname": "Adda Nadala road - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b0d8cda4-b782-4b04-8027-0dc2748afb71",
+                    "boundaryNum": 1,
+                    "name": "Bilpur - Block 3 - A1",
+                    "localname": "Bilpur - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83faad90-8370-4566-aa61-3f0bbf4ce61d",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "9ad68242-1e0b-4de4-9cd8-438b454cd113",
+                    "boundaryNum": 1,
+                    "name": "Bholath road walia wali street - Block 4 - A1",
+                    "localname": "Bholath road walia wali street - Block 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "9707ee47-0834-4ad3-8fa8-1680c64702dd",
+                    "boundaryNum": 1,
+                    "name": "subhanpur road laxmi colony - Block 4 - A1",
+                    "localname": "subhanpur road laxmi colony - Block 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9450562b-4bc6-4438-8a36-ba2235ea7bca",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "5b528971-7bc0-449c-8896-3602a5cfa20a",
+                    "boundaryNum": 1,
+                    "name": "Goldan avinew - Block 5 - A1",
+                    "localname": "Goldan avinew - Block 5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ee11c2ba-5bfd-4feb-b6eb-eda57625ba85",
+                    "boundaryNum": 1,
+                    "name": "Jaggi marg - Block 5 - A1",
+                    "localname": "Jaggi marg - Block 5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2c7c6a94-c685-4555-8bee-ea0a93bb3f55",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "a24a68b0-ea05-44fe-93a0-87bbbfa596a4",
+                    "boundaryNum": 1,
+                    "name": "Khakha wala mohalla - Block 6 - A1",
+                    "localname": "Khakha wala mohalla - Block 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "ff8851e7-4da9-494f-bc1d-5a65887d7490",
+                    "boundaryNum": 1,
+                    "name": "Pandita da mohalla - Block 6 - A1",
+                    "localname": "Pandita da mohalla - Block 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "2fe650e8-7ee5-4d1e-8a56-a84cf4d929be",
+                    "boundaryNum": 1,
+                    "name": "Mana wala mohalla - Block 6 - A1",
+                    "localname": "Mana wala mohalla - Block 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_14",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "55a44d46-c949-4598-97d7-ba0ca636d6f9",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "8fbc952a-0fac-4efb-9c8b-90d102d8cb4f",
+                    "boundaryNum": 1,
+                    "name": "Dhilwan Road Nadala - Block 7 - A1",
+                    "localname": "Dhilwan Road Nadala - Block 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "96917334-9ec8-4979-93b7-5710784ab56a",
+                    "boundaryNum": 1,
+                    "name": "Chownk Lakh Daata and Main Bazar - Block 7 - A1",
+                    "localname": "Chownk Lakh Daata and Main Bazar - Block 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_16",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f853e3dc-3e6c-4b3e-ba96-234359b1fcd1",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "fe8e3fca-af57-49a0-bad4-c2f4754214a8",
+                    "boundaryNum": 1,
+                    "name": "Begowal Road Nadala - Block 8 - A1",
+                    "localname": "Begowal Road Nadala - Block 8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "71ee267f-f2df-42f3-856e-6a0477e64b79",
+                    "boundaryNum": 1,
+                    "name": "Bouli Sahib Road Nadala - Block 8 - A1",
+                    "localname": "Bouli Sahib Road Nadala - Block 8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_18",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9b770d1c-08ff-4093-b3bc-98f17ce402b9",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "975ad2ee-af75-4f22-ac11-d168f8845d34",
+                    "boundaryNum": 1,
+                    "name": "Raipur Araiyan Road Nadala - Block 9 - A1",
+                    "localname": "Raipur Araiyan Road Nadala - Block 9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_19",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b274598d-756e-4220-9a6e-6c9762c1abdc",
+                    "boundaryNum": 1,
+                    "name": "Talwandi Road Nadala - Block 9 - A1",
+                    "localname": "Talwandi Road Nadala - Block 9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "NDL_20",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

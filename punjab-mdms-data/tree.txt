@@ -1,0 +1,1304 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 122C-DA4F
+D:.
+|   .gitignore
+|   CODEOWNERS
+|   mdms-masters-config.json
+|   test.py
+|   tree.txt
+|   
++---data
+|   \---pb
+|       +---abohar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ACCESSCONTROL-ACTIONS-TEST
+|       |       actions-test.json
+|       |       
+|       +---ACCESSCONTROL-ROLEACTIONS
+|       |       roleactions.json
+|       |       
+|       +---ACCESSCONTROL-ROLES
+|       |       roles.json
+|       |       
+|       +---adampur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ahmedgarh
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ajnala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---alawalpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---amargarh
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---amloh
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---amritsar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---anandpursahib
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---arniwala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---badhnikalan
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---baghapurana
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---balachaur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---balianwali
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---banga
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---banur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bareta
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bariwala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---barnala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bassipathana
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---batala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   +---firenoc
+|       |   |       BuildingType.json
+|       |   |       FireNocULBConstats.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bathinda
+|       |   \---egov-location
+|       |           boundary-data.json
+|       |           
+|       +---begowal
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhadaur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhadson
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhagtabhai
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhairoopa
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhawanigarh
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhikhi
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhikhiwind
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhogpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhuchomandi
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bhulath
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---bilga
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---BillingService
+|       |       BusinessService.json
+|       |       TaxHeadMaster.json
+|       |       TaxPeriod.json
+|       |       
+|       +---boha
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---budhlada
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---chamkaursahib
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---chaunke
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---cheema
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---common-masters
+|       |       Department.json
+|       |       Designation.json
+|       |       DocumentType.json
+|       |       financemasters.json
+|       |       IdFormat.json
+|       |       OwnerShipCategory.json
+|       |       OwnerType.json
+|       |       StateInfo.json
+|       |       StructureType.json
+|       |       uiCommonConfig.json
+|       |       uiCommonConstants.json
+|       |       UOM.json
+|       |       
+|       +---dasuya
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---DataSecurity
+|       |       DecryptionABAC.json
+|       |       EncryptionPolicy.json
+|       |       
+|       +---derababananak
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---derabassi
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---dhanaula
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---dharamkot
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---dhariwal
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---dhilwan
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---dhuri
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---dinanagar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---dirba
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---doraha
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---egf-master
+|       |       FinancialYear.json
+|       |       
+|       +---egov-hrms
+|       |       DeactivationReason.json
+|       |       Degree.json
+|       |       EmployeeStatus.json
+|       |       EmployeeType.json
+|       |       EmploymentTest.json
+|       |       Specalization.json
+|       |       
+|       +---faridkot
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---fatehgarhchurian
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---fatehgarhpanjtoor
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---fazilka
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ferozepur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---FinanceService
+|       |       AccountheadMapping.json
+|       |       BusinessServiceMapping.json
+|       |       EgfInstrumentStatusMapping.json
+|       |       
+|       +---firenoc
+|       |       ApplicationType.json
+|       |       BuildingType.json
+|       |       Documents.json
+|       |       FireNocStateConstats.json
+|       |       FireStations.json
+|       |       PropertyType.json
+|       |       qadata.json
+|       |       uat.json
+|       |       UOMs.json
+|       |       
+|       +---garhdiwala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---garhshankar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ghagga
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ghanaur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---gidderbaha
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---goniana
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---goraya
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---gurdaspur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---guruharsahai
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---handiaya
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---hariana
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---hoshiarpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---jagraon
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---jaitu
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---jalalabad
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---jalandhar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   +---firenoc
+|       |   |       BuildingType.json
+|       |   |       FireNocULBConstats.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---jandiala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---jandialaguru
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---joga
+|       |   \---egov-location
+|       |           boundary-data.json
+|       |           
+|       +---kapurthala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kartarpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---khamano
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---khanauri
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---khanna
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kharar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---khemkaran
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kiratpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kotfatta
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kothaguru
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kotissekhan
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kotkapura
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kotshamir
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---kurali
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---lalru
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---lehragaga
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---lehramohabbat
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---lohiankhas
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---longowal
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ludhiana
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---machhiwara
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mahilpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---majitha
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---makhu
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---malerkotla
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mallanwala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---maloud
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---malout
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---maluka
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mamdot
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mandigobindgarh
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mandikalan
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mansa
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---maur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mehatpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mehraj
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---moga
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mohali
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---moonak
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---morinda
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mudki
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mukerian
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---muktsar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---mullanpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nabha
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nadala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nakodar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nangal
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---narotjaimalsingh
+|       |   \---egov-location
+|       |           boundary-data.json
+|       |           
+|       +---nathana
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nawanshahr
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nayagaon
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nihalsinghwala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---nurmahal
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---pathankot
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---patiala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---patran
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---patti
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---payal
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---phagwara
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---phillaur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---PropertyTax
+|       |       CancerCess.json
+|       |       ConstructionSubType.json
+|       |       ConstructionType.json
+|       |       FireCess.json
+|       |       Floor.json
+|       |       Interest.json
+|       |       OccupancyType.json
+|       |       OwnerShipCategory.json
+|       |       OwnerType.json
+|       |       OwnerTypeDocument.json
+|       |       Penalty.json
+|       |       PropertySubType.json
+|       |       PropertyType.json
+|       |       Rebate.json
+|       |       SubOwnerShipCategory.json
+|       |       UsageCategoryDetail.json
+|       |       UsageCategoryMajor.json
+|       |       UsageCategoryMinor.json
+|       |       UsageCategorySubMinor.json
+|       |       
+|       +---punjab
+|       |   \---egov-location
+|       |           boundary-data.json
+|       |           
+|       +---quadian
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   +---firenoc
+|       |   |       FireNocULBConstats.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---rahon
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---raikot
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---RAINMAKER-PGR
+|       |       ServiceDefs.json
+|       |       UIConstants.json
+|       |       
+|       +---rajasansi
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---rajpura
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---raman
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ramdass
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---rampura
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---rampura phul
+|       |   \---egov-location
+|       |           boundary-data.json
+|       |           
+|       +---rampuraphul
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---rayya
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---ropar
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sahnewal
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---samana
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---samrala
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sanaur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sangatmandi
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sangrur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sardulgarh
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---shahkot
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---shamchurasi
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sirhind
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---srihargobindpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sujanpur
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sultanpurlodhi
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---sunam
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---talwandibhai
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---talwandisabo
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---talwara
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---tapa
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---tarntaran
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---tenant
+|       |       citymodule.json
+|       |       tenants.json
+|       |       
+|       +---testing
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   +---firenoc
+|       |   |       BuildingType.json
+|       |   |       FireNocULBConstats.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---TradeLicense
+|       |       AccessoriesCategory.json
+|       |       ApplicationType.json
+|       |       TradeType.json
+|       |       
+|       +---urmartanda
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       +---zira
+|       |   +---egov-location
+|       |   |       boundary-data.json
+|       |   |       
+|       |   \---PropertyTax
+|       |           FireCess.json
+|       |           
+|       \---zirakpur
+|           +---egov-location
+|           |       boundary-data.json
+|           |       
+|           \---PropertyTax
+|                   FireCess.json
+|                   
+\---schema
+        module.masterName.yaml.txt
+        

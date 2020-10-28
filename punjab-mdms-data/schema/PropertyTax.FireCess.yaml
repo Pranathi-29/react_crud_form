@@ -1,0 +1,37 @@
+"$schema": http://json-schema.org/schema#
+type: object
+properties:
+  FireCess:
+    type: object
+    properties:
+      rate:
+        type: integer
+      minAmount:
+        type: 'null'
+      flatAmount:
+        type: 'null'
+      maxAmount:
+        type: 'null'
+      fromFY:
+        type: string
+      dynamicFirecess:
+        type: boolean
+      dynamicRates:
+        type: object
+        properties:
+          firecess_inflammable:
+            type: integer
+          firecess_building_height:
+            type: integer
+          firecess_category_major:
+            type: integer
+        required:
+        - firecess_inflammable
+        - firecess_building_height
+        - firecess_category_major
+    required:
+    - rate
+    - fromFY
+    - dynamicFirecess
+    - dynamicRates
+

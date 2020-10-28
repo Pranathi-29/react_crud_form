@@ -1,0 +1,761 @@
+{
+  "tenantId": "pb.kotfatta",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotfatta",
+        "localname": "Kotfatta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kotfatta",
+        "children": [
+          {
+            "id": "5f5b03c0-b941-4429-a872-c81b70cccd19",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN1",
+            "children": [
+              {
+                "id": "01bbdec9-7b00-4e2b-9e58-9525bcf4c701",
+                "boundaryNum": 1,
+                "name": "Ward 1",
+                "localname": "Ward 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "303b60f4-69d4-4ac8-b27a-7d2c4fa390bf",
+                    "boundaryNum": 1,
+                    "name": "Mc office Main Bazar - Ward 1",
+                    "localname": "Mc office Main Bazar - Ward 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2cb63cdb-a27e-4a38-8de3-406979e779ec",
+                "boundaryNum": 1,
+                "name": "Ward 2",
+                "localname": "Ward 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "480914d6-466a-4ee8-82cb-b10a23f1f7bd",
+                    "boundaryNum": 1,
+                    "name": "Rada Chowk - Ward 2",
+                    "localname": "Rada Chowk - Ward 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f4c990b4-b19a-4de7-9822-06f1fc1223b7",
+                "boundaryNum": 1,
+                "name": "Ward 10",
+                "localname": "Ward 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": [
+                  {
+                    "id": "f873695c-e3dd-4827-a330-8de973534fe2",
+                    "boundaryNum": 1,
+                    "name": "Bus stand Road - Ward 10",
+                    "localname": "Bus stand Road - Ward 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0fe1ce40-d9e7-46ab-bebc-bb8898cba7e8",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN2",
+            "children": [
+              {
+                "id": "af917f0d-c794-46c8-be41-cf28853752f7",
+                "boundaryNum": 1,
+                "name": "Ward 3",
+                "localname": "Ward 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "6f46c3c2-be46-4a8a-83d8-740c7b67a4b6",
+                    "boundaryNum": 1,
+                    "name": "Ramdisiya Mohala - Ward 3",
+                    "localname": "Ramdisiya Mohala - Ward 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5526b16-bb95-4c9d-beb6-d172020417ad",
+                "boundaryNum": 1,
+                "name": "Ward 6",
+                "localname": "Ward 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "8c388eee-1dcb-4e82-9564-5ffbf8cddde9",
+                    "boundaryNum": 1,
+                    "name": "Pind Wala Khu Mohala - Ward 6",
+                    "localname": "Pind Wala Khu Mohala - Ward 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1d00d6ba-6a55-4749-bc54-21a61d02d9a7",
+                "boundaryNum": 1,
+                "name": "Ward 9",
+                "localname": "Ward 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "739c6494-2702-4d27-b0a4-802c4eb7a65c",
+                    "boundaryNum": 1,
+                    "name": "Bahrla Dera Road Mohala - Ward 9",
+                    "localname": "Bahrla Dera Road Mohala - Ward 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "217503f1-4679-45d6-aa6c-19995c305070",
+            "boundaryNum": 1,
+            "name": "Zone 3",
+            "localname": "Zone 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN3",
+            "children": [
+              {
+                "id": "7ab55da2-b83e-47d9-9222-bd7c37f87533",
+                "boundaryNum": 1,
+                "name": "Ward 4",
+                "localname": "Ward 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "45c47b70-6281-4473-8873-09d84a3d6ed0",
+                    "boundaryNum": 1,
+                    "name": "Vada Khu Mohala - Ward 4",
+                    "localname": "Vada Khu Mohala - Ward 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50d76cc1-e792-411d-bb53-d5bd93e24d59",
+                "boundaryNum": 1,
+                "name": "Ward 8",
+                "localname": "Ward 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "82fd069e-f64d-43a3-9f64-cc8849fd8b31",
+                    "boundaryNum": 1,
+                    "name": "Baba bukan Shah Mohala - Ward 8",
+                    "localname": "Baba bukan Shah Mohala - Ward 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4d90464b-bae4-4401-b7a9-bd21782aa1cf",
+                "boundaryNum": 1,
+                "name": "Ward 11",
+                "localname": "Ward 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "3158dbac-991f-40f8-85ec-52cb983b3e38",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - Ward 11",
+                    "localname": "Main Bazar - Ward 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "d086be94-a213-4261-b1bf-83fdd7bd08ca",
+            "boundaryNum": 1,
+            "name": "Zone 4",
+            "localname": "Zone 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN4",
+            "children": [
+              {
+                "id": "8cc23e5e-11fa-4fc8-b331-4d0d29071b04",
+                "boundaryNum": 1,
+                "name": "Ward 5",
+                "localname": "Ward 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "dea21e5c-08bd-459a-95f5-b4d479297052",
+                    "boundaryNum": 1,
+                    "name": "Ramdisiya Mohala - Ward 5",
+                    "localname": "Ramdisiya Mohala - Ward 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "846aee0b-4d5a-4eac-87e5-9a1f409b64f4",
+                "boundaryNum": 1,
+                "name": "Ward 7",
+                "localname": "Ward 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "64d9d816-9b49-4178-9131-e923e6267623",
+                    "boundaryNum": 1,
+                    "name": "Ramdisiya Mohala - Ward 7",
+                    "localname": "Ramdisiya Mohala - Ward 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kotfatta",
+        "localname": "Kotfatta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kotfatta",
+        "children": [
+          {
+            "id": "395bf404-dc43-463e-a456-6c9fd73eb732",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1a162ce1-ec80-489a-b236-a8cec8e69fa7",
+                "boundaryNum": 1,
+                "name": "Block1A",
+                "localname": "Block1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1A",
+                "children": [
+                  {
+                    "id": "289c3110-a46a-45ac-9244-7a769a7b253d",
+                    "boundaryNum": 1,
+                    "name": "Govt School road Block1A - B1A - A1",
+                    "localname": "Govt School road Block1A - B1A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5546a16-7056-445c-b9b3-2f4df11b5fb1",
+                "boundaryNum": 1,
+                "name": "Block2A",
+                "localname": "Block2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "4b070034-fd37-4707-9355-d8c16c711d86",
+                    "boundaryNum": 1,
+                    "name": "Water wakes rood  Block2B - B2A - A2",
+                    "localname": "Water wakes rood  Block2B - B2A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd5262fa-ddf9-48c7-8626-5b9b05395c99",
+                "boundaryNum": 1,
+                "name": "Block9A",
+                "localname": "Block9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9A",
+                "children": [
+                  {
+                    "id": "b197565e-d513-4b47-99c2-e17d41eae9b9",
+                    "boundaryNum": 1,
+                    "name": "Main (vada) Bus Stand rood  Block9A - B9A - A1",
+                    "localname": "Main (vada) Bus Stand rood  Block9A - B9A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f3158d47-dcf6-4974-a52f-7ed2c3b571aa",
+                "boundaryNum": 1,
+                "name": "Block10A",
+                "localname": "Block10A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10A",
+                "children": [
+                  {
+                    "id": "56b88667-044d-4ad4-ae6e-8775f8c7d54b",
+                    "boundaryNum": 1,
+                    "name": "Kuldeep Singh mc house rood Block10A - B10A - A1",
+                    "localname": "Kuldeep Singh mc house rood Block10A - B10A - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "958713cf-97a9-4266-8920-9d6b9073b35a",
+                "boundaryNum": 1,
+                "name": "Block11B",
+                "localname": "Block11B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2bb88d61-2401-444c-bac9-c4238fae3acf",
+            "boundaryNum": 1,
+            "name": "Zone2",
+            "localname": "Zone2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "74aa76b3-919a-455c-bd52-c0a02dc58a6a",
+                "boundaryNum": 1,
+                "name": "Block1B",
+                "localname": "Block1B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1B",
+                "children": [
+                  {
+                    "id": "b1e8c80e-fd5d-4efe-9bbd-30c77ea87c39",
+                    "boundaryNum": 1,
+                    "name": "Decpensery road  Block1B - B1B - A2",
+                    "localname": "Decpensery road  Block1B - B1B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT2",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "151200c4-746f-472c-99a1-708fe10efe0c",
+                "boundaryNum": 1,
+                "name": "Block2B",
+                "localname": "Block2B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2A",
+                "children": [
+                  {
+                    "id": "4b070034-fd37-4707-9355-d8c16c711d86",
+                    "boundaryNum": 1,
+                    "name": "Water wakes rood  Block2B - B2A - A2",
+                    "localname": "Water wakes rood  Block2B - B2A - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT4",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a8d3ca99-38bd-4e50-af88-da768deb951c",
+                "boundaryNum": 1,
+                "name": "Block3",
+                "localname": "Block3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "66b5249a-ed1e-4c2b-b1a9-89bb55edd0c4",
+                    "boundaryNum": 1,
+                    "name": "wadha Khu rood  Block3 - B3 - A2",
+                    "localname": "wadha Khu rood  Block3 - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afd2d169-139e-4bb6-b197-df59ff7065fe",
+                "boundaryNum": 1,
+                "name": "Block4",
+                "localname": "Block4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "8247d3d8-4384-4097-8d7b-82eeab8dec6a",
+                    "boundaryNum": 1,
+                    "name": "Bhader Singh Aulkh house rood Block4 - B4 - A2",
+                    "localname": "Bhader Singh Aulkh house rood Block4 - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a2aa7427-9a7e-4d5b-b7fa-6c59b54164d7",
+                "boundaryNum": 1,
+                "name": "Block5",
+                "localname": "Block5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "db75da41-5a56-4fdf-8985-67b8c520d6a5",
+                    "boundaryNum": 1,
+                    "name": "Gurmail Singh ex mc rood Block5 - B5 - A2",
+                    "localname": "Gurmail Singh ex mc rood Block5 - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3abf7fce-9fcb-4e20-84d5-73ac7bccfaa3",
+                "boundaryNum": 1,
+                "name": "Block6",
+                "localname": "Block6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "4bfae13c-3bd2-46ed-9b3f-98c6c1feed47",
+                    "boundaryNum": 1,
+                    "name": "Gurdeep Singh mc rood  Block6 - B6 - A2",
+                    "localname": "Gurdeep Singh mc rood  Block6 - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2bc63613-82a3-4733-8bbf-14d41e555158",
+                "boundaryNum": 1,
+                "name": "Block7",
+                "localname": "Block7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "e7e00bfc-6974-4a1c-b316-0638eb89c3a7",
+                    "boundaryNum": 1,
+                    "name": "Amrjeet Kaur mc rood  Block7 - B7 - A2",
+                    "localname": "Amrjeet Kaur mc rood  Block7 - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e40edd27-ff0c-4929-95ca-0c6f686c85b1",
+                "boundaryNum": 1,
+                "name": "Block8",
+                "localname": "Block8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "4894e572-7a34-48cd-9365-a6d4f8b8f04d",
+                    "boundaryNum": 1,
+                    "name": "Vice prisident Tejbir Singh Dhillon rood Block8 - B8 - A2",
+                    "localname": "Vice prisident Tejbir Singh Dhillon rood Block8 - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT10",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8ede92cc-4d66-4508-adfc-414344b5b6c5",
+                "boundaryNum": 1,
+                "name": "Block9B",
+                "localname": "Block9B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9B",
+                "children": [
+                  {
+                    "id": "cb49c6ae-f1a6-40e8-95c0-531fcdff0ba0",
+                    "boundaryNum": 1,
+                    "name": "Chuhr Singh house rood Block9B - B9B - A2",
+                    "localname": "Chuhr Singh house rood Block9B - B9B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT12",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63398fdc-f1b7-425d-9532-74978c0443cd",
+                "boundaryNum": 1,
+                "name": "Block10B",
+                "localname": "Block10B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10B",
+                "children": [
+                  {
+                    "id": "964cef8a-9071-4957-90cb-6b4970bc69a4",
+                    "boundaryNum": 1,
+                    "name": "Angrej Singh house rood  Block10B - B10B - A2",
+                    "localname": "Angrej Singh house rood  Block10B - B10B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84d64982-16cf-4082-b146-1aa35c9bbc69",
+                "boundaryNum": 1,
+                "name": "Block11B",
+                "localname": "Block11B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11B",
+                "children": [
+                  {
+                    "id": "b9dc1d2c-a9ac-4a5e-ac9c-b924f0effd04",
+                    "boundaryNum": 1,
+                    "name": "Gege mall house rood Block11B - B11B - A1",
+                    "localname": "Gege mall house rood Block11B - B11B - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT15",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bb06026c-e738-4647-8069-9f1db93cfa19",
+                    "boundaryNum": 1,
+                    "name": "Dleep Singh Vann wala house rood  Block11B - B11B - A2",
+                    "localname": "Dleep Singh Vann wala house rood  Block11B - B11B - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KFT16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

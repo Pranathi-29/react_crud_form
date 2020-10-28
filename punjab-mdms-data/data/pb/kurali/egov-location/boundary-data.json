@@ -1,0 +1,942 @@
+{
+  "tenantId": "pb.kurali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "kurali",
+        "localname": "kurali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kurali",
+        "children": [
+          {
+            "id": "0e38645b-db32-44de-9a7d-38718fa154e8",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "KZN1",
+            "children": [
+              {
+                "id": "0abd5a57-3a7c-4def-85d8-e5c2021038cf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "e8896136-0c9c-4f55-837e-5c44eb622f41",
+                    "boundaryNum": 1,
+                    "name": "near Chakwal school, NEAR Durga Dharam Kanda, near Gugga Maadi, Backside Vishavkarma Mandir - WARD_1",
+                    "localname": "near Chakwal school, NEAR Durga Dharam Kanda, near Gugga Maadi, Backside Vishavkarma Mandir - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bd5cc1d9-213e-49eb-abf3-96df17714395",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "dc3def68-7973-483f-a146-b203113eb3ee",
+                    "boundaryNum": 1,
+                    "name": "Near Nagar Khera Dharamshal, Kubi Shah, Chakhandi Gulbana, Jain Mandir, - WARD_2",
+                    "localname": "Near Nagar Khera Dharamshal, Kubi Shah, Chakhandi Gulbana, Jain Mandir, - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cc07628b-5bc8-459f-9ef7-809bbb96b51e",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "58f8e2a1-fa69-4233-be35-f32e598e9e07",
+                    "boundaryNum": 1,
+                    "name": "Mansa Devi mandir, Chakhandi Shahpur Patti, Shiv Mandir, near Masjid - WARD_3",
+                    "localname": "Mansa Devi mandir, Chakhandi Shahpur Patti, Shiv Mandir, near Masjid - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65d7baab-89c8-492e-87e2-b84a145ec0be",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "bfb03976-4896-44b1-903d-5f0cb0716343",
+                    "boundaryNum": 1,
+                    "name": "Near PAKKA Darwaja, Viveknand chowk, Municipal Shopping Complex - WARD_4",
+                    "localname": "Near PAKKA Darwaja, Viveknand chowk, Municipal Shopping Complex - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7a224ced-2500-4f21-b873-b26f0ba98780",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "44a756fe-d04a-4ac0-bf67-f36b93109dfc",
+                    "boundaryNum": 1,
+                    "name": "Krishna Mandi, Chakhandi Tarawati, Ravidas Dharamshala,  Municipal Council, Civil Hospital - WARD_5",
+                    "localname": "Krishna Mandi, Chakhandi Tarawati, Ravidas Dharamshala,  Municipal Council, Civil Hospital - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d22942ae-7120-4fa1-bfa6-3de8ae8bee50",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "d58dbdcd-40d6-48a0-9c58-616d4d665e04",
+                    "boundaryNum": 1,
+                    "name": "Model Town, Bhagat Singh colony, near Braham Kumari Ashram - WARD_6",
+                    "localname": "Model Town, Bhagat Singh colony, near Braham Kumari Ashram - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3177d415-71ef-422b-ba4e-7e0d0497ce29",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "a35cdb4c-3c24-4159-933a-9bf86685f61d",
+                    "boundaryNum": 1,
+                    "name": "Rajindera Enclave, Shri Guru Harkrishan Public School - WARD_7",
+                    "localname": "Rajindera Enclave, Shri Guru Harkrishan Public School - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a15e6a24-b090-4590-a26e-f3d2f831a6ec",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "15f7bda9-a232-4a07-b84d-a5a11ea4a51b",
+                    "boundaryNum": 1,
+                    "name": "Near Prabh Aasra, Padiala, - WARD_8",
+                    "localname": "Near Prabh Aasra, Padiala, - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d8245b6f-8be8-41f0-b524-cda24dc57a65",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "2fe5f79c-b060-430e-82ce-5e7fe9855e02",
+                    "boundaryNum": 1,
+                    "name": "Near Shaheed Bhagat Singh college,near Gramin Bank, near Virdi Shuttering store, Manav Kender - WARD_9",
+                    "localname": "Near Shaheed Bhagat Singh college,near Gramin Bank, near Virdi Shuttering store, Manav Kender - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e82dda4d-5dc8-4def-bfcb-9e22c5844457",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "a339106a-f9c1-4d73-8843-61ada4189e9a",
+                    "boundaryNum": 1,
+                    "name": "Baba Sarwan Gir Park, Near Masjid Chanalon, near Gurudwara Sahib, Chandigarh Road - WARD_10",
+                    "localname": "Baba Sarwan Gir Park, Near Masjid Chanalon, near Gurudwara Sahib, Chandigarh Road - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d85061dd-7ee6-42ec-a965-67bc5fa90110",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "0906b4e7-ce9c-44b2-a576-31e9fff37f15",
+                    "boundaryNum": 1,
+                    "name": "Near Bhaag Ice Factory, Sai mandir, old Homeopethic Dispensery, YES Bank - WARD_11",
+                    "localname": "Near Bhaag Ice Factory, Sai mandir, old Homeopethic Dispensery, YES Bank - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17bfb02b-7e82-4ad3-a784-db82b6f059ba",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "2ca14bd0-0fb2-4556-af8b-e7e4afaf28b7",
+                    "boundaryNum": 1,
+                    "name": "Near Shri Guru Ram Rai Public School, Khalsa School, Gurudwara Shri Guru Hargobindgarh Sahib, Baba Jhaar Sahib - WARD_12",
+                    "localname": "Near Shri Guru Ram Rai Public School, Khalsa School, Gurudwara Shri Guru Hargobindgarh Sahib, Baba Jhaar Sahib - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d3481734-df1b-4732-9eef-9349ddcbc33d",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "9ebec0a0-7360-46c3-8ff4-d1ee79346fe7",
+                    "boundaryNum": 1,
+                    "name": "Near BusStand, Mata Rani Chowk, Dushehra Ground, Subji Mandi, - WARD_13",
+                    "localname": "Near BusStand, Mata Rani Chowk, Dushehra Ground, Subji Mandi, - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7466ed5e-e19a-4705-94ec-d7e072641b09",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "1741f78c-0593-45ad-b379-d4577823d923",
+                    "boundaryNum": 1,
+                    "name": "Near Baba Sodhi Mandir, Badali Road, PSEB Morinda Road, - WARD_14",
+                    "localname": "Near Baba Sodhi Mandir, Badali Road, PSEB Morinda Road, - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4680b6d-b2f3-433c-8bb0-7a18c79533e3",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "051079a7-13eb-4fda-b753-d9c55c25b081",
+                    "boundaryNum": 1,
+                    "name": "Near Sodhi Complex, Old station mandi,  near D.A.V School - WARD_15",
+                    "localname": "Near Sodhi Complex, Old station mandi,  near D.A.V School - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0152fa2e-98ee-43af-905d-0b49ed22173c",
+                "boundaryNum": 1,
+                "name": "WARD_16",
+                "localname": "WARD_16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD16",
+                "children": [
+                  {
+                    "id": "bcb8bf95-77cb-4ec2-af0e-49a896fc08d7",
+                    "boundaryNum": 1,
+                    "name": "Near Ananpur Aashram, church,anaj mandi area,Railway Station - WARD_16",
+                    "localname": "Near Ananpur Aashram, church,anaj mandi area,Railway Station - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dd327a1d-5453-4c47-9847-475146fe801d",
+                "boundaryNum": 1,
+                "name": "WARD_17",
+                "localname": "WARD_17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD17",
+                "children": [
+                  {
+                    "id": "bcc4ab7c-a71b-4c94-a982-984f0b87b6af",
+                    "boundaryNum": 1,
+                    "name": "Khushi Ram colony, Dera Baba Gosaiana, - WARD_17",
+                    "localname": "Khushi Ram colony, Dera Baba Gosaiana, - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KLC17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kurali",
+        "localname": "Kurali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.kurali",
+        "children": [
+          {
+            "id": "50793917-e32d-4e6e-976b-a157fb1c7ef1",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "932ade5a-e247-4fc7-925f-aea886675172",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "0c18b79f-3daf-4d90-a52c-454e9b752bf2",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD1 - B1 - A1",
+                    "localname": "LOC_WARD1 - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "08c6ec20-8d58-4739-ae99-b2445fc53159",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD1A - B1 - A2",
+                    "localname": "LOC_WARD1A - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL14",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63b9c50d-858c-47e9-b612-e282d0ea4772",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "e87701d4-0961-496a-baf4-61a1648f432a",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD2 - B2 - A1",
+                    "localname": "LOC_WARD2 - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "bdaad3d5-9ed9-474c-8010-c9683a72fd4b",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD2A - B2 - A2",
+                    "localname": "LOC_WARD2A - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d5c759b4-8b43-48eb-87ba-82537069638b",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "07bdcb21-7263-45a9-b322-5d49d720eee1",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD3 - B3 - A1",
+                    "localname": "LOC_WARD3 - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1593814c-8405-4795-98b2-14f3a81afdce",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD3A - B3 - A2",
+                    "localname": "LOC_WARD3A - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90acc988-7119-40c7-9972-aebd5e84fe1e",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "02a12a3e-fd3a-417a-85e2-7a23348b5663",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD4 - B4 - A1",
+                    "localname": "LOC_WARD4 - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "f7f78edd-aa7a-4300-a683-6ba54142f1e2",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD4A - B4 - A2",
+                    "localname": "LOC_WARD4A - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL17",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ca02954-dcfa-4cc1-b387-b4c758c2f967",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "3d600c02-7d7a-4a02-b7eb-b5c453faf473",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD5 - B5 - A1",
+                    "localname": "LOC_WARD5 - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "8e8feb6e-d6b3-4650-9f08-48d0489b2244",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD5A - B5 - A2",
+                    "localname": "LOC_WARD5A - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5d21b63-a6f1-4f6e-b59a-852744255d73",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "5410e99f-8ca5-4e85-8e11-2fa7bcf22754",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD6 - B6 - A1",
+                    "localname": "LOC_WARD6 - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "36d6fd85-50d4-403b-9136-3a3fcd24f4cf",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD6A - B6 - A2",
+                    "localname": "LOC_WARD6A - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL19",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9dee110f-5f7b-49d2-a4fe-8f3027588039",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "036c7a66-a2b1-404e-b723-d76bc8a737fe",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD7 - B7 - A1",
+                    "localname": "LOC_WARD7 - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "7f96ebb5-65b0-4332-a01d-d29c349f1b8e",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD7A - B7 - A2",
+                    "localname": "LOC_WARD7A - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58d0a5d6-ddf1-4beb-93e3-67f9598d21fb",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "fffd5654-7186-439f-a031-2e12d156f9e1",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD8 - B8 - A1",
+                    "localname": "LOC_WARD8 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "181a8232-6aad-4a66-a0b6-c1347d712ebc",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD8A - B8 - A2",
+                    "localname": "LOC_WARD8A - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL21",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f72e0241-22df-48f6-aff8-d67abbe8bf98",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "0703aa31-f817-4c40-9010-bb302216dfa4",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD9 - B9 - A1",
+                    "localname": "LOC_WARD9 - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "89007361-4a26-48d9-b870-7abe957dcb02",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD9A - B9 - A2",
+                    "localname": "LOC_WARD9A - B9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL22",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b8da8494-95af-4abf-80d5-e6a7a0bde4e0",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "d67903cf-c27d-47c3-ba62-bc651b365a1c",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD10 - B10 - A1",
+                    "localname": "LOC_WARD10 - B10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6f8a8d52-6212-486e-b986-4bb2c7f61be3",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD10A - B10 - A2",
+                    "localname": "LOC_WARD10A - B10 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL23",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27f8f804-49be-4040-a37c-97ea0a75d10d",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "f84335d3-01eb-4a6a-9073-15a93688584d",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD11 - B11 - A1",
+                    "localname": "LOC_WARD11 - B11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL11",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4ea32f4e-6bb1-4bb9-bc10-20010d959459",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD11A - B11 - A2",
+                    "localname": "LOC_WARD11A - B11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61c5393b-f445-47d2-8ead-fdbc23f7fb6b",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "687fa2c2-42bd-4fa2-b14b-225ac247e7f8",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD12 - B12 - A1",
+                    "localname": "LOC_WARD12 - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "eed7c9b7-ff4d-400c-80c1-6337060372f3",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD12A - B12 - A2",
+                    "localname": "LOC_WARD12A - B12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1eb88e83-cd03-477c-86af-5099d1c36bad",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "dcc63dcf-6184-48aa-aceb-d9cf79cde503",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD13 - B13 - A1",
+                    "localname": "LOC_WARD13 - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "db14bcb0-9e10-463a-93d2-75032e5f0f23",
+                    "boundaryNum": 1,
+                    "name": "LOC_WARD13A - B13 - A2",
+                    "localname": "LOC_WARD13A - B13 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "KL26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

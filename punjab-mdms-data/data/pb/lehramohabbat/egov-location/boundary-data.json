@@ -1,0 +1,606 @@
+{
+  "tenantId": "pb.lehramohabbat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lehramohabbat",
+        "localname": "Lehramohabbat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lehramohabbat",
+        "children": [
+          {
+            "id": "06c0ebe0-4aaf-41fb-a2fd-22c7f2083282",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "BZN1",
+            "children": [
+              {
+                "id": "58e234f7-929c-428c-b245-0ffee12e3820",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 1",
+                "children": [
+                  {
+                    "id": "bc06b311-c4cf-491a-a1c1-9b611aff249b",
+                    "boundaryNum": 1,
+                    "name": "RO - WARD 1",
+                    "localname": "RO - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6f960890-e18a-4551-bd5c-ab40fc73d9b3",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 2",
+                "children": [
+                  {
+                    "id": "a2927d70-73f6-4a43-b7ef-b899a96d21a0",
+                    "boundaryNum": 1,
+                    "name": "SBI Bank - WARD 2",
+                    "localname": "SBI Bank - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f25cfd76-cc2d-47ff-a6aa-864d44023835",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 3",
+                "children": [
+                  {
+                    "id": "33a7f01d-2588-423d-a63b-f8dbc30bfe86",
+                    "boundaryNum": 1,
+                    "name": "Market Road - WARD 3",
+                    "localname": "Market Road - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "275f8ef5-e713-431d-bcd6-f3a9294aea31",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 4",
+                "children": [
+                  {
+                    "id": "095cfccb-d01a-45a8-b29a-0fc674a9e3ba",
+                    "boundaryNum": 1,
+                    "name": "Nage wali taab - WARD 4",
+                    "localname": "Nage wali taab - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "440fc067-61db-4024-bd6b-c491aef96812",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 5",
+                "children": [
+                  {
+                    "id": "8f2fc7ac-5333-4c12-9f03-f0d8f0abecf9",
+                    "boundaryNum": 1,
+                    "name": "Gurudwara Patshahi 7th - WARD 5",
+                    "localname": "Gurudwara Patshahi 7th - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ab14fa2-1dd0-4fc4-9154-b26fb4c25104",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 6",
+                "children": [
+                  {
+                    "id": "2efe9451-2f96-4783-8e85-de5828d9d8c4",
+                    "boundaryNum": 1,
+                    "name": "Bhunder wala rasta - WARD 6",
+                    "localname": "Bhunder wala rasta - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9ab65781-5784-472a-8a4c-9d90ad78a75f",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 7",
+                "children": [
+                  {
+                    "id": "4881d034-8b9a-4db3-8fb7-a699814effb5",
+                    "boundaryNum": 1,
+                    "name": "Sheller - WARD 7",
+                    "localname": "Sheller - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d40ba9d7-75f6-4fac-92dd-721c4395d82c",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 8",
+                "children": [
+                  {
+                    "id": "c4864d48-ce82-456b-a2a3-5c0d6ef444ec",
+                    "boundaryNum": 1,
+                    "name": "Elementry school - WARD 8",
+                    "localname": "Elementry school - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4b5745b6-8400-498c-bbd8-5ec14dc10d77",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 9",
+                "children": [
+                  {
+                    "id": "4da57363-01af-4682-aa3b-bcf5edb5657c",
+                    "boundaryNum": 1,
+                    "name": "Balianwali fatak - WARD 9",
+                    "localname": "Balianwali fatak - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "088233cd-0be1-4bc8-b66c-5b225e8c5609",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 10",
+                "children": [
+                  {
+                    "id": "0d97ad02-25d1-4724-8d00-ebac3292c097",
+                    "boundaryNum": 1,
+                    "name": "Dera baba bhai ji sahib - WARD 10",
+                    "localname": "Dera baba bhai ji sahib - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "08790eb7-7840-4694-b545-17668811825e",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 11",
+                "children": [
+                  {
+                    "id": "a20cda43-5ea9-4a6c-9e6c-bf0473a8744e",
+                    "boundaryNum": 1,
+                    "name": "dera baba bhali ram ji - WARD 11",
+                    "localname": "dera baba bhali ram ji - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lehramohabbat",
+        "localname": "Lehramohabbat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.lehramohabbat",
+        "children": [
+          {
+            "id": "b596edff-66fe-4d36-85cc-3997a57acd89",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d529dd20-50df-4cd4-a28b-04e80fa41ee6",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 1",
+                "children": [
+                  {
+                    "id": "0a31adbd-f6c9-411c-9ea3-2ca98f82eabc",
+                    "boundaryNum": 1,
+                    "name": "Main gate, RO, Shivalik school, holy heart school - B 1 - A1",
+                    "localname": "Main gate, RO, Shivalik school, holy heart school - B 1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ffabfe2e-56c5-4f6c-9d7c-9002d9a0387d",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 2",
+                "children": [
+                  {
+                    "id": "7418f857-c30f-4667-bdb3-875c572e173b",
+                    "boundaryNum": 1,
+                    "name": "SBlockI Blockank, 6th patshahi gurudwara sahiBlock - B 2 - A1",
+                    "localname": "SBlockI Blockank, 6th patshahi gurudwara sahiBlock - B 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e7574d68-a9d9-4ce1-910f-baf496e09d51",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 3",
+                "children": [
+                  {
+                    "id": "33d345c8-b484-4680-8db8-222489b3789c",
+                    "boundaryNum": 1,
+                    "name": "Petrol pump devi padmavati, Ravidas gurudwara - B 3 - A1",
+                    "localname": "Petrol pump devi padmavati, Ravidas gurudwara - B 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e5099bc2-0ee4-4398-90fa-526722a17cb3",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 4",
+                "children": [
+                  {
+                    "id": "47d48fea-cc75-41f6-ab17-9f08a95a94a2",
+                    "boundaryNum": 1,
+                    "name": "Ravidas mandir, Dharmshalla - B 4 - A1",
+                    "localname": "Ravidas mandir, Dharmshalla - B 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dafed978-96f3-4bdd-ba5b-eddf4f16e7af",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 5",
+                "children": [
+                  {
+                    "id": "aed737d7-dbf4-4478-bb66-f8f799b37793",
+                    "boundaryNum": 1,
+                    "name": "Railway station, 7th patshahi gurudwara - B 5 - A1",
+                    "localname": "Railway station, 7th patshahi gurudwara - B 5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27c91aa9-8521-497d-9ecc-a4d7ff721fac",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 10",
+                "children": [
+                  {
+                    "id": "068877c4-1689-4ec9-92b3-196015c18df4",
+                    "boundaryNum": 1,
+                    "name": "daula patti sath, mini Blockus stand, Dera BlockaBlocka Blockhai ji sahiBlock - B 10 - A1",
+                    "localname": "daula patti sath, mini Blockus stand, Dera BlockaBlocka Blockhai ji sahiBlock - B 10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51584eea-0a31-449c-afbc-5f72915faa00",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 11",
+                "children": [
+                  {
+                    "id": "98f5bee9-a7c7-4b87-8180-3e39ecd4d6d7",
+                    "boundaryNum": 1,
+                    "name": "Well, Dera BlockaBlocka Blockhali ram ji - B 11 - A1",
+                    "localname": "Well, Dera BlockaBlocka Blockhali ram ji - B 11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "47da71a9-b3ac-4df4-95f5-b3791841932f",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "e55e4e63-2acd-48d6-bbd2-e3bb925ff90c",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 6",
+                "children": [
+                  {
+                    "id": "1a43a9b8-669f-4fbc-9d0f-8c6461a337bd",
+                    "boundaryNum": 1,
+                    "name": "Elimentry school - B 6 - A2",
+                    "localname": "Elimentry school - B 6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63c9c93a-6cb1-49fa-ab27-eb3a320d56a5",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 7",
+                "children": [
+                  {
+                    "id": "a7d77324-3a3e-4f9f-bbdd-fe833fae8287",
+                    "boundaryNum": 1,
+                    "name": "Cold store - B 7 - A2",
+                    "localname": "Cold store - B 7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "261f297b-17fb-4788-a99a-08bbb4057f66",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 8",
+                "children": [
+                  {
+                    "id": "feb9d4ae-929b-491b-8b30-7de5949438c0",
+                    "boundaryNum": 1,
+                    "name": "Shamshan ghat, Peerkhanna - B 8 - A2",
+                    "localname": "Shamshan ghat, Peerkhanna - B 8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "818e61d9-1a85-434e-97aa-7ad6e090de7f",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B 9",
+                "children": [
+                  {
+                    "id": "2abe8811-2eb9-4ccc-b213-d749925e81b8",
+                    "boundaryNum": 1,
+                    "name": "Hospital, Dana mandi, NP Office - B 9 - A2",
+                    "localname": "Hospital, Dana mandi, NP Office - B 9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "LM 9",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

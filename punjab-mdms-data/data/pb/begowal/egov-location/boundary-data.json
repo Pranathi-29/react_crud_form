@@ -1,0 +1,618 @@
+{
+  "tenantId": "pb.begowal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Begowal",
+        "localname": "Begowal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.begowal",
+        "children": [
+          {
+            "id": "fca2c997-c582-417f-941f-81c95b922146",
+            "boundaryNum": 1,
+            "name": "Begowal",
+            "localname": "Begowal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "70028ec7-a349-421b-8fbd-18d56c28372c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward1",
+                "children": [
+                  {
+                    "id": "d98155c0-077a-456b-a825-13423c1b47f2",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Ward 1 - WARD_1",
+                    "localname": "Main Bazar Ward 1 - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "615f63a0-f8b3-4e52-9744-3bc752b3e621",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward2",
+                "children": [
+                  {
+                    "id": "48b76d76-4125-4611-bd57-336044dc634c",
+                    "boundaryNum": 1,
+                    "name": "Bala Peer Road,tanda road  Ward2 - WARD_2",
+                    "localname": "Bala Peer Road,tanda road  Ward2 - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "272a8e06-6276-4c81-94d8-a169b32ad64a",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward3",
+                "children": [
+                  {
+                    "id": "351b60eb-6ce4-4858-8d91-1226b45b15a3",
+                    "boundaryNum": 1,
+                    "name": "Bala Peer Road,tanda road  Ward3 - WARD_3",
+                    "localname": "Bala Peer Road,tanda road  Ward3 - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07e2692d-d779-41e0-8b89-6e63fab45368",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward4",
+                "children": [
+                  {
+                    "id": "fb1daa2a-bde7-48cd-bbed-1daa1538dcb8",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Ward4 - WARD_4",
+                    "localname": "Main Bazar Ward4 - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ae2c8e64-9101-4c8f-b1dd-5d6720d9aca4",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward5",
+                "children": [
+                  {
+                    "id": "6f244fab-15fa-4e1a-83d1-b75c1e073e5b",
+                    "boundaryNum": 1,
+                    "name": "College Road  Ward5 - WARD_5",
+                    "localname": "College Road  Ward5 - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f5ae37dd-9f00-47ad-8dca-eb2d21b8c9de",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward6",
+                "children": [
+                  {
+                    "id": "3bc4a457-3573-4002-8523-35c3c110278d",
+                    "boundaryNum": 1,
+                    "name": "OLD BAZAR Ward6 - WARD_6",
+                    "localname": "OLD BAZAR Ward6 - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "317c974c-3852-4926-bc43-924c3bf2a67a",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward7",
+                "children": [
+                  {
+                    "id": "10942102-ebf1-4f07-8d52-c4c57e725fb6",
+                    "boundaryNum": 1,
+                    "name": "OLD BAZAR Ward7 - WARD_7",
+                    "localname": "OLD BAZAR Ward7 - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cd56d1d5-fcbf-491a-a4ab-d1d4ef306aff",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward8",
+                "children": [
+                  {
+                    "id": "0c049da1-aa52-47fa-a409-e14fded13420",
+                    "boundaryNum": 1,
+                    "name": "Chardi Patti, Ward8 - WARD_8",
+                    "localname": "Chardi Patti, Ward8 - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e9000df6-da48-4c0f-a0fa-e64a2d42ff37",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward9",
+                "children": [
+                  {
+                    "id": "4cbd60a0-b770-4dae-b1fa-6ec8bac1a741",
+                    "boundaryNum": 1,
+                    "name": "Chardi Patti, Ward9 - WARD_9",
+                    "localname": "Chardi Patti, Ward9 - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25cd7841-7134-4163-817e-8aaa0864bd2c",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward10",
+                "children": [
+                  {
+                    "id": "fe73eac7-e9d8-46b1-8b9d-6a05c373c088",
+                    "boundaryNum": 1,
+                    "name": "Chardi Patti, Ward10 - WARD_10",
+                    "localname": "Chardi Patti, Ward10 - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3c25bdcf-ffac-4dde-be52-e2e69d5ebbc9",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward11",
+                "children": [
+                  {
+                    "id": "0f8c4f3b-7954-44d5-a2e1-779fb4251ec3",
+                    "boundaryNum": 1,
+                    "name": "College Road  Ward11 - WARD_11",
+                    "localname": "College Road  Ward11 - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c3b12a7d-4264-48ea-983f-d61972d6aac2",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward12",
+                "children": [
+                  {
+                    "id": "f7489713-3704-4b9a-9dbc-885bbdd7df96",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar War12 - WARD_12",
+                    "localname": "Main Bazar War12 - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e0222304-d61c-4705-81c4-46d600da9912",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward13",
+                "children": [
+                  {
+                    "id": "d9114a5a-62ad-4a36-8213-a212612ec185",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar Ward13 - WARD_13",
+                    "localname": "Main Bazar Ward13 - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BG11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Begowal",
+        "localname": "Begowal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.begowal",
+        "children": [
+          {
+            "id": "fa761ae8-3cce-475d-9687-6286c2978afb",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a9b0006c-20f4-4782-8f9b-4aac72c6484b",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "933f0d40-919e-4889-b3bf-ac6be9601c40",
+                    "boundaryNum": 1,
+                    "name": "Bhadas Chowk - B1 - A1",
+                    "localname": "Bhadas Chowk - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77a315c6-142b-4877-bd91-22c53050bc90",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "282ce2ef-cfb8-4fd0-9e28-b319fdc2add4",
+                    "boundaryNum": 1,
+                    "name": "Sant Prem Singh Dera - B2 - A1",
+                    "localname": "Sant Prem Singh Dera - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7e671d67-d241-4785-88f5-cdae28e65ba6",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "112da29a-7a1b-437e-8b7d-97e4997f97fb",
+                    "boundaryNum": 1,
+                    "name": "Satguru Adda - B3 - A1",
+                    "localname": "Satguru Adda - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "add63f58-c03d-4c8d-809a-da3a88f8c4b6",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "0bd67336-febf-493c-9f85-b2120b4c6dbc",
+                    "boundaryNum": 1,
+                    "name": "Bus stand - B4 - A1",
+                    "localname": "Bus stand - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "aa86584e-c25e-4216-8a69-f585478484b6",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "fb1209eb-20a7-4a89-9bc6-fbf637b24383",
+                    "boundaryNum": 1,
+                    "name": "Kapil Colony - B5 - A2",
+                    "localname": "Kapil Colony - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4b908f27-3b68-4163-8986-07965b2f7547",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "aaab76d0-060d-465a-8145-107e09d28675",
+                    "boundaryNum": 1,
+                    "name": "Bala Peer Road - B6 - A2",
+                    "localname": "Bala Peer Road - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1f5b88d6-a3ff-4482-8415-6fe7dad498fe",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "9946b938-b9a4-4878-b5be-f51c54b8a78d",
+                    "boundaryNum": 1,
+                    "name": "Chardi Patti - B7 - A2",
+                    "localname": "Chardi Patti - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_7",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "367cc50f-bd98-4bf1-99f1-e8bd6662edc8",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "bc87150c-7be9-4500-864e-3d790735f977",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - B8 - A1",
+                    "localname": "Main Bazar - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86a63655-c7bf-4cbf-acbb-ac46a14d6e83",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "01acbadc-3591-4d4c-819d-38ecd0065402",
+                    "boundaryNum": 1,
+                    "name": "College Road - B9 - A1",
+                    "localname": "College Road - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "82f5ffa7-511e-4a32-93d6-1f6793e0f71a",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "ba6cf60b-89cd-48fc-a258-1b7a05d1898e",
+                    "boundaryNum": 1,
+                    "name": "Mikhowal - B10 - A1",
+                    "localname": "Mikhowal - B10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BEG_10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+{
+  "tenantId": "pb.jaitu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jaitu",
+        "localname": "Jaitu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jaitu",
+        "children": [
+          {
+            "id": "78397a7e-4854-439d-a7da-b8f421942003",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cfc03739-7d59-4c75-8b22-b2d94756692c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "a40e8a2b-7627-4d2e-b7bd-4bdc9f8bba00",
+                    "boundaryNum": 1,
+                    "name": "Hospital road near boy school - WARD_1",
+                    "localname": "Hospital road near boy school - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bf0a0af4-8468-4713-9084-30cd86462aac",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "adf1b50b-5774-453c-b52a-e551a777de81",
+                    "boundaryNum": 1,
+                    "name": "Tibbi Sahib road - WARD_2",
+                    "localname": "Tibbi Sahib road - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "254ab0e7-6390-4f4d-b42d-9a5dd590610b",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "70d88c0a-fe1e-4617-9f28-ba2812c50d0c",
+                    "boundaryNum": 1,
+                    "name": "Niamiwala road - WARD_3",
+                    "localname": "Niamiwala road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b8b29e78-304a-47e2-933b-c65f6d03f068",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "f6fd8245-9edf-492b-a90c-09b290d6cbc7",
+                    "boundaryNum": 1,
+                    "name": "near Lakhe wala khoo - WARD_4",
+                    "localname": "near Lakhe wala khoo - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c2a8e3a8-e4b3-4f2a-bfac-60219d639924",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "ea6ab53e-e8d5-43af-aece-dc302c501156",
+                    "boundaryNum": 1,
+                    "name": "Near Panditan wali gali and police station - WARD_5",
+                    "localname": "Near Panditan wali gali and police station - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "073fcc43-7a6c-4474-83c8-eb08a2585802",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "ae1dfbde-7e73-4136-965e-ab9ad1202d48",
+                    "boundaryNum": 1,
+                    "name": "Gurdwara Bhai Jaiteana - WARD_6",
+                    "localname": "Gurdwara Bhai Jaiteana - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a315fe8d-6603-4340-8d7a-5a7708999ab0",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "d90a89e7-522a-4fc6-92de-bb96de61fa3c",
+                    "boundaryNum": 1,
+                    "name": "Regar Basti and majbi mohalla - WARD_7",
+                    "localname": "Regar Basti and majbi mohalla - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76f282f2-0f97-4f05-b98d-a05b2a5bb792",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "55b10d4a-8ae2-48df-8868-9ecb7a79dd80",
+                    "boundaryNum": 1,
+                    "name": "bajakhana road and R.V. shanti nagar - WARD_8",
+                    "localname": "bajakhana road and R.V. shanti nagar - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23e061d9-f4b1-4b1e-af27-5a8a89b6e78c",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "e350e069-d010-4f68-b73f-ba16ac85f3ce",
+                    "boundaryNum": 1,
+                    "name": "Balmik colony and Bathinda road - WARD_9",
+                    "localname": "Balmik colony and Bathinda road - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10027a3a-5d74-4074-a9ca-d2a9af46558f",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "3b7df193-5bc8-4ae7-a11c-a57143e50581",
+                    "boundaryNum": 1,
+                    "name": "Himmatpura Basti and Jindal colony - WARD_10",
+                    "localname": "Himmatpura Basti and Jindal colony - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c936c21b-dbf8-4d1c-b6e3-6f551a4bede7",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "e94a0a0a-e9e8-4fdc-861b-3d2c5aa4a690",
+                    "boundaryNum": 1,
+                    "name": "Deene dhud wali gali and Ram leela ground - WARD_11",
+                    "localname": "Deene dhud wali gali and Ram leela ground - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bb30a39a-bec5-4034-ba43-c5fc32973b9e",
+                "boundaryNum": 1,
+                "name": "WARD_12",
+                "localname": "WARD_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD12",
+                "children": [
+                  {
+                    "id": "68a97067-2395-437c-b767-710e63b3498f",
+                    "boundaryNum": 1,
+                    "name": "Doad mohalla - WARD_12",
+                    "localname": "Doad mohalla - WARD_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "13721f43-503e-49d2-954e-da6b5f22a4cf",
+                "boundaryNum": 1,
+                "name": "WARD_13",
+                "localname": "WARD_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD13",
+                "children": [
+                  {
+                    "id": "69e4b3d2-4288-49b7-998d-7c49c6416d9d",
+                    "boundaryNum": 1,
+                    "name": "New market - WARD_13",
+                    "localname": "New market - WARD_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3d68c62d-3575-47a7-bae2-da2bcd5b2789",
+                "boundaryNum": 1,
+                "name": "WARD_14",
+                "localname": "WARD_14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD14",
+                "children": [
+                  {
+                    "id": "8368fc5c-13c3-4d56-ad86-84b734501e27",
+                    "boundaryNum": 1,
+                    "name": "chowk no-1, Bishnandi road - WARD_14",
+                    "localname": "chowk no-1, Bishnandi road - WARD_14",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_14",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8888b6ed-9cb9-4ad3-a2eb-d6eefaf9beb8",
+                "boundaryNum": 1,
+                "name": "WARD_15",
+                "localname": "WARD_15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD15",
+                "children": [
+                  {
+                    "id": "b43e5377-26d6-44f1-80be-3112389f1c6f",
+                    "boundaryNum": 1,
+                    "name": "Peerkhana basti - WARD_15",
+                    "localname": "Peerkhana basti - WARD_15",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_15",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "08edd3af-811d-4245-9a4f-5d2b2f3650c6",
+                "boundaryNum": 1,
+                "name": "WARD_16",
+                "localname": "WARD_16",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD16",
+                "children": [
+                  {
+                    "id": "36448813-ecb0-485d-aaae-3e73b7976b96",
+                    "boundaryNum": 1,
+                    "name": "Muktsar road and Chaina road - WARD_16",
+                    "localname": "Muktsar road and Chaina road - WARD_16",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_16",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72142abc-8dbd-4861-b6cb-32705ac13208",
+                "boundaryNum": 1,
+                "name": "WARD_17",
+                "localname": "WARD_17",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD17",
+                "children": [
+                  {
+                    "id": "3c19de98-c7ad-44b2-9bd3-2f6b3e7f387f",
+                    "boundaryNum": 1,
+                    "name": "Ambedkar nagar and Sukhchainpura basti - WARD_17",
+                    "localname": "Ambedkar nagar and Sukhchainpura basti - WARD_17",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT_17",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jaitu",
+        "localname": "Jaitu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.jaitu",
+        "children": [
+          {
+            "id": "22b40eff-fa8d-4072-9f93-954f8e056997",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1533e7b9-29ef-4099-9af4-53ba43fc304a",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "1ddb3b91-b8c0-417e-9c7d-738346ac2c41",
+                    "boundaryNum": 1,
+                    "name": "railway bazar left side,Main bazar, Chowk no-1,New market,Chaina bazar - B1 - A1",
+                    "localname": "railway bazar left side,Main bazar, Chowk no-1,New market,Chaina bazar - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-1",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "869b7fdc-60a0-4bcb-98c5-adf79f13db36",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "340cc489-665a-4ef6-80cc-227661382a7b",
+                    "boundaryNum": 1,
+                    "name": "Bishnandi bazar,Right side Bishnandi Fatak road,Gaushala road - B2 - A1",
+                    "localname": "Bishnandi bazar,Right side Bishnandi Fatak road,Gaushala road - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a1f92afd-42f0-4405-90f0-8dcabc51b6eb",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "b66f4cb3-1a7e-49e3-9b54-4c5656daff32",
+                    "boundaryNum": 1,
+                    "name": "Main bazar,chowk no-2,Right side bajakhana road. - B3 - A1",
+                    "localname": "Main bazar,chowk no-2,Right side bajakhana road. - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "eca79bcb-b42e-40e1-976b-0b72aea27d43",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "cac8acb5-6861-49fd-9822-563fbeeaa07e",
+                    "boundaryNum": 1,
+                    "name": "Left side Bajakhana road, chowk no-3 - B4 - A1",
+                    "localname": "Left side Bajakhana road, chowk no-3 - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b7b844c2-bf81-487c-824a-aaf74909f0e7",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "f4330133-5d75-4bc8-b6be-71a6c7f5b309",
+                    "boundaryNum": 1,
+                    "name": "Peerkhana basti, Hardyal nagar, Chaina road - B5 - A2",
+                    "localname": "Peerkhana basti, Hardyal nagar, Chaina road - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-5",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33f6b979-a15b-481c-9081-44d63d0cbab6",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "e9704456-5b65-4e20-aeec-e128394858a1",
+                    "boundaryNum": 1,
+                    "name": "Sukhchainpura Basti, Muktsar Road, Ambedkar Nagar. - B6 - A2",
+                    "localname": "Sukhchainpura Basti, Muktsar Road, Ambedkar Nagar. - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-6",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "317e371e-fd13-4471-98c9-f305efca2d16",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "c570396a-4bed-414d-b619-e74c920b2815",
+                    "boundaryNum": 1,
+                    "name": "Dana mandi, Tehsil road left side, muktsar road. - B7 - A1",
+                    "localname": "Dana mandi, Tehsil road left side, muktsar road. - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "ad37d3d6-c581-41a1-9d71-92492242f5de",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "f6a6ae9f-9d19-47a8-a341-b9815701c1e0",
+                    "boundaryNum": 1,
+                    "name": "Right side chowk no-3, bajakhana road, Bathinda road - B8 - A2",
+                    "localname": "Right side chowk no-3, bajakhana road, Bathinda road - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c4d7c669-ce98-4814-a556-3ffab5b39daf",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "26fd0fde-aefa-482d-9aa7-88b7d77141c4",
+                    "boundaryNum": 1,
+                    "name": "Himmatpura Basti, Farid Nagar,Gaushala road, Jindal Colony - B9 - A1",
+                    "localname": "Himmatpura Basti, Farid Nagar,Gaushala road, Jindal Colony - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2a78aa33-2292-4197-bb28-65443d59be97",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "8d9b8509-31ca-479b-8f11-4e5814320103",
+                    "boundaryNum": 1,
+                    "name": "Jaitu Pind - B10 - A1",
+                    "localname": "Jaitu Pind - B10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f6327186-1636-4ea0-820b-25f97a3dda0f",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "93774c1f-5823-44ea-bb58-683303b22afc",
+                    "boundaryNum": 1,
+                    "name": "Jaitu Pind - B11 - A1",
+                    "localname": "Jaitu Pind - B11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07697fbb-00f7-42d0-b2d3-9a06da39ba86",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "17a1472f-117b-4fe9-9c9b-1c8f00b0ce83",
+                    "boundaryNum": 1,
+                    "name": "Jaitu Pind - B12 - A1",
+                    "localname": "Jaitu Pind - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-12",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b437ea23-e671-4f6e-a990-2b675c171ccf",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "c7b63256-6ddf-43a0-854f-0d9861b65b10",
+                    "boundaryNum": 1,
+                    "name": "Left side Bajakhana road, Regar basti, PSPCL Office Majbi Mohalla - B13 - A1",
+                    "localname": "Left side Bajakhana road, Regar basti, PSPCL Office Majbi Mohalla - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "JT-13",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

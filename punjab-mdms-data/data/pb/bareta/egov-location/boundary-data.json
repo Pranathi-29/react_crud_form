@@ -1,0 +1,930 @@
+{
+  "tenantId": "pb.bareta",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bareta",
+        "localname": "Bareta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bareta",
+        "children": [
+          {
+            "id": "69ada0e6-8f37-41a7-ac67-01bf2317c49a",
+            "boundaryNum": 1,
+            "name": "ZONE1",
+            "localname": "ZONE1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "914a61d5-42eb-4241-93ab-950e9756c0e1",
+                "boundaryNum": 1,
+                "name": "WARD 1",
+                "localname": "WARD 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 1",
+                "children": [
+                  {
+                    "id": "aef83bdb-bb05-489a-81ec-06b3911b45b4",
+                    "boundaryNum": 1,
+                    "name": "Saraswati Nagar - WARD 1",
+                    "localname": "Saraswati Nagar - WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b3897dd6-de40-49db-845f-b4c0c2d9b39a",
+                "boundaryNum": 1,
+                "name": "WARD 2",
+                "localname": "WARD 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 2",
+                "children": [
+                  {
+                    "id": "44f6a901-a516-47e1-b422-882c2470511d",
+                    "boundaryNum": 1,
+                    "name": "Satsang Road - WARD 2",
+                    "localname": "Satsang Road - WARD 2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45d779d4-8778-4807-b809-f46ab38653f0",
+                "boundaryNum": 1,
+                "name": "WARD 3",
+                "localname": "WARD 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 3",
+                "children": [
+                  {
+                    "id": "511887fb-f0d8-4def-b882-0c5da3b7e46e",
+                    "boundaryNum": 1,
+                    "name": "Arya Smaj Road - WARD 3",
+                    "localname": "Arya Smaj Road - WARD 3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39f73a65-26e9-45d9-8838-4e354da4cf00",
+                "boundaryNum": 1,
+                "name": "WARD 4",
+                "localname": "WARD 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 4",
+                "children": [
+                  {
+                    "id": "9429a471-cf2c-4398-b1e3-9aecb789a867",
+                    "boundaryNum": 1,
+                    "name": "Park Road - WARD 4",
+                    "localname": "Park Road - WARD 4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "531cc7c5-410d-4e26-91a5-373aa7e7886b",
+                "boundaryNum": 1,
+                "name": "WARD 5",
+                "localname": "WARD 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 5",
+                "children": [
+                  {
+                    "id": "f9608f3e-2344-46ec-9bd3-fad1da8d9941",
+                    "boundaryNum": 1,
+                    "name": "Jalvehra Road - WARD 5",
+                    "localname": "Jalvehra Road - WARD 5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a8516f2a-ade4-43ba-83d3-cb587e2c3fdd",
+                "boundaryNum": 1,
+                "name": "WARD 6",
+                "localname": "WARD 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 6",
+                "children": [
+                  {
+                    "id": "169af9b5-67e2-40f8-ba9e-565e7c64e547",
+                    "boundaryNum": 1,
+                    "name": "Bazzar Vehra - WARD 6",
+                    "localname": "Bazzar Vehra - WARD 6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d94b5503-e3bd-46cf-b90e-c717cbb7d939",
+                "boundaryNum": 1,
+                "name": "WARD 7",
+                "localname": "WARD 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 7",
+                "children": [
+                  {
+                    "id": "95dac970-22c5-47fd-9c65-60da366393f8",
+                    "boundaryNum": 1,
+                    "name": "Bagga Wala Khooh Road - WARD 7",
+                    "localname": "Bagga Wala Khooh Road - WARD 7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "69156a0e-a50c-4d10-ba31-b098b9996979",
+                "boundaryNum": 1,
+                "name": "WARD 8",
+                "localname": "WARD 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 8",
+                "children": [
+                  {
+                    "id": "11e3492d-492f-4f74-95c9-269146dbc5d1",
+                    "boundaryNum": 1,
+                    "name": "Water Works Road - WARD 8",
+                    "localname": "Water Works Road - WARD 8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "395aba99-1ab5-4586-876a-3cb43d4cb2d4",
+                "boundaryNum": 1,
+                "name": "WARD 9",
+                "localname": "WARD 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 9",
+                "children": [
+                  {
+                    "id": "e8346d48-5b04-487c-9413-64f687aaaed8",
+                    "boundaryNum": 1,
+                    "name": "Dharmpura Road - WARD 9",
+                    "localname": "Dharmpura Road - WARD 9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5f3481b4-a4c4-4b72-ba83-0ab3c4b1e57a",
+                "boundaryNum": 1,
+                "name": "WARD 10",
+                "localname": "WARD 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 10",
+                "children": [
+                  {
+                    "id": "f1e93176-786d-4a61-ac50-db7150bab196",
+                    "boundaryNum": 1,
+                    "name": "Dyal pura Road - WARD 10",
+                    "localname": "Dyal pura Road - WARD 10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9240f27b-4b4d-4ef1-8263-5e46dbced5b4",
+                "boundaryNum": 1,
+                "name": "WARD 11",
+                "localname": "WARD 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 11",
+                "children": [
+                  {
+                    "id": "7547b326-91aa-4a9d-aab9-2d508a77e1b6",
+                    "boundaryNum": 1,
+                    "name": "Dasmesh Nagar - WARD 11",
+                    "localname": "Dasmesh Nagar - WARD 11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c14e9aab-1d94-41a1-97df-73919bf4fec9",
+                "boundaryNum": 1,
+                "name": "WARD 12",
+                "localname": "WARD 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 12",
+                "children": [
+                  {
+                    "id": "106fe85c-0074-4a9a-b56b-9a5ab11aae28",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand Road - WARD 12",
+                    "localname": "Bus Stand Road - WARD 12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 12",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e6709985-091f-4964-83c9-78834c2820fa",
+                "boundaryNum": 1,
+                "name": "WARD 13",
+                "localname": "WARD 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD 13",
+                "children": [
+                  {
+                    "id": "ed047ccd-ce06-43b2-a186-e159d4ab14ef",
+                    "boundaryNum": 1,
+                    "name": "Greenland day public school Basti - WARD 13",
+                    "localname": "Greenland day public school Basti - WARD 13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BLZ 13",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bareta",
+        "localname": "Bareta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.bareta",
+        "children": [
+          {
+            "id": "11fa183f-d54a-475e-9427-aa4a17bf2946",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a7e092e3-6f1a-48ec-a785-8de91769fd7f",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "cbd6a58e-59d4-497d-ae40-cc2a07cab441",
+                    "boundaryNum": 1,
+                    "name": "Jogi Basti to Bhagwan Dass Godan (Near Municipal Cloni) - B1 - A2",
+                    "localname": "Jogi Basti to Bhagwan Dass Godan (Near Municipal Cloni) - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT1",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3204879c-f0a4-461c-813e-abb9b4c40ea8",
+                    "boundaryNum": 1,
+                    "name": "Near Girl Scholl(Bholu Dlal Wali Side ) to Adrash School - B1 - A2",
+                    "localname": "Near Girl Scholl(Bholu Dlal Wali Side ) to Adrash School - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 2",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "680d8ff0-bce8-47dc-8690-fcfe6b3ed8be",
+                    "boundaryNum": 1,
+                    "name": "Bus Stand to Bhai Ghaniya Road and Ajay Trasport Walia Galia - B1 - A2",
+                    "localname": "Bus Stand to Bhai Ghaniya Road and Ajay Trasport Walia Galia - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 3",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f968370c-ea9c-46ab-8239-8f74f2deb74f",
+                    "boundaryNum": 1,
+                    "name": "Mulajam Calony - B1 - A1",
+                    "localname": "Mulajam Calony - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 4",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "17003aa9-a3ae-477a-86e6-c686d04338a1",
+                    "boundaryNum": 1,
+                    "name": "Budhlada Road Kanchiya to greenLand School to Jakhal Road - B1 - A1",
+                    "localname": "Budhlada Road Kanchiya to greenLand School to Jakhal Road - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20e185a2-a498-4d5e-a74f-66ce10c673a7",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "5b613359-d00e-4b1d-bffc-e178f59aaf59",
+                    "boundaryNum": 1,
+                    "name": "Buchhar di Atta Chaki to Jatinder Mohan di Atta Chakki Jakhal Road - B2 - A1",
+                    "localname": "Buchhar di Atta Chaki to Jatinder Mohan di Atta Chakki Jakhal Road - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 6",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "187a7302-3b63-4b80-93e5-b02d5439db9f",
+                    "boundaryNum": 1,
+                    "name": "Krishna Mandir to  Main Bahadur pur Road  And All Clonys - B2 - A1",
+                    "localname": "Krishna Mandir to  Main Bahadur pur Road  And All Clonys - B2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d3a50845-d3dd-4b9d-b9c1-05134a6a7c8d",
+                    "boundaryNum": 1,
+                    "name": "Jas Narsingh Home to Police statin di Back side gali No. 1,2,3 - B2 - A2",
+                    "localname": "Jas Narsingh Home to Police statin di Back side gali No. 1,2,3 - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 8",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f3694a3-a9e3-46a9-928e-6e9caa6829d1",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "c2929976-e6e6-468b-a227-b31f188cab4c",
+                    "boundaryNum": 1,
+                    "name": "Ved Mool Chnad to Tehsil di Back Side Boy school - B3 - A1",
+                    "localname": "Ved Mool Chnad to Tehsil di Back Side Boy school - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "e9277488-0f82-4b5f-afb5-16f1b7446843",
+                    "boundaryNum": 1,
+                    "name": "Hospital Road, Tohan Basti,Awara GauShalla ,Sameria wali Factory Road - B3 - A1",
+                    "localname": "Hospital Road, Tohan Basti,Awara GauShalla ,Sameria wali Factory Road - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "99af0786-af49-4537-8bc9-e3592bf71a07",
+                    "boundaryNum": 1,
+                    "name": "Sanjay Arore Wali, Mangal Sohan Wali Galia,Guru Dawara Road New Railway Station - B3 - A1",
+                    "localname": "Sanjay Arore Wali, Mangal Sohan Wali Galia,Guru Dawara Road New Railway Station - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "dee0ab91-e69e-44df-b148-86d09e865532",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "016429f1-5857-4983-9c38-f1459d8ca69b",
+                    "boundaryNum": 1,
+                    "name": "Mukandpura Basti to Primary Shcool - B4 - A2",
+                    "localname": "Mukandpura Basti to Primary Shcool - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 12",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "a90534c0-d304-4d88-8b05-ef515a5a42a7",
+                    "boundaryNum": 1,
+                    "name": "Primary School to Kuliran Road - B4 - A2",
+                    "localname": "Primary School to Kuliran Road - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 13",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "9b8fe640-32f4-494a-a133-de34c3a17335",
+                    "boundaryNum": 1,
+                    "name": "Kuliran Road to Dhanpura Road Sikander Singh Jaildar - B4 - A2",
+                    "localname": "Kuliran Road to Dhanpura Road Sikander Singh Jaildar - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "f95cc8fb-0478-42f7-82d4-09a245b1cf23",
+                    "boundaryNum": 1,
+                    "name": "Kulriya Road Fatak to Peer Jangli to Ex Mahinder Mc Wali Gali - B4 - A2",
+                    "localname": "Kulriya Road Fatak to Peer Jangli to Ex Mahinder Mc Wali Gali - B4 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 15",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "fd900d93-e40a-4fe1-82a0-f20b88ca59d9",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "662763f0-a1fc-44da-b287-b22f5a894e1b",
+                    "boundaryNum": 1,
+                    "name": "Tarsem Mc Wali to MollGarh Muhlla - B5 - A2",
+                    "localname": "Tarsem Mc Wali to MollGarh Muhlla - B5 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 16",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6715e294-68e4-435a-8952-23fc61450c19",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "31fb2e3a-5197-46ef-a99a-3f799d04af8f",
+                    "boundaryNum": 1,
+                    "name": "Ram Ditta di Atta Chakki , Jalvehra Road Gurdeep mc,Billu Bangru to Jalvehra Rod - B6 - A2",
+                    "localname": "Ram Ditta di Atta Chakki , Jalvehra Road Gurdeep mc,Billu Bangru to Jalvehra Rod - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 17",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8abc0629-35f7-4af0-91bd-2bf04e049216",
+                    "boundaryNum": 1,
+                    "name": "Basson Pati Dharmshalla ,Gollu Atta Chaki,Pandita Da Vehra,Maggar Lahor ,Gurdwar sahib Bareta Pind - B6 - A2",
+                    "localname": "Basson Pati Dharmshalla ,Gollu Atta Chaki,Pandita Da Vehra,Maggar Lahor ,Gurdwar sahib Bareta Pind - B6 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 18",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "68835d7e-be3f-4aa9-b16e-960708f83395",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "1be4881e-31b1-47d8-85e3-085dab97f5c1",
+                    "boundaryNum": 1,
+                    "name": "Gurudwar Sahib ,BaramDev Pradhan walia Galia,Satpal Wali Gali,Archna Mc wali ,Balmeek Mandir - B7 - A2",
+                    "localname": "Gurudwar Sahib ,BaramDev Pradhan walia Galia,Satpal Wali Gali,Archna Mc wali ,Balmeek Mandir - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "3bfa1e5e-4f99-4f3d-a496-0278e31d123d",
+                    "boundaryNum": 1,
+                    "name": "Rain Basera Road to Jalvehra Road - B7 - A2",
+                    "localname": "Rain Basera Road to Jalvehra Road - B7 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 23",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "739c4da6-8d35-4cf4-8467-a4f84b888e09",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "c42e88e9-dbda-421f-886c-743adb6b629e",
+                    "boundaryNum": 1,
+                    "name": "Sikander Jaildar Wali shop ,Guru Nank School Lala Wala Peer - B8 - A2",
+                    "localname": "Sikander Jaildar Wali shop ,Guru Nank School Lala Wala Peer - B8 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5d5b4697-f26d-483d-bff2-da5e0cc35487",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "8563ed3d-2915-46ef-a0cf-faf115221819",
+                    "boundaryNum": 1,
+                    "name": "Dharmpura Road to Godhe Marashi Wali Gali - B9 - A2",
+                    "localname": "Dharmpura Road to Godhe Marashi Wali Gali - B9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "b0054aa2-25bb-4d31-a533-71577d05da4a",
+                    "boundaryNum": 1,
+                    "name": "Godhe Marshi Wali Gali to Thakur Walia Galia - B9 - A2",
+                    "localname": "Godhe Marshi Wali Gali to Thakur Walia Galia - B9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "2271a137-dce2-43f8-8e0a-0618ac1f20ae",
+                    "boundaryNum": 1,
+                    "name": "Jalvehra Road Neel Kamal de House to RailWay Quter Near Kebin - B9 - A2",
+                    "localname": "Jalvehra Road Neel Kamal de House to RailWay Quter Near Kebin - B9 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23ff755e-172e-410f-bb7d-edf96fe48420",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "332aee9d-8e8a-4e65-bcb7-72ed77f1517e",
+                    "boundaryNum": 1,
+                    "name": "Dr. Joshi di Kothi to Parjapat wali Gali ,Jassl Mc Wali Gali ,Hazari Wali ,Nirmla Mc Wali Galia,Namdev Gurudwara Road - B10 - A2",
+                    "localname": "Dr. Joshi di Kothi to Parjapat wali Gali ,Jassl Mc Wali Gali ,Hazari Wali ,Nirmla Mc Wali Galia,Namdev Gurudwara Road - B10 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 25",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4f413e4b-dbdc-4e16-9089-56f6e2d63834",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "ad65c13f-887b-4a70-94fe-c31548a4a1d1",
+                    "boundaryNum": 1,
+                    "name": "Namdev Gurudawara to Nirmla Nc Wali Gali, Teja Mc ,Raj Dhodi Wali, Tiba Basti , Shivji Mandir - B11 - A2",
+                    "localname": "Namdev Gurudawara to Nirmla Nc Wali Gali, Teja Mc ,Raj Dhodi Wali, Tiba Basti , Shivji Mandir - B11 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "05240fc1-6247-4f1f-9519-594e373fb73f",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "db7053ba-5886-4fdf-b292-49f6b5a498be",
+                    "boundaryNum": 1,
+                    "name": "OBC Bank Wali, Ram Chand Bangru , Dr Balwant Munga ,Old DAV School Walia Gali - B12 - A1",
+                    "localname": "OBC Bank Wali, Ram Chand Bangru , Dr Balwant Munga ,Old DAV School Walia Gali - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 27",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1f467b06-ab1b-4f6b-ad38-287c2d7351e5",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "f2d3f2c8-6fd3-4c18-9b0c-9a0be12950c5",
+                    "boundaryNum": 1,
+                    "name": "Municipal Cloni to Tele Exchange Wali Gali ,Satlug Gramin Bank,Anaj Mandi Side - B13 - A1",
+                    "localname": "Municipal Cloni to Tele Exchange Wali Gali ,Satlug Gramin Bank,Anaj Mandi Side - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 28",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "2e53e60e-157d-41ad-9250-0b33094651b2",
+                "boundaryNum": 1,
+                "name": "Block 14",
+                "localname": "Block 14",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B14",
+                "children": [
+                  {
+                    "id": "fe3d002b-a30e-4f96-b55e-ab2b8bb65cf5",
+                    "boundaryNum": 1,
+                    "name": "Salimar Sweet Shop toOld SBOP Wali Anaj Mandi - B14 - A1",
+                    "localname": "Salimar Sweet Shop toOld SBOP Wali Anaj Mandi - B14 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 29",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8fcb8de6-0815-46c8-8f0d-9faf2f0ccbc0",
+                "boundaryNum": 1,
+                "name": "Block 15",
+                "localname": "Block 15",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B15",
+                "children": [
+                  {
+                    "id": "8d02e944-cd15-402a-bfb0-1bf998a3c959",
+                    "boundaryNum": 1,
+                    "name": "Guru Teg Bahadur Market to Aggarwal Dharmshalla Road - B15 - A1",
+                    "localname": "Guru Teg Bahadur Market to Aggarwal Dharmshalla Road - B15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 30",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "24321c29-1b00-4bde-8bb2-c27f1d989b1b",
+                    "boundaryNum": 1,
+                    "name": "Guru Teg Bahadur Market to Aggarwal Dharmshalla Road - B15 - A1",
+                    "localname": "Guru Teg Bahadur Market to Aggarwal Dharmshalla Road - B15 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "BRT 33",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

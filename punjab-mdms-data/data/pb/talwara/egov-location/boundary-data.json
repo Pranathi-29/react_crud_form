@@ -1,0 +1,1324 @@
+{
+  "tenantId": "pb.talwara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Talwara",
+        "localname": "Talwara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.talwara",
+        "children": [
+          {
+            "id": "2464cb0e-5b8d-4117-ad35-5ac18ca400bf",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "71491cd5-bdfc-4bf6-ac07-efe5f48fd394",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "44195728-bd14-4ee0-87af-c7f4bd6ed81a",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar B4 - B4 - A1",
+                    "localname": "Main Bazar B4 - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_8",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c9210b22-0692-4bc4-b5aa-cbd92b15a765",
+                    "boundaryNum": 1,
+                    "name": "Thakur colony - B4 - A1",
+                    "localname": "Thakur colony - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_10",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4f6cd470-791e-4544-8eed-d2f5add74a71",
+                    "boundaryNum": 1,
+                    "name": "Dam Road kesri hotel side - B4 - A1",
+                    "localname": "Dam Road kesri hotel side - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_38",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "4f814678-b7a8-47dd-a28d-4f59e44b8802",
+                    "boundaryNum": 1,
+                    "name": "Thakur colony - B4 - A1",
+                    "localname": "Thakur colony - B4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_39",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "07fdcd38-6ce5-420f-886f-8ed621b4958e",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "c110075f-b4e2-4b23-b95f-4ac6d6bda63e",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar B5 - B5 - A1",
+                    "localname": "Main Bazar B5 - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_7",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "b62e0b3a-29c4-40c5-a3f6-7f5d5d877db7",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - B5 - A1",
+                    "localname": "Main Bazar - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_12",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "c6fe39e9-f97d-444c-8b3f-4e263a1e8804",
+                    "boundaryNum": 1,
+                    "name": "Kamal wali Gali to Capsul wali Gali - B5 - A1",
+                    "localname": "Kamal wali Gali to Capsul wali Gali - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_13",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "27b3ca62-ca6e-42b7-a718-826074ca6a3a",
+                    "boundaryNum": 1,
+                    "name": "Sector -1 - B5 - A1",
+                    "localname": "Sector -1 - B5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_30",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50c3dc0b-bb3c-4a88-a693-acbd7712ff52",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "ad9f18f8-e6d5-4a44-88dc-14dd1903eba9",
+                    "boundaryNum": 1,
+                    "name": "Sector -1( Park Mohalla) - B6 - A1",
+                    "localname": "Sector -1( Park Mohalla) - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_31",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cca77199-9013-4142-946e-99c31262a975",
+                    "boundaryNum": 1,
+                    "name": "Sector -2 (SCF Quarter) - B6 - A1",
+                    "localname": "Sector -2 (SCF Quarter) - B6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_32",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4e2f0296-e121-4e52-9bab-5f00ed14d0b3",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "12c7e575-1771-4bd0-9f65-9b15fa8d06db",
+                    "boundaryNum": 1,
+                    "name": "Sec-3 - B7 - A1",
+                    "localname": "Sec-3 - B7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_33",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "043bfacf-907f-4d0c-92f5-468cf2857d8e",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "84a550d8-f135-44e6-b076-cd069013b168",
+                    "boundaryNum": 1,
+                    "name": "Sec-3 - B8 - A1",
+                    "localname": "Sec-3 - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_34",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "cca67678-e48a-4ff7-9686-1998ec6a8394",
+                    "boundaryNum": 1,
+                    "name": "EV Colony - B8 - A1",
+                    "localname": "EV Colony - B8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_36",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d3eff11-d35e-4c59-8413-6396cc33c7f8",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "a4086cce-f2f4-4de6-8671-b237d80cfff8",
+                    "boundaryNum": 1,
+                    "name": "Sec-3 - B9 - A1",
+                    "localname": "Sec-3 - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_35",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "edb9ceaa-069e-48e1-9f81-3237f45ba395",
+                    "boundaryNum": 1,
+                    "name": "Jhuggi colony - B9 - A1",
+                    "localname": "Jhuggi colony - B9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_37",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afdaf463-0aab-4e8b-ac96-111d85460cf8",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": []
+              },
+              {
+                "id": "7a1d9395-e835-4979-9f84-370d2b16d909",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "5f739d35-03bf-4b49-8631-12e1b2f330fe",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar near water works - B11 - A1",
+                    "localname": "Main Bazar near water works - B11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_29",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63c2b456-24b4-42b0-9f28-a73b09fb8dc5",
+                "boundaryNum": 1,
+                "name": "Block 12",
+                "localname": "Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B12",
+                "children": [
+                  {
+                    "id": "0c9e12a5-d676-47ce-af79-294de69f0e18",
+                    "boundaryNum": 1,
+                    "name": "Subash Nagar - B12 - A1",
+                    "localname": "Subash Nagar - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_2",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "515920ea-11f5-4bf0-9525-a277cde34ffe",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar, - B12 - A1",
+                    "localname": "Adarsh Nagar, - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_3",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "50b9cde8-91ed-4505-994a-1980667d2143",
+                    "boundaryNum": 1,
+                    "name": "Model Town. - B12 - A2",
+                    "localname": "Model Town. - B12 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_4",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "8889f862-f2b7-40a4-9e7d-7f0b0da52b56",
+                    "boundaryNum": 1,
+                    "name": "Vidya Enclave - B12 - A1",
+                    "localname": "Vidya Enclave - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_5",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "6fcb537c-8484-4160-a2e7-bbeb05b1340c",
+                    "boundaryNum": 1,
+                    "name": "Sunder Vihar - B12 - A1",
+                    "localname": "Sunder Vihar - B12 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a90fe98a-c10d-4337-a671-965ff363ed10",
+                "boundaryNum": 1,
+                "name": "Block 13",
+                "localname": "Block 13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13",
+                "children": [
+                  {
+                    "id": "396bcb57-2c2a-42e1-9586-9ade3eed63b8",
+                    "boundaryNum": 1,
+                    "name": "Vidya Enclave - B13 - A1",
+                    "localname": "Vidya Enclave - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_16",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "810bb410-0828-4c1c-a782-8e212f46565e",
+                    "boundaryNum": 1,
+                    "name": "Saini wali Gali - B13 - A1",
+                    "localname": "Saini wali Gali - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_17",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "12a378f2-924d-4eb2-a72a-a54af1055099",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar - B13 - A1",
+                    "localname": "Main Bazar - B13 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_25",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6c8a902f-7ce5-427a-83a4-0f61d71c54e4",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z2",
+            "children": [
+              {
+                "id": "03fe0d5a-b9d5-4299-83f9-3167de52e6c2",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "736d00b7-8df4-4172-afce-9b276066b2db",
+                    "boundaryNum": 1,
+                    "name": "Sec-1( T1) - B1 - A1",
+                    "localname": "Sec-1( T1) - B1 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_1",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "d8ccdc78-b6e7-45b2-9335-17bd1e15ddc6",
+                    "boundaryNum": 1,
+                    "name": "Backside gas godown - B1 - A2",
+                    "localname": "Backside gas godown - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_21",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "aed8c7a5-b768-4a4a-9230-665f8d5518f9",
+                    "boundaryNum": 1,
+                    "name": "Bhatta Road - B1 - A2",
+                    "localname": "Bhatta Road - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_22",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "d75d034c-2021-45e5-b31d-367451aee989",
+                    "boundaryNum": 1,
+                    "name": "Kharati mohalla - B1 - A2",
+                    "localname": "Kharati mohalla - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_23",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "5ad41f72-f00e-4a64-955b-49245e3e0242",
+                    "boundaryNum": 1,
+                    "name": "Dosarka - B1 - A2",
+                    "localname": "Dosarka - B1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_24",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20b92586-cac2-4cc6-9604-de3aab1cfedf",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "26f62172-eac8-4ec2-a4e5-7f196b386f91",
+                    "boundaryNum": 1,
+                    "name": "Deepak Rana wali Gali - B2 - A2",
+                    "localname": "Deepak Rana wali Gali - B2 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_26",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "53d99d52-a6f4-42d9-968a-fbe4695b2e06",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "67d42946-3d9b-4a26-96a8-5344f33b6d4f",
+                    "boundaryNum": 1,
+                    "name": "Vashisht Vihar - B3 - A1",
+                    "localname": "Vashisht Vihar - B3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_9",
+                    "area": "AREA1",
+                    "children": []
+                  },
+                  {
+                    "id": "1146d3b0-926a-4feb-b0e5-028bd8a8249f",
+                    "boundaryNum": 1,
+                    "name": "Sandpur No.1 - B3 - A2",
+                    "localname": "Sandpur No.1 - B3 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_27",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26d6d1ef-6075-4700-88f7-6224990d4e67",
+                "boundaryNum": 1,
+                "name": "Block 4a",
+                "localname": "Block 4a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4(a)",
+                "children": [
+                  {
+                    "id": "e66e98dd-373b-46a1-beb8-0c80439a29d2",
+                    "boundaryNum": 1,
+                    "name": "Nagar - B4(a) - A2",
+                    "localname": "Nagar - B4(a) - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_11",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "27641be8-8a49-43ff-a7c4-953b4c7918fa",
+                    "boundaryNum": 1,
+                    "name": "Indra Colony - B4(a) - A2",
+                    "localname": "Indra Colony - B4(a) - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_14",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "cc403ee4-a608-4421-9700-6255e8268683",
+                    "boundaryNum": 1,
+                    "name": "Sandpur No.3 - B4(a) - A2",
+                    "localname": "Sandpur No.3 - B4(a) - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_15",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "54136bfa-0c8e-40ce-a08b-3d092d97b036",
+                    "boundaryNum": 1,
+                    "name": "Sandpur No.2 - B4(a) - A2",
+                    "localname": "Sandpur No.2 - B4(a) - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_28",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9d521841-5b76-405b-ac85-b3dfea0c57c6",
+                "boundaryNum": 1,
+                "name": "Block 13a",
+                "localname": "Block 13a",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B13(a)",
+                "children": [
+                  {
+                    "id": "a963d7b2-822c-466f-ac7b-3cf229ad697b",
+                    "boundaryNum": 1,
+                    "name": "Public High School - B13(a) - A2",
+                    "localname": "Public High School - B13(a) - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_18",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "7e184555-a1f9-4bf4-978a-55ddb059ffe0",
+                    "boundaryNum": 1,
+                    "name": "Ved Mohalla - B13(a) - A2",
+                    "localname": "Ved Mohalla - B13(a) - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_19",
+                    "area": "AREA2",
+                    "children": []
+                  },
+                  {
+                    "id": "95aebd72-6790-4f0a-bbb6-519187763bc3",
+                    "boundaryNum": 1,
+                    "name": "Stadium mohalla - B13(a) - A2",
+                    "localname": "Stadium mohalla - B13(a) - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_20",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Talwara",
+        "localname": "Talwara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.talwara",
+        "children": [
+          {
+            "id": "e31b1dbd-5660-45ae-b40f-7c9373a34bd3",
+            "boundaryNum": 1,
+            "name": "Talwara",
+            "localname": "Talwara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "TAL",
+            "children": [
+              {
+                "id": "f7ca32b0-bce0-4aa7-88ef-2e49a08989c9",
+                "boundaryNum": 1,
+                "name": "Ward_1",
+                "localname": "Ward_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 1",
+                "children": [
+                  {
+                    "id": "842cf08e-22ac-4254-b025-81951ab16854",
+                    "boundaryNum": 1,
+                    "name": "Sec-1( T1) - Ward_1",
+                    "localname": "Sec-1( T1) - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_1",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "95be465b-9418-4de5-a764-30597765229d",
+                    "boundaryNum": 1,
+                    "name": "Backside gas godown - Ward_1",
+                    "localname": "Backside gas godown - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_19",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7a7cdb12-1d0b-41f5-ac32-674e31fb505e",
+                    "boundaryNum": 1,
+                    "name": "Bhatta Road - Ward_1",
+                    "localname": "Bhatta Road - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_20",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "1106f908-1805-4b76-aa7b-017a929f99af",
+                    "boundaryNum": 1,
+                    "name": "Kharati mohalla - Ward_1",
+                    "localname": "Kharati mohalla - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_21",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7fed567e-bf87-4641-a9b5-1c187b44fda7",
+                    "boundaryNum": 1,
+                    "name": "Dosarka - Ward_1",
+                    "localname": "Dosarka - Ward_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_22",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "c2518cbe-5006-47e3-92ea-c5aa38bebcba",
+                "boundaryNum": 1,
+                "name": "Ward_2",
+                "localname": "Ward_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 2",
+                "children": [
+                  {
+                    "id": "ea94a593-7545-4714-a739-49c822b518cb",
+                    "boundaryNum": 1,
+                    "name": "Deepak Rana wali Gali - Ward_2",
+                    "localname": "Deepak Rana wali Gali - Ward_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_24",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "afefe9a6-de24-4cff-9fa4-211177fa1d39",
+                "boundaryNum": 1,
+                "name": "Ward_3",
+                "localname": "Ward_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 3",
+                "children": [
+                  {
+                    "id": "d2186b8f-ce79-4c95-966a-9adc92301205",
+                    "boundaryNum": 1,
+                    "name": "Vashisht Vihar - Ward_3",
+                    "localname": "Vashisht Vihar - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_8",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3d73a032-6070-4c78-ada7-0ec301495fd6",
+                    "boundaryNum": 1,
+                    "name": "Sandpur No.1 - Ward_3",
+                    "localname": "Sandpur No.1 - Ward_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_25",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8c756876-baf3-4050-9591-872cb5b8bd3e",
+                "boundaryNum": 1,
+                "name": "Ward_4",
+                "localname": "Ward_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 4",
+                "children": [
+                  {
+                    "id": "3aa67040-f694-4162-b5b2-d6a2d40fed2b",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar W4 - Ward_4",
+                    "localname": "Main Bazar W4 - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_6",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "78f90061-9f29-4d4a-827f-325d1bc44cae",
+                    "boundaryNum": 1,
+                    "name": "Thakur colony - Ward_4",
+                    "localname": "Thakur colony - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_9",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "04bed5c1-4f43-42fe-9746-25723954a3d9",
+                    "boundaryNum": 1,
+                    "name": "Nagar - Ward_4",
+                    "localname": "Nagar - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_10",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3039513e-a58c-4861-9a38-c1b40032f3e0",
+                    "boundaryNum": 1,
+                    "name": "Indra Colony - Ward_4",
+                    "localname": "Indra Colony - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_12",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f92ef89b-567d-4e7e-8f0e-3198b0196216",
+                    "boundaryNum": 1,
+                    "name": "Sandpur No.3 - Ward_4",
+                    "localname": "Sandpur No.3 - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_13",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "f0c0d4c2-83d8-4f5d-9416-f30cc4f1d4f6",
+                    "boundaryNum": 1,
+                    "name": "Sandpur No.2 - Ward_4",
+                    "localname": "Sandpur No.2 - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_26",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "40e62db0-846b-46e2-8156-d75ec279e68d",
+                    "boundaryNum": 1,
+                    "name": "Dam Road kesri hotel side - Ward_4",
+                    "localname": "Dam Road kesri hotel side - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_36",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4727f311-ca95-4d5f-9bb1-21dc28fb67cb",
+                    "boundaryNum": 1,
+                    "name": "Thakur colony - Ward_4",
+                    "localname": "Thakur colony - Ward_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_37",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4a3a4f29-8f79-419f-80b2-c8e0012293cb",
+                "boundaryNum": 1,
+                "name": "Ward_5",
+                "localname": "Ward_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 5",
+                "children": [
+                  {
+                    "id": "a94d8936-cf07-48f6-9046-7b693277e3d5",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar W5 - Ward_5",
+                    "localname": "Main Bazar W5 - Ward_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_7",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "d58f8369-5747-4054-8313-737be7cbe4af",
+                    "boundaryNum": 1,
+                    "name": "Kamal wali Gali to Capsul wali Gali - Ward_5",
+                    "localname": "Kamal wali Gali to Capsul wali Gali - Ward_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_11",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8b30dba5-020b-465f-b705-2fabf546f48c",
+                    "boundaryNum": 1,
+                    "name": "Sector -1 - Ward_5",
+                    "localname": "Sector -1 - Ward_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_28",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25301541-3e2a-4bab-b509-aa06e8ff7bea",
+                "boundaryNum": 1,
+                "name": "Ward_6",
+                "localname": "Ward_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 6",
+                "children": [
+                  {
+                    "id": "cce4b43d-6766-49cc-bfe9-183516d23d31",
+                    "boundaryNum": 1,
+                    "name": "Sector -1( Park Mohalla) - Ward_6",
+                    "localname": "Sector -1( Park Mohalla) - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_29",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "c8caef9e-c0fd-43df-bbb9-329564f1c587",
+                    "boundaryNum": 1,
+                    "name": "Sector -2 (SCF Quarter) - Ward_6",
+                    "localname": "Sector -2 (SCF Quarter) - Ward_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_30",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96608983-f097-4c70-8993-477a6b80a158",
+                "boundaryNum": 1,
+                "name": "Ward_7",
+                "localname": "Ward_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 7",
+                "children": [
+                  {
+                    "id": "fd178f4e-4901-4134-a219-3f52cce12a1a",
+                    "boundaryNum": 1,
+                    "name": "Sec-3 W7 - Ward_7",
+                    "localname": "Sec-3 W7 - Ward_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_31",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e8dc26a3-9ff8-4cc8-b863-9b56600d6556",
+                "boundaryNum": 1,
+                "name": "Ward_8",
+                "localname": "Ward_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 8",
+                "children": [
+                  {
+                    "id": "6e0cff5f-e2ae-41ff-bc05-066877f5c6ff",
+                    "boundaryNum": 1,
+                    "name": "Sec-3 W8 - Ward_8",
+                    "localname": "Sec-3 W8 - Ward_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_32",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "de695175-0f84-4a7f-af9d-57b511747c3d",
+                    "boundaryNum": 1,
+                    "name": "EV Colony - Ward_8",
+                    "localname": "EV Colony - Ward_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_34",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57a94193-d825-4f90-8f79-a26c0ee14803",
+                "boundaryNum": 1,
+                "name": "Ward_9",
+                "localname": "Ward_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 9",
+                "children": [
+                  {
+                    "id": "8c065fcd-57a5-4670-b027-79132e02fd16",
+                    "boundaryNum": 1,
+                    "name": "Sec-3 W9 - Ward_9",
+                    "localname": "Sec-3 W9 - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_33",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "4e65de7b-cd14-49e5-a9b5-67d1468853d5",
+                    "boundaryNum": 1,
+                    "name": "Jhuggi colony - Ward_9",
+                    "localname": "Jhuggi colony - Ward_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_35",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8035fa67-9aad-4040-990e-92fb98035407",
+                "boundaryNum": 1,
+                "name": "Ward_10",
+                "localname": "Ward_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 10",
+                "children": []
+              },
+              {
+                "id": "6ec05933-a55e-427a-804f-90979cc4eb7b",
+                "boundaryNum": 1,
+                "name": "Ward_11",
+                "localname": "Ward_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 11",
+                "children": [
+                  {
+                    "id": "ce333307-fbad-4b6c-a9f9-9502aee6fc8c",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar near water works - Ward_11",
+                    "localname": "Main Bazar near water works - Ward_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_27",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "4c3bf0e0-bfe9-4590-8034-2059626166e4",
+                "boundaryNum": 1,
+                "name": "Ward_12",
+                "localname": "Ward_12",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 12",
+                "children": [
+                  {
+                    "id": "2043725c-e3a2-4299-9b84-08552755f7fc",
+                    "boundaryNum": 1,
+                    "name": "Subash Nagar - Ward_12",
+                    "localname": "Subash Nagar - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_2",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "168a83bc-e164-41f8-bfe8-da1345c42f3b",
+                    "boundaryNum": 1,
+                    "name": "Adarsh Nagar, - Ward_12",
+                    "localname": "Adarsh Nagar, - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_3",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "3e0b255e-fcb0-4fd6-870f-1189ff99c392",
+                    "boundaryNum": 1,
+                    "name": "Model Town. - Ward_12",
+                    "localname": "Model Town. - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_4",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "0aa641d3-b634-4657-9a9c-20623d37c7f4",
+                    "boundaryNum": 1,
+                    "name": "Sunder Vihar - Ward_12",
+                    "localname": "Sunder Vihar - Ward_12",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "371df800-f788-45a8-88e2-716aacff331d",
+                "boundaryNum": 1,
+                "name": "Ward_13",
+                "localname": "Ward_13",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 13",
+                "children": [
+                  {
+                    "id": "a363aef5-9885-4080-9486-c563ed5290aa",
+                    "boundaryNum": 1,
+                    "name": "Vidya Enclave W13 - Ward_13",
+                    "localname": "Vidya Enclave W13 - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_14",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "fa254919-8206-486d-9c6c-7872b4d4dfd7",
+                    "boundaryNum": 1,
+                    "name": "Saini wali Gali - Ward_13",
+                    "localname": "Saini wali Gali - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_15",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "8267c874-1b10-4c8d-9258-f1508b83b44f",
+                    "boundaryNum": 1,
+                    "name": "Public High School - Ward_13",
+                    "localname": "Public High School - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_16",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "5cbb800b-d407-4c78-bdf9-3c70cdb705f3",
+                    "boundaryNum": 1,
+                    "name": "Ved Mohalla - Ward_13",
+                    "localname": "Ved Mohalla - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_17",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "bef9b2c1-4372-4591-9f21-27e0d8137faf",
+                    "boundaryNum": 1,
+                    "name": "Stadium mohalla - Ward_13",
+                    "localname": "Stadium mohalla - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_18",
+                    "area": "",
+                    "children": []
+                  },
+                  {
+                    "id": "14f569c7-a927-42b8-b32f-c2c946573f7b",
+                    "boundaryNum": 1,
+                    "name": "Main Bazar W13 - Ward_13",
+                    "localname": "Main Bazar W13 - Ward_13",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "TAL_23",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

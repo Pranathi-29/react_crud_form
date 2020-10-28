@@ -1,0 +1,594 @@
+{
+  "tenantId": "pb.arniwala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "arniwala",
+        "localname": "arniwala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.arniwala",
+        "children": [
+          {
+            "id": "1f267fb7-96fb-43bf-8ec8-4cec5e91c8f8",
+            "boundaryNum": 1,
+            "name": "Zone1",
+            "localname": "Zone1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ARN1",
+            "children": [
+              {
+                "id": "ce16bee3-500d-4d05-8b13-d91381e92ed7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD1",
+                "children": [
+                  {
+                    "id": "a40e0f23-c681-4ad1-bf3e-c8b79917db6c",
+                    "boundaryNum": 1,
+                    "name": "Dhani Visakha Singh - WARD_1",
+                    "localname": "Dhani Visakha Singh - WARD_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC1",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "a560fd20-6487-4a72-bbff-45def889ab6d",
+                "boundaryNum": 1,
+                "name": "WARD_2",
+                "localname": "WARD_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD2",
+                "children": [
+                  {
+                    "id": "68ca65a0-e170-40d1-abbd-6b00a1093297",
+                    "boundaryNum": 1,
+                    "name": "Pond Side - WARD_2",
+                    "localname": "Pond Side - WARD_2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC2",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12408b37-0947-4715-9044-13b7ebd5ba9c",
+                "boundaryNum": 1,
+                "name": "WARD_3",
+                "localname": "WARD_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD3",
+                "children": [
+                  {
+                    "id": "c8228262-037b-4f5d-bf3f-7c7adffd0d6d",
+                    "boundaryNum": 1,
+                    "name": "Main Bus Stand Road - WARD_3",
+                    "localname": "Main Bus Stand Road - WARD_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC3",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3da0f4c5-bd83-4b4b-856d-e6848954ab68",
+                "boundaryNum": 1,
+                "name": "WARD_4",
+                "localname": "WARD_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD4",
+                "children": [
+                  {
+                    "id": "5fb46426-30f0-48c6-b6d3-ec4ef794136e",
+                    "boundaryNum": 1,
+                    "name": "Batra Mohalla - WARD_4",
+                    "localname": "Batra Mohalla - WARD_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC4",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8dc1686d-cf70-4dad-a0dc-fb6fab41ec7a",
+                "boundaryNum": 1,
+                "name": "WARD_5",
+                "localname": "WARD_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD5",
+                "children": [
+                  {
+                    "id": "b25cd393-592e-467d-9782-d52358ea9b7b",
+                    "boundaryNum": 1,
+                    "name": "Jeewan Singh Nagar - WARD_5",
+                    "localname": "Jeewan Singh Nagar - WARD_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC5",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6ce4d9fc-cce1-4ee3-9405-abb940d917d2",
+                "boundaryNum": 1,
+                "name": "WARD_6",
+                "localname": "WARD_6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD6",
+                "children": [
+                  {
+                    "id": "e730b870-1080-4576-9ec5-4fae9b97d4ee",
+                    "boundaryNum": 1,
+                    "name": "Firni Road and Dabwali Road - WARD_6",
+                    "localname": "Firni Road and Dabwali Road - WARD_6",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC6",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "b15016da-97c6-4f45-809e-c676d89ba05e",
+                "boundaryNum": 1,
+                "name": "WARD_7",
+                "localname": "WARD_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD7",
+                "children": [
+                  {
+                    "id": "d7e48e1b-93c1-4a42-8e25-329705bcf0eb",
+                    "boundaryNum": 1,
+                    "name": "Tibba Basti - WARD_7",
+                    "localname": "Tibba Basti - WARD_7",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC7",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d6e0abb8-1001-4ab3-ac68-e7c84c2e47a1",
+                "boundaryNum": 1,
+                "name": "WARD_8",
+                "localname": "WARD_8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD8",
+                "children": [
+                  {
+                    "id": "5c6441b0-0f22-4431-8306-296922a84a1b",
+                    "boundaryNum": 1,
+                    "name": "Panchayati Gurudwara Mohalla - WARD_8",
+                    "localname": "Panchayati Gurudwara Mohalla - WARD_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC8",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "caf5a62c-adc6-40e5-8be9-2188a5fe65a7",
+                "boundaryNum": 1,
+                "name": "WARD_9",
+                "localname": "WARD_9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD9",
+                "children": [
+                  {
+                    "id": "f16a7bf8-63c9-42df-8ac9-0b3024caf080",
+                    "boundaryNum": 1,
+                    "name": "OBC Bank Back Side - WARD_9",
+                    "localname": "OBC Bank Back Side - WARD_9",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC9",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "bdfba456-aa27-4134-b943-f07b5922622b",
+                "boundaryNum": 1,
+                "name": "WARD_10",
+                "localname": "WARD_10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD10",
+                "children": [
+                  {
+                    "id": "2634a8f4-9eb7-45c9-bee9-a3151713b584",
+                    "boundaryNum": 1,
+                    "name": "Near Police Station - WARD_10",
+                    "localname": "Near Police Station - WARD_10",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC10",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "be603cfb-2e36-41ed-8b9d-a4f7b437dc1c",
+                "boundaryNum": 1,
+                "name": "WARD_11",
+                "localname": "WARD_11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD11",
+                "children": [
+                  {
+                    "id": "a3676373-2fa7-4dc2-b1f7-a771dd2f40c1",
+                    "boundaryNum": 1,
+                    "name": "Water Works Dhani - WARD_11",
+                    "localname": "Water Works Dhani - WARD_11",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC11",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Arniwala",
+        "localname": "Arniwala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pb.arniwala",
+        "children": [
+          {
+            "id": "66df8e67-bd2e-4430-ab2a-d0d8b1422936",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "16037e9e-e7d6-499e-9f31-de224a102855",
+                "boundaryNum": 1,
+                "name": "Block 1",
+                "localname": "Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B1",
+                "children": [
+                  {
+                    "id": "e6b867cd-094d-4c0e-84aa-dc7b7027d8ea",
+                    "boundaryNum": 1,
+                    "name": "Dhani Visakha singh - Block 1 - A2",
+                    "localname": "Dhani Visakha singh - Block 1 - A2",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC1",
+                    "area": "AREA2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60d7c993-2265-4731-9213-301a303ea258",
+                "boundaryNum": 1,
+                "name": "Block 2",
+                "localname": "Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B2",
+                "children": [
+                  {
+                    "id": "8caecd61-f81c-4a44-8dee-6f7b4aa19a06",
+                    "boundaryNum": 1,
+                    "name": "Pond side - Block 2 - A1",
+                    "localname": "Pond side - Block 2 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC2",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "e7d49cf8-eb5e-4102-9f3e-a1bf23b2f9c5",
+                "boundaryNum": 1,
+                "name": "Block 3",
+                "localname": "Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B3",
+                "children": [
+                  {
+                    "id": "d1b790c9-1923-43bb-af38-7b7b3f51d0e8",
+                    "boundaryNum": 1,
+                    "name": "Main Bus stand Road - Block 3 - A1",
+                    "localname": "Main Bus stand Road - Block 3 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC3",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3ac841b9-6cb7-4daa-9b3e-a6c5bdd27fdd",
+                "boundaryNum": 1,
+                "name": "Block 4",
+                "localname": "Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B4",
+                "children": [
+                  {
+                    "id": "e23cbfd2-7532-43db-a3f1-a790c137af3b",
+                    "boundaryNum": 1,
+                    "name": "Batra Mohalla - Block 4 - A1",
+                    "localname": "Batra Mohalla - Block 4 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC4",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0c20774b-7b6c-44c0-9f04-59a7a2507de8",
+                "boundaryNum": 1,
+                "name": "Block 5",
+                "localname": "Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B5",
+                "children": [
+                  {
+                    "id": "3ac37cc8-c2e9-47ee-8ced-7cfec59acaff",
+                    "boundaryNum": 1,
+                    "name": "Jeewan Singh Nagar - Block 5 - A1",
+                    "localname": "Jeewan Singh Nagar - Block 5 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC5",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cf83c5d6-e82a-4215-9737-653d998040a9",
+                "boundaryNum": 1,
+                "name": "Block 6",
+                "localname": "Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B6",
+                "children": [
+                  {
+                    "id": "9013ba69-7356-47b9-9986-7e51c6118c36",
+                    "boundaryNum": 1,
+                    "name": "Firni Road and Dabwali Road - Block 6 - A1",
+                    "localname": "Firni Road and Dabwali Road - Block 6 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC6",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "196e2b7e-24f4-482a-af04-f0ecb7a0dc1f",
+                "boundaryNum": 1,
+                "name": "Block 7",
+                "localname": "Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B7",
+                "children": [
+                  {
+                    "id": "63d41b3c-9827-4623-8b52-f71c68b9e373",
+                    "boundaryNum": 1,
+                    "name": "Tibba Basti - Block 7 - A1",
+                    "localname": "Tibba Basti - Block 7 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC7",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94b6b086-fea8-44a3-900d-9b9eea73ccb2",
+                "boundaryNum": 1,
+                "name": "Block 8",
+                "localname": "Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B8",
+                "children": [
+                  {
+                    "id": "78db4b27-cf43-44d0-b00d-9b02d5e5b1c0",
+                    "boundaryNum": 1,
+                    "name": "Panchayati Gurudwara Mohalla - Block 8 - A1",
+                    "localname": "Panchayati Gurudwara Mohalla - Block 8 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC8",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6aed0271-39ab-4292-9f5f-42aa442d8cf2",
+                "boundaryNum": 1,
+                "name": "Block 9",
+                "localname": "Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B9",
+                "children": [
+                  {
+                    "id": "bc9e9835-ea87-4f0a-ab6e-e611741125fd",
+                    "boundaryNum": 1,
+                    "name": "OBC bank back side - Block 9 - A1",
+                    "localname": "OBC bank back side - Block 9 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC9",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "0d0f1f0e-af15-4173-a4b9-44b16a9aebb3",
+                "boundaryNum": 1,
+                "name": "Block 10",
+                "localname": "Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B10",
+                "children": [
+                  {
+                    "id": "f4c65e3a-a0c9-4003-aa9c-9d3399dae222",
+                    "boundaryNum": 1,
+                    "name": "Near Police Station - Block 10 - A1",
+                    "localname": "Near Police Station - Block 10 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC10",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "d2dddbff-391c-4082-8f03-61a6dcf7acb6",
+                "boundaryNum": 1,
+                "name": "Block 11",
+                "localname": "Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "B11",
+                "children": [
+                  {
+                    "id": "8e855691-16f6-4c44-942c-b084e17c2999",
+                    "boundaryNum": 1,
+                    "name": "Water Works Dhani - Block 11 - A1",
+                    "localname": "Water Works Dhani - Block 11 - A1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALC11",
+                    "area": "AREA1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
